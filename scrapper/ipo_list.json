@@ -38,55 +38,55 @@
   {
     "company": "Super Madi Hydropower Limited",
     "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "type": "Ordinary",
+    "open_date": "2022/12/06",
+    "close_date": "2022/12/20",
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Open"
   },
   {
     "company": "Kalinchowk Darshan Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "228000",
+    "type": "Ordinary",
+    "open_date": "2022/11/30",
+    "close_date": "2022/12/14",
+    "issue_manager": "Nabil Investment Banking Linited",
+    "status": "Open"
   },
   {
     "company": "Peoples Hydropower Company Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "5606390",
+    "type": "Ordinary",
+    "open_date": "2022/11/11",
+    "close_date": "2022/11/15",
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Closed"
   },
   {
     "company": "Barahi Hydropower Public Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "250000",
+    "type": "Ordinary",
+    "open_date": "2022/10/21",
+    "close_date": "2022/11/11",
+    "issue_manager": "NIBL Ace Capital Limited",
+    "status": "Closed"
   },
   {
     "company": "Eastern Hydropower Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "670310",
+    "type": "Ordinary",
+    "open_date": "2022/10/14",
+    "close_date": "2022/10/19",
+    "issue_manager": "NMB Capital Limited",
+    "status": "Closed"
   },
   {
     "company": "Peoples Hydropower Company Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "3200000",
+    "type": "Ordinary",
+    "open_date": "2022/09/16",
+    "close_date": "2022/10/16",
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Closed"
   }
 ]
