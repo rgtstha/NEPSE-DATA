@@ -2,63 +2,63 @@
   {
     "company": "Asian Hydropower Limited",
     "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "type": "Ordinary",
+    "open_date": "2022/12/13",
+    "close_date": "2022/12/27",
+    "issue_manager": "NMB Capital Limited",
+    "status": "Coming Soon"
   },
   {
     "company": "Maya Khola Hydropower Company Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "1240000",
+    "type": "Ordinary",
+    "open_date": "2022/12/09",
+    "close_date": "2022/12/23",
+    "issue_manager": "Prabhu Capital Limited",
+    "status": "Open"
   },
   {
     "company": "Supermai Hydropower Company Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "1050000",
+    "type": "Ordinary",
+    "open_date": "2022/12/07",
+    "close_date": "2022/12/21",
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Open"
   },
   {
     "company": "Barahi Hydropower Public Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "554000",
+    "type": "Ordinary",
+    "open_date": "2022/12/07",
+    "close_date": "2022/12/12",
+    "issue_manager": "NIBL Ace Capital Limited",
+    "status": "Open"
   },
   {
     "company": "Super Madi Hydropower Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "1260000",
+    "type": "Ordinary",
+    "open_date": "2022/12/06",
+    "close_date": "2022/12/20",
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Open"
   },
   {
     "company": "Kalinchowk Darshan Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "228000",
+    "type": "Ordinary",
+    "open_date": "2022/11/30",
+    "close_date": "2022/12/14",
+    "issue_manager": "Nabil Investment Banking Linited",
+    "status": "Open"
   },
   {
     "company": "Peoples Hydropower Company Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
+    "quantity": "5606390",
+    "type": "Ordinary",
+    "open_date": "2022/11/11",
+    "close_date": "2022/11/15",
     "issue_manager": "Sanima Capital Limited",
     "status": "Closed"
   },
