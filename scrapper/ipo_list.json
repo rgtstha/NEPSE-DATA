@@ -59,34 +59,34 @@
     "type": "",
     "open_date": "",
     "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Closed"
   },
   {
     "company": "Barahi Hydropower Public Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "250000",
+    "type": "Ordinary",
+    "open_date": "2022/10/21",
+    "close_date": "2022/11/11",
+    "issue_manager": "NIBL Ace Capital Limited",
+    "status": "Closed"
   },
   {
     "company": "Eastern Hydropower Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "670310",
+    "type": "Ordinary",
+    "open_date": "2022/10/14",
+    "close_date": "2022/10/19",
+    "issue_manager": "NMB Capital Limited",
+    "status": "Closed"
   },
   {
     "company": "Peoples Hydropower Company Limited",
-    "quantity": "",
-    "type": "",
-    "open_date": "",
-    "close_date": "",
-    "issue_manager": "",
-    "status": ""
+    "quantity": "3200000",
+    "type": "Ordinary",
+    "open_date": "2022/09/16",
+    "close_date": "2022/10/16",
+    "issue_manager": "Sanima Capital Limited",
+    "status": "Closed"
   }
 ]
