@@ -22,15 +22,16 @@ jobs:
       - name: Setup Python Environment
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9.14'
+          python-version: '3.9'
+          cache: 'pip'
       
       - name: Install Dependencies
         run: |
-          pip3 install -r requirements.txt
+          pip install -r requirements.txt
       
       - name: Execute Scraping Script
         run: |
-          python3 ipo_scrapper.py
+          python ipo_scrapper.py
       - name: Commit and Push Files
         run: |
            git config --local user.email "rangeetshrestha12@gmail.com"
