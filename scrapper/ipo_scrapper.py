@@ -12,9 +12,15 @@ def scrap_upcoming_ipos(driver, url):
     # empty list to store IPO objects
     ipos = []
     driver.get(url)
+    
+    try:
+        # Continue to website button 
+        close = driver.find_element(By.ID, 'close')
+        print(close.text)
+        close.click()
+    except:
+        pass
 
-    # wait for the page to load
-    driver.implicitly_wait(10)
     # find the table containing the IPO information
     table = driver.find_element(By.ID, 'ctl00_ContentPlaceHolder1_divIPO')
 
