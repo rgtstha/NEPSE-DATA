@@ -66,15 +66,7 @@ def main():
     with open('ipo_list.json', 'w') as f:
         json.dump(ipo_list, f, indent=2)
 
-
-
     driver.quit()
-
-
-
-
-
-   
 
 if __name__ == "__main__":
     main()
