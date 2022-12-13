@@ -1,7 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 import json
+import sys
 
 
 def trim_date(date):
@@ -9,24 +12,19 @@ def trim_date(date):
     return date.split(' ')[0]
 
 def scrap_upcoming_ipos(driver, url):
+    print('Scraping upcoming ipos from {}'.format(url))
     # empty list to store IPO objects
     ipos = []
     driver.get(url)
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.ID, "ctl00_ContentPlaceHolder1_divIPO"))
+    )
     
-    try:
-        # Continue to website button 
-        close = driver.find_element(By.ID, 'close')
-        print(close.text)
-        close.click()
-    except:
-        pass
 
     # find the table containing the IPO information
     table = driver.find_element(By.ID, 'ctl00_ContentPlaceHolder1_divIPO')
-
     # find all rows in the table
     rows = table.find_elements(By.TAG_NAME, 'tr')
-
     # skip the first row (header row)
     for row in rows[1:]:
         # find all cells in the row
