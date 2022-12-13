@@ -22,7 +22,7 @@ jobs:
       - name: Setup Python Environment
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9.2'
+          python-version: '3.9.14'
       
       - name: Install Dependencies
         run: |
