@@ -50,5 +50,5 @@ jobs:
            git config --local user.email "rangeetshrestha12@gmail.com"
            git config --local user.name "Ranjit Shrestha"        
            git add .
-           git commit -am --allow-empty "IPO scrapper ran at $(date)"
+           git commit --allow-empty -am "IPO scrapper ran at $(date)"
            git push origin main
