@@ -51,4 +51,5 @@ jobs:
            git config --local user.name "Ranjit Shrestha"        
            git add .
            git commit --allow-empty -am "IPO scrapper ran at $(date)"
+           git pull origin main
            git push origin main
