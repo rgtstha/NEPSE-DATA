@@ -33,6 +33,11 @@ jobs:
         run: |
           python ipo_scrapper.py
 
+      # change working directory to root
+      - name: Change Working Directory
+        run: |
+          cd ..
+
       - name: Check for Changes
         id: check_changes
         run: |
