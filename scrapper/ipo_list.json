@@ -1,12 +1,21 @@
 [
   {
+    "company": "Molung Hydropower Company Limited",
+    "quantity": "1075350",
+    "type": "Ordinary",
+    "open_date": "2023/01/03",
+    "close_date": "2023/01/17",
+    "issue_manager": "Sunrise Capital Limited",
+    "status": "Coming Soon"
+  },
+  {
     "company": "Shuvam Power Company Limited",
     "quantity": "58058",
     "type": "Ordinary",
     "open_date": "2022/12/21",
     "close_date": "2023/01/04",
     "issue_manager": "Muktinath Capital Limited",
-    "status": "Coming Soon"
+    "status": "Open"
   },
   {
     "company": "Asian Hydropower Limited",
@@ -19,19 +28,19 @@
   },
   {
     "company": "Maya Khola Hydropower Company Limited",
-    "quantity": "1240000",
+    "quantity": "1000000",
     "type": "Ordinary",
     "open_date": "2022/12/09",
-    "close_date": "2022/12/23",
+    "close_date": "2023/01/01",
     "issue_manager": "Prabhu Capital Limited",
     "status": "Open"
   },
   {
     "company": "Supermai Hydropower Company Limited",
-    "quantity": "1050000",
+    "quantity": "500000",
     "type": "Ordinary",
     "open_date": "2022/12/07",
-    "close_date": "2022/12/21",
+    "close_date": "2023/01/05",
     "issue_manager": "Sanima Capital Limited",
     "status": "Open"
   },
@@ -49,9 +58,9 @@
     "quantity": "1050000",
     "type": "Ordinary",
     "open_date": "2022/12/06",
-    "close_date": "2023/01/04",
+    "close_date": "2022/12/22",
     "issue_manager": "Sanima Capital Limited",
-    "status": "Open"
+    "status": "Closed"
   },
   {
     "company": "Kalinchowk Darshan Limited",
@@ -78,15 +87,6 @@
     "open_date": "2022/10/21",
     "close_date": "2022/11/11",
     "issue_manager": "NIBL Ace Capital Limited",
-    "status": "Closed"
-  },
-  {
-    "company": "Eastern Hydropower Limited",
-    "quantity": "670310",
-    "type": "Ordinary",
-    "open_date": "2022/10/14",
-    "close_date": "2022/10/19",
-    "issue_manager": "NMB Capital Limited",
     "status": "Closed"
   }
 ]
