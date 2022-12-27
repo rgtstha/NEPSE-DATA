@@ -1,92 +1,1108 @@
-[
-  {
-    "company": "Molung Hydropower Company Limited",
-    "quantity": "1075350",
-    "type": "Ordinary",
-    "open_date": "2023/01/03",
-    "close_date": "2023/01/17",
-    "issue_manager": "Sunrise Capital Limited",
-    "status": "Coming Soon"
-  },
-  {
-    "company": "Shuvam Power Company Limited",
-    "quantity": "58058",
-    "type": "Ordinary",
-    "open_date": "2022/12/21",
-    "close_date": "2023/01/04",
-    "issue_manager": "Muktinath Capital Limited",
-    "status": "Open"
-  },
-  {
-    "company": "Asian Hydropower Limited",
-    "quantity": "",
-    "type": "Ordinary",
-    "open_date": "2022/12/13",
-    "close_date": "2022/12/27",
-    "issue_manager": "NMB Capital Limited",
-    "status": "Open"
-  },
-  {
-    "company": "Maya Khola Hydropower Company Limited",
-    "quantity": "1000000",
-    "type": "Ordinary",
-    "open_date": "2022/12/09",
-    "close_date": "2023/01/01",
-    "issue_manager": "Prabhu Capital Limited",
-    "status": "Open"
-  },
-  {
-    "company": "Supermai Hydropower Company Limited",
-    "quantity": "500000",
-    "type": "Ordinary",
-    "open_date": "2022/12/07",
-    "close_date": "2023/01/05",
-    "issue_manager": "Sanima Capital Limited",
-    "status": "Open"
-  },
-  {
-    "company": "Barahi Hydropower Public Limited",
-    "quantity": "554000",
-    "type": "Ordinary",
-    "open_date": "2022/12/07",
-    "close_date": "2022/12/12",
-    "issue_manager": "NIBL Ace Capital Limited",
-    "status": "Closed"
-  },
-  {
-    "company": "Super Madi Hydropower Limited",
-    "quantity": "1050000",
-    "type": "Ordinary",
-    "open_date": "2022/12/06",
-    "close_date": "2022/12/22",
-    "issue_manager": "Sanima Capital Limited",
-    "status": "Closed"
-  },
-  {
-    "company": "Kalinchowk Darshan Limited",
-    "quantity": "228000",
-    "type": "Ordinary",
-    "open_date": "2022/11/30",
-    "close_date": "2022/12/14",
-    "issue_manager": "Nabil Investment Banking Linited",
-    "status": "Closed"
-  },
-  {
-    "company": "Peoples Hydropower Company Limited",
-    "quantity": "5606390",
-    "type": "Ordinary",
-    "open_date": "2022/11/11",
-    "close_date": "2022/11/15",
-    "issue_manager": "Sanima Capital Limited",
-    "status": "Closed"
-  },
-  {
-    "company": "Barahi Hydropower Public Limited",
-    "quantity": "250000",
-    "type": "Ordinary",
-    "open_date": "2022/10/21",
-    "close_date": "2022/11/11",
-    "issue_manager": "NIBL Ace Capital Limited",
-    "status": "Closed"
-  }
-]
+
+{
+  "ipo_list": [
+    {
+      "symbol": "BHPL",
+      "company": "Barahi Hydropower Public Limited",
+      "unit": "554,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-07",
+      "closing_date": "2022-12-12",
+      "issue_manager": "NIBL Ace Capital"
+    },
+    {
+      "symbol": "MHCL",
+      "company": "Molung Hydropower Company Limited",
+      "unit": "3,531,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Ltd."
+    },
+    {
+      "symbol": "TJVCL",
+      "company": "Trisuli Jal Vidhyut Company Limited",
+      "unit": "3,705,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-04",
+      "closing_date": "2023-03-01",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "SHUVAM",
+      "company": "Shuvam Power Limited",
+      "unit": "580,580.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Ltd"
+    },
+    {
+      "symbol": "PHCL",
+      "company": "Peoples Hydropower Company Limited",
+      "unit": "5,606,390.00",
+      "price": "100.00",
+      "opening_date": "2022-11-11",
+      "closing_date": "2022-11-15",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "EHPL",
+      "company": "Eastern Hydropower Limited",
+      "unit": "670,310.00",
+      "price": "100.00",
+      "opening_date": "2022-10-14",
+      "closing_date": "2022-10-19",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
+      "symbol": "SIKLES",
+      "company": "Sikles Hydropower Limited",
+      "unit": "1,150,000.00",
+      "price": "100.00",
+      "opening_date": "2022-09-14",
+      "closing_date": "2022-09-18",
+      "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "KLBS",
+      "company": "Khaptad Laghubitta Bittiya Sanstha Limited",
+      "unit": "132,000.00",
+      "price": "100.00",
+      "opening_date": "2022-08-24",
+      "closing_date": "2022-08-28",
+      "issue_manager": "Prabhu Capital Ltd"
+    },
+    {
+      "symbol": "SHLB",
+      "company": "Shrijanshil Laghubitta Bittiya Sanstha Limited",
+      "unit": "393,750.00",
+      "price": "100.00",
+      "opening_date": "2022-08-31",
+      "closing_date": "2022-09-04",
+      "issue_manager": "Sunrise Capital Ltd."
+    },
+    {
+      "symbol": "PPL",
+      "company": "People's Power Limited",
+      "unit": "2,467,400.00",
+      "price": "100.00",
+      "opening_date": "2022-08-16",
+      "closing_date": "2022-08-21",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "DLBS",
+      "company": "Dhaulagiri Laghubitta Bittiya Sanstha Limited",
+      "unit": "331,000.00",
+      "price": "100.00",
+      "opening_date": "2022-08-09",
+      "closing_date": "2022-08-14",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
+      "symbol": "AVYAN",
+      "company": "Aviyan Laghubitta Bittiya Sanstha Limited",
+      "unit": "975,000.00",
+      "price": "100.00",
+      "opening_date": "2022-08-03",
+      "closing_date": "2022-08-07",
+      "issue_manager": "Muktinath Capital Ltd"
+    },
+    {
+      "symbol": "SPHL",
+      "company": "Sayapatri Hydropower Limited",
+      "unit": "721,060.00",
+      "price": "100.00",
+      "opening_date": "2022-07-29",
+      "closing_date": "2022-08-02",
+      "issue_manager": "NIBL ACE Capital Limited"
+    },
+    {
+      "symbol": "MHL",
+      "company": "Mandakini Hydropower Limited",
+      "unit": "1,176,073.00",
+      "price": "100.00",
+      "opening_date": "2022-07-25",
+      "closing_date": "2022-07-28",
+      "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "UHEWA",
+      "company": "Upper Hewakhola Hydropower Company Limited",
+      "unit": "1,500,000.00",
+      "price": "100.00",
+      "opening_date": "2022-07-08",
+      "closing_date": "2022-07-13",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
+      "symbol": "RHGCL",
+      "company": "Rapti Hydro & General Construction Limited",
+      "unit": "2,366,240.00",
+      "price": "100.00",
+      "opening_date": "2022-07-13",
+      "closing_date": "2022-07-17",
+      "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "SGHC",
+      "company": "Swet-Ganga Hydropower & Construction Limited",
+      "unit": "2,389,500.00",
+      "price": "100.00",
+      "opening_date": "2022-07-20",
+      "closing_date": "2022-07-24",
+      "issue_manager": "Sanima Capital Ltd."
+    },
+    {
+      "symbol": "USHEC",
+      "company": "Upper Solu Hydro Electric Company Limited",
+      "unit": "1,957,500.00",
+      "price": "100.00",
+      "opening_date": "2022-07-04",
+      "closing_date": "2022-07-07",
+      "issue_manager": "NMB Capital Ltd."
+    },
+    {
+      "symbol": "HHL",
+      "company": "Himalayan Hydropower Limited",
+      "unit": "1,968,250.00",
+      "price": "100.00",
+      "opening_date": "2022-06-29",
+      "closing_date": "2022-07-03",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "ADLB",
+      "company": "Adarsha Laghubitta Bittiya Sanstha Limited",
+      "unit": "67,000.00",
+      "price": "100.00",
+      "opening_date": "2022-06-15",
+      "closing_date": "2022-06-19",
+      "issue_manager": "BOK Capital Market Ltd."
+    }
+  ],
+  "right_share_list": [
+    {
+      "symbol": "BARUN",
+      "company": "Barun Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "2,679,075.00",
+      "price": "100.00",
+      "opening_date": "2022-08-22",
+      "closing_date": "2022-09-16",
+      "issue_manager": "RBB Merchant Banking Limited"
+    },
+    {
+      "symbol": "RADHI",
+      "company": "Radhi Bidyut Company Limited",
+      "ratio": "1:1.4752",
+      "unit": "9,535,760.99",
+      "price": "100.00",
+      "opening_date": "2022-09-21",
+      "closing_date": "2022-10-11",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "NGPL",
+      "company": "Ngadi Group Power Limited",
+      "ratio": "1:1.5",
+      "unit": "10,603,986.00",
+      "price": "100.00",
+      "opening_date": "2022-08-03",
+      "closing_date": "2022-08-23",
+      "issue_manager": "Siddhartha Capital Ltd"
+    },
+    {
+      "symbol": "NFS",
+      "company": "Nepal Finance Limited",
+      "ratio": "1:0.70",
+      "unit": "3,454,474.28",
+      "price": "100.00",
+      "opening_date": "2022-05-20",
+      "closing_date": "2022-06-09",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "API",
+      "company": "Api Power Company Limited",
+      "ratio": "1: 0.3936",
+      "unit": "10,860,000.00",
+      "price": "100.00",
+      "opening_date": "2022-04-08",
+      "closing_date": "2022-04-28",
+      "issue_manager": "Muktinath Capital Ltd."
+    },
+    {
+      "symbol": "SICL",
+      "company": "Shikhar Insurance Company Limited",
+      "ratio": "10:3",
+      "unit": "5,275,572.00",
+      "price": "100.00",
+      "opening_date": "2022-03-15",
+      "closing_date": "2022-04-04",
+      "issue_manager": "NIBL Ace Capital Ltd"
+    },
+    {
+      "symbol": "IGI",
+      "company": "IME General Insurance Limited",
+      "ratio": "10:4",
+      "unit": "4,630,344.00",
+      "price": "100.00",
+      "opening_date": "2022-03-06",
+      "closing_date": "2022-03-27",
+      "issue_manager": "Global IME Capital Ltd."
+    },
+    {
+      "symbol": "CHL",
+      "company": "Chhyangdi Hydropower Company Limited",
+      "ratio": "10:3",
+      "unit": "893,025.00",
+      "price": "100.00",
+      "opening_date": "2022-01-25",
+      "closing_date": "2022-02-14",
+      "issue_manager": "Global IME Capital Ltd."
+    },
+    {
+      "symbol": "SFCL",
+      "company": "Samriddhi Finance Company Limited (former World Merchant Banking)",
+      "ratio": "2:1",
+      "unit": "2,729,705.00",
+      "price": "100.00",
+      "opening_date": "2022-02-20",
+      "closing_date": "2022-03-13",
+      "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "CORBL",
+      "company": "Corporate Development Bank Limited",
+      "ratio": "1:1.5",
+      "unit": "3,000,000.00",
+      "price": "100.00",
+      "opening_date": "2022-01-21",
+      "closing_date": "2022-02-25",
+      "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
+      "symbol": "NABBC",
+      "company": "Narayani Development Bank Limited",
+      "ratio": "1:1",
+      "unit": "1,312,338.00",
+      "price": "100.00",
+      "opening_date": "2021-12-23",
+      "closing_date": "2022-01-26",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "EDBL",
+      "company": "Excel Development Bank Limited",
+      "ratio": "10:3",
+      "unit": "2,433,363.67",
+      "price": "100.00",
+      "opening_date": "2021-10-11",
+      "closing_date": "2021-11-15",
+      "issue_manager": "NIBL Ace Capital"
+    },
+    {
+      "symbol": "API",
+      "company": "Api Power Company Limited",
+      "ratio": "1:0.2938",
+      "unit": "5,670,000.00",
+      "price": "100.00",
+      "opening_date": "2021-06-03",
+      "closing_date": "2021-06-27",
+      "issue_manager": "Muktinath Capital Ltd."
+    },
+    {
+      "symbol": "HIDCL",
+      "company": "Hydroelectricity Investment and Development Company Limited",
+      "ratio": "1:1",
+      "unit": "110,000,000.00",
+      "price": "100.00",
+      "opening_date": "2021-07-20",
+      "closing_date": "2021-08-24",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "AHPC",
+      "company": "Arun Valley Hydropower Development Company Limited",
+      "ratio": "1:0.5",
+      "unit": "5,241,197.00",
+      "price": "100.00",
+      "opening_date": "2021-04-19",
+      "closing_date": "2021-05-16",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "CIT",
+      "company": "Citizen Investment Trust",
+      "ratio": "100:82.84",
+      "unit": "13,592,592.00",
+      "price": "100.00",
+      "opening_date": "2021-01-12",
+      "closing_date": "2021-02-01",
+      "issue_manager": "RBB Merchant Banking Limited"
+    },
+    {
+      "symbol": "NABBC",
+      "company": "Narayani Development Bank Limited",
+      "ratio": "1:1",
+      "unit": "656,169.00",
+      "price": "100.00",
+      "opening_date": "2021-01-26",
+      "closing_date": "2021-02-15",
+      "issue_manager": "Global IME Capital Ltd."
+    },
+    {
+      "symbol": "NFS",
+      "company": "Nepal Finance Limited",
+      "ratio": "1:1.25",
+      "unit": "1,697,506.25",
+      "price": "100.00",
+      "opening_date": "2020-11-19",
+      "closing_date": "2020-12-09",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "SFCL",
+      "company": "Samriddhi Finance Company Limited (former World Merchant Banking)",
+      "ratio": "1:2",
+      "unit": "3,639,606.00",
+      "price": "100.00",
+      "opening_date": "2020-10-02",
+      "closing_date": "2020-10-22",
+      "issue_manager": "BOK Capital Limited"
+    },
+    {
+      "symbol": "SICL",
+      "company": "Shikhar Insurance Company Limited",
+      "ratio": "10:3",
+      "unit": "3,171,932.00",
+      "price": "100.00",
+      "opening_date": "2020-06-28",
+      "closing_date": "2020-07-19",
+      "issue_manager": "Nibl Ace Capital Limited"
+    }
+  ],
+  "fpo_list": [
+    {
+      "symbol": "CZBIL",
+      "company": "Citizens Bank International Limited",
+      "unit": "463,826.00",
+      "price": "200.00",
+      "opening_date": "2018-07-30",
+      "closing_date": "2018-08-03",
+      "issue_manager": "Global IME Capital Ltd."
+    },
+    {
+      "symbol": "NBL",
+      "company": "Nepal Bank Limited",
+      "unit": "17,684,858.00",
+      "price": "280.00",
+      "opening_date": "2018-06-29",
+      "closing_date": "2018-07-29",
+      "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "NMB",
+      "company": "NMB Bank Limited",
+      "unit": "11,415,163.00",
+      "price": "333.00",
+      "opening_date": "2018-06-13",
+      "closing_date": "2018-07-12",
+      "issue_manager": "Citizen Investment Trust"
+    },
+    {
+      "symbol": "BPCL",
+      "company": "Butwal Power Company Limited",
+      "unit": "4,081,000.00",
+      "price": "501.00",
+      "opening_date": "2018-01-28",
+      "closing_date": "2018-02-26",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "PIC",
+      "company": "Premier Insurance Company (Nepal) Limited",
+      "unit": "659,565.00",
+      "price": "799.00",
+      "opening_date": "2017-12-30",
+      "closing_date": "2018-01-02",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "GBLBS",
+      "company": "Grameen Bikas Laghubitta Bittiya Sanstha Limited",
+      "unit": "975,000.00",
+      "price": "100.00",
+      "opening_date": "2017-09-11",
+      "closing_date": "2017-09-14",
+      "issue_manager": "Prabhu Capital Ltd"
+    },
+    {
+      "symbol": "PFL",
+      "company": "Pokhara Finance Limited",
+      "unit": "983,682.00",
+      "price": "220.00",
+      "opening_date": "2017-08-12",
+      "closing_date": "2017-08-16",
+      "issue_manager": "NIBL Capital Market Ltd."
+    },
+    {
+      "symbol": "SCB",
+      "company": "Standard Chartered Bank Nepal Limited",
+      "unit": "2,558,140.00",
+      "price": "1,290.00",
+      "opening_date": "2017-03-13",
+      "closing_date": "2017-03-16",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "NLIC",
+      "company": "Nepal Life Insurance Company Limited",
+      "unit": "3,096,429.00",
+      "price": "1,425.00",
+      "opening_date": "2017-01-10",
+      "closing_date": "2017-01-14",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
+      "symbol": "SBI",
+      "company": "Nepal SBI Bank Limited",
+      "unit": "67,768.00",
+      "price": "971.00",
+      "opening_date": "2016-12-25",
+      "closing_date": "2016-12-28",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "NIB",
+      "company": "Nepal Investment Bank Limited",
+      "unit": "9,069,388.00",
+      "price": "601.00",
+      "opening_date": "2016-02-22",
+      "closing_date": "2016-02-25",
+      "issue_manager": "Citizen Investment Trust Ltd."
+    },
+    {
+      "symbol": "RLFL",
+      "company": "Reliance Finance Limited",
+      "unit": "514,286.00",
+      "price": "100.00",
+      "opening_date": "2015-12-19",
+      "closing_date": "2015-12-22",
+      "issue_manager": "NCM Merchant Banking Ltd."
+    },
+    {
+      "symbol": "SICL",
+      "company": "Shikhar Insurance Company Limited",
+      "unit": "510,988.00",
+      "price": "650.00",
+      "opening_date": "2015-12-02",
+      "closing_date": "2015-12-06",
+      "issue_manager": "NIBL Capital Markets Ltd."
+    }
+  ],
+  "ipo_local": [
+    {
+      "symbol": "AHL",
+      "company": "Asian Hydropower Limited",
+      "unit": "340,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-13",
+      "closing_date": "2022-12-27",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
+      "symbol": "MKHCL",
+      "company": "Maya Khola Hydropower Company Limited",
+      "unit": "1,000,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-09",
+      "closing_date": "2022-12-23",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "KDL",
+      "company": "Kalinchowk Darshan Limited",
+      "unit": "120,000.00",
+      "price": "100.00",
+      "opening_date": "2022-11-30",
+      "closing_date": "2022-12-14",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "SMHL",
+      "company": "Supermai Hydropower Limited",
+      "unit": "500,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-07",
+      "closing_date": "2023-01-05",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "SMHPL",
+      "company": "Super Madi Hydropower Limited",
+      "unit": "1,050,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-06",
+      "closing_date": "2023-01-04",
+      "issue_manager": "Sanima Capital Ltd."
+    },
+    {
+      "symbol": "BHPL",
+      "company": "Barahi Hydropower Public Limited",
+      "unit": "250,000.00",
+      "price": "100.00",
+      "opening_date": "2022-10-21",
+      "closing_date": "2022-11-11",
+      "issue_manager": "NIBL Ace Capital"
+    },
+    {
+      "symbol": "PHCL",
+      "company": "Peoples Hydropower Company Limited",
+      "unit": "3,200,000.00",
+      "price": "100.00",
+      "opening_date": "2022-09-16",
+      "closing_date": "2022-10-16",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "SJCL",
+      "company": "Sanjen Jalavidhyut Company Limited",
+      "unit": "3,650,000.00",
+      "price": "100.00",
+      "opening_date": "2022-08-21",
+      "closing_date": "2022-10-16",
+      "issue_manager": "Citizen Investment Trust"
+    },
+    {
+      "symbol": "EHPL",
+      "company": "Eastern Hydropower Limited",
+      "unit": "620,000.00",
+      "price": "100.00",
+      "opening_date": "2022-08-23",
+      "closing_date": "2022-09-13",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
+      "symbol": "SIKLES",
+      "company": "Sikles Hydropower Limited",
+      "unit": "850,000.00",
+      "price": "100.00",
+      "opening_date": "2022-07-22",
+      "closing_date": "2022-08-21",
+      "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "RHPL",
+      "company": "Rasuwagadhi Hydropower Company Limited",
+      "unit": "6,842,100.00",
+      "price": "100.00",
+      "opening_date": "2022-06-27",
+      "closing_date": "2022-08-16",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
+      "symbol": "PPL",
+      "company": "People's Power Limited",
+      "unit": "632,600.00",
+      "price": "100.00",
+      "opening_date": "2022-06-22",
+      "closing_date": "2022-07-21",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "SPHL",
+      "company": "Sayapatri Hydropower Limited",
+      "unit": "300,000.00",
+      "price": "100.00",
+      "opening_date": "2022-06-16",
+      "closing_date": "2022-07-08",
+      "issue_manager": "NIBL ACE Capital Limited"
+    },
+    {
+      "symbol": "MHL",
+      "company": "Mandakini Hydropower Limited",
+      "unit": "588,037.00",
+      "price": "100.00",
+      "opening_date": "2022-06-15",
+      "closing_date": "2022-07-06",
+      "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "SGHC",
+      "company": "Swet-Ganga Hydropower & Construction Limited",
+      "unit": "1,593,000.00",
+      "price": "100.00",
+      "opening_date": "2022-06-06",
+      "closing_date": "2022-06-20",
+      "issue_manager": "Sanima Capital Ltd."
+    },
+    {
+      "symbol": "RHGCL",
+      "company": "Rapti Hydro & General Construction Limited",
+      "unit": "612,793.00",
+      "price": "100.00",
+      "opening_date": "2022-06-07",
+      "closing_date": "2022-06-24",
+      "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "UHEWA",
+      "company": "Upper Hewakhola Hydropower Company Limited",
+      "unit": "500,000.00",
+      "price": "100.00",
+      "opening_date": "2022-05-24",
+      "closing_date": "2022-06-07",
+      "issue_manager": "NMB Capital Ltd."
+    },
+    {
+      "symbol": "USHEC",
+      "company": "Upper Solu Hydro Electric Company Limited",
+      "unit": "1,350,000.00",
+      "price": "100.00",
+      "opening_date": "2022-05-05",
+      "closing_date": "2022-06-03",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
+      "symbol": "HHL",
+      "company": "Himalayan Hydropower Limited",
+      "unit": "900,000.00",
+      "price": "100.00",
+      "opening_date": "2022-05-08",
+      "closing_date": "2022-06-06",
+      "issue_manager": "Global IME Capital Ltd."
+    },
+    {
+      "symbol": "DORDI",
+      "company": "Dordi Khola Hydropower Company Limited",
+      "unit": "1,054,260.00",
+      "price": "100.00",
+      "opening_date": "2022-04-26",
+      "closing_date": "2022-05-19",
+      "issue_manager": "Siddhartha Capital Ltd."
+    }
+  ],
+  "mutual_fund": [
+    {
+      "symbol": "SFEF",
+      "company": "Sunrise Focused Equity Fund",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Ltd."
+    },
+    {
+      "symbol": "NGF",
+      "company": "NIBL Growth Fund",
+      "unit": "160,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-12-22",
+      "closing_date": "2022-12-27",
+      "issue_manager": "NIBL Ace Capital Ltd"
+    },
+    {
+      "symbol": "NFCF",
+      "company": "Nabil Flexi Cap Fund",
+      "unit": "75,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-11-09",
+      "closing_date": "2022-11-23",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "SGF",
+      "company": "Sanima Growth Fund",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-11-02",
+      "closing_date": "2022-11-16",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "SLK",
+      "company": "Shubha Laxmi Kosh",
+      "unit": "17,500,000.00",
+      "price": "10.00",
+      "opening_date": "2022-08-04",
+      "closing_date": "2022-08-18",
+      "issue_manager": "Laxmi Capital Limited"
+    },
+    {
+      "symbol": "NSIF2",
+      "company": "NMB Sulav Investment Fund - II",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-08-11",
+      "closing_date": "2022-08-25",
+      "issue_manager": "NMB Capital Ltd."
+    },
+    {
+      "symbol": "GIBF1",
+      "company": "Global IME Balance Fund-I",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-07-06",
+      "closing_date": "2022-07-20",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "NICFC",
+      "company": "NIC Asia Flexi Cap Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-06-02",
+      "closing_date": "2022-06-08",
+      "issue_manager": "NIC Asia Capital Ltd."
+    },
+    {
+      "symbol": "KDBY",
+      "company": "Kumari Dhanabriddhi Yojana",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2022-05-26",
+      "closing_date": "2022-06-09",
+      "issue_manager": "Kumari Capital Ltd."
+    },
+    {
+      "symbol": "NBF3",
+      "company": "Nabil Balanced Fund III",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-09-10",
+      "closing_date": "2021-09-14",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
+      "symbol": "NMBSBF",
+      "company": "NMB Saral Bachat Fund - E",
+      "unit": "40,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-09-02",
+      "closing_date": "2021-09-06",
+      "issue_manager": "NMB Capital Ltd."
+    },
+    {
+      "symbol": "NICSF",
+      "company": "NIC Asia Select-30",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-06-24",
+      "closing_date": "2021-06-28",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
+      "symbol": "MMF1",
+      "company": "Mega Mutual Fund - 1",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-08-20",
+      "closing_date": "2021-08-26",
+      "issue_manager": "Mega Capital Markets Ltd"
+    },
+    {
+      "symbol": "PSF",
+      "company": "Prabhu Select Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-05-19",
+      "closing_date": "2021-05-23",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "NIBSF2",
+      "company": "NIBL Samriddhi Fund - 2",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-04-26",
+      "closing_date": "2021-04-29",
+      "issue_manager": "NIBL Ace Capital Ltd"
+    },
+    {
+      "symbol": "RMF1",
+      "company": "RBB Mutual Fund 1",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-07-07",
+      "closing_date": "2021-07-11",
+      "issue_manager": "RBB Merchant Bank Ltd"
+    },
+    {
+      "symbol": "KEF",
+      "company": "Kumari Equity Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-02-26",
+      "closing_date": "2021-03-09",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
+      "symbol": "SLCF",
+      "company": "Sanima Large Cap Fund",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-01-22",
+      "closing_date": "2021-01-26",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "SBCF",
+      "company": "Sunrise Bluechip Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-03-14",
+      "closing_date": "2021-03-21",
+      "issue_manager": "Sunrise Capital Ltd."
+    },
+    {
+      "symbol": "NADDF",
+      "company": "NIC Asia Dynamic Debt Fund",
+      "unit": "50,000,000.00",
+      "price": "10.00",
+      "opening_date": "2020-11-27",
+      "closing_date": "2020-12-01",
+      "issue_manager": "NIC Asia Capital Limited"
+    }
+  ],
+  "bonds_debentures": [
+    {
+      "symbol": "NUR86/87",
+      "company": "7% NIFRA Urja Rinpatra 2085/86",
+      "unit": "5,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-12-15",
+      "closing_date": "2022-12-29",
+      "issue_manager": "NIBL Ace Capital Ltd."
+    },
+    {
+      "symbol": "BOK86",
+      "company": "10.5% BOK Debenture 2086",
+      "unit": "1,100,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-08-18",
+      "closing_date": "2022-08-23",
+      "issue_manager": "NIBL Ace Capital Ltd"
+    },
+    {
+      "symbol": "HBLB86",
+      "company": "10.5% Himalayan Bank Ltd Bond 2086",
+      "unit": "2,500,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-08-31",
+      "closing_date": "2022-09-14",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "KBLD89",
+      "company": "11% KBL Debenture 2089",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-09-02",
+      "closing_date": "2022-09-16",
+      "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "EBLD85",
+      "company": "10.5% Everest Bank Ltd Rinpatra 2085",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-08-03",
+      "closing_date": "2022-08-17",
+      "issue_manager": "Laxmi Capital Market Ltd"
+    },
+    {
+      "symbol": "EBLUR89",
+      "company": "5.5% Everest Bank Ltd Urja Rinpatra 2089",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Capital Market Ltd"
+    },
+    {
+      "symbol": "SCBNLD",
+      "company": "10.30% Standard Chartered Bank Nepal Ltd Rinpatra",
+      "unit": "2,400,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIBL Ace Capital Ltd."
+    },
+    {
+      "symbol": "SBID83",
+      "company": "10.25% Nepal SBI Bank Debenture 2083",
+      "unit": "4,200,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-07-06",
+      "closing_date": "2022-07-20",
+      "issue_manager": "Sanima Bank Ltd"
+    },
+    {
+      "symbol": "SBD89",
+      "company": "10.25% Sanima Debenture 2089",
+      "unit": "5,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-06-24",
+      "closing_date": "2022-07-08",
+      "issue_manager": "RBB Merchant Banking Limited"
+    },
+    {
+      "symbol": "SBLD89",
+      "company": "10.75 % SBL Debenture 2089",
+      "unit": "4,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-06-24",
+      "closing_date": "2022-07-08",
+      "issue_manager": "Kumari Capital Ltd."
+    },
+    {
+      "symbol": "PDD84",
+      "company": "10.15% Prime Debenture 2084",
+      "unit": "5,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-06-14",
+      "closing_date": "2022-06-28",
+      "issue_manager": "Sanima Capital Ltd."
+    },
+    {
+      "symbol": "NMBUR93/94",
+      "company": "4% NMB Urja Rinpatra (Energy Bond II) 2093/94",
+      "unit": "3,500,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-05-04",
+      "closing_date": "2022-05-18",
+      "issue_manager": "Siddhartha Capital Ltd"
+    },
+    {
+      "symbol": "CCBD88",
+      "company": "10.50% Century Debenture 2088",
+      "unit": "2,200,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-05-04",
+      "closing_date": "2022-05-18",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "PBD88",
+      "company": "10% Prime Debenture 2088",
+      "unit": "2,500,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-03-30",
+      "closing_date": "2022-04-13",
+      "issue_manager": "RBB Merchant Banking Ltd."
+    },
+    {
+      "symbol": "EBLD86",
+      "company": "8.5% Everest Bank Debenture",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2022-01-17",
+      "closing_date": "2022-01-31",
+      "issue_manager": "NIBL Ace Capital Ltd"
+    },
+    {
+      "symbol": "CBLD88",
+      "company": "10.25% Civil Bank Debenture 2088",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2021-12-10",
+      "closing_date": "2021-12-24",
+      "issue_manager": "Laxmi Capital Market Ltd."
+    },
+    {
+      "symbol": "GBBD85",
+      "company": "8.75% Garima Debenture 2085",
+      "unit": "1,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2021-12-02",
+      "closing_date": "2021-12-16",
+      "issue_manager": "NIBL Ace Capital Ltd"
+    },
+    {
+      "symbol": "MND84/85",
+      "company": "8.75% Muktinath Debenture/Rinpatra 2084/85",
+      "unit": "1,250,000.00",
+      "price": "1,000.00",
+      "opening_date": "2021-07-22",
+      "closing_date": "2021-07-27",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "MBLD87",
+      "company": "8.5% Machhapuchchhre Debenture 2087",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2021-07-15",
+      "closing_date": "2021-07-29",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "LBLD88",
+      "company": "8.5% Laxmi Bank Debenture",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2021-07-12",
+      "closing_date": "2021-07-20",
+      "issue_manager": "Civil Capital Market Ltd"
+    }
+  ],
+  "ipo_to_migrant_workers": [
+    {
+      "symbol": "SHUVAM",
+      "company": "Shuvam Power Limited",
+      "unit": "58,058.00",
+      "price": "100.00",
+      "opening_date": "2022-12-21",
+      "closing_date": "2023-01-04",
+      "issue_manager": "Muktinath Capital Ltd"
+    },
+    {
+      "symbol": "AHL",
+      "company": "Asian Hydropower Limited",
+      "unit": "84,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-13",
+      "closing_date": "2022-12-27",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
+      "symbol": "SMHL",
+      "company": "Supermai Hydropower Limited",
+      "unit": "50,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-07",
+      "closing_date": "2022-12-21",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "MKHCL",
+      "company": "Maya Khola Hydropower Company Limited",
+      "unit": "240,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-09",
+      "closing_date": "2022-12-23",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "SMHPL",
+      "company": "Super Madi Hydropower Limited",
+      "unit": "210,000.00",
+      "price": "100.00",
+      "opening_date": "2022-12-06",
+      "closing_date": "2022-12-20",
+      "issue_manager": "Sanima Capital Ltd."
+    },
+    {
+      "symbol": "KDL",
+      "company": "Kalinchowk Darshan Limited",
+      "unit": "108,000.00",
+      "price": "100.00",
+      "opening_date": "2022-11-30",
+      "closing_date": "2022-12-14",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    }
+  ]
+}
