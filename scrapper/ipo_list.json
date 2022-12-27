@@ -1,4 +1,3 @@
-
 {
   "ipo_list": [
     {
@@ -9,15 +8,6 @@
       "opening_date": "2022-12-07",
       "closing_date": "2022-12-12",
       "issue_manager": "NIBL Ace Capital"
-    },
-    {
-      "symbol": "MHCL",
-      "company": "Molung Hydropower Company Limited",
-      "unit": "3,531,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sunrise Capital Ltd."
     },
     {
       "symbol": "TJVCL",
@@ -180,6 +170,15 @@
       "opening_date": "2022-06-15",
       "closing_date": "2022-06-19",
       "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "BHDC",
+      "company": "Bindhyabasini Hydropower Development Company Limited",
+      "unit": "1,500,000.00",
+      "price": "100.00",
+      "opening_date": "2022-06-03",
+      "closing_date": "2022-06-08",
+      "issue_manager": "Sanima Capital Limited"
     }
   ],
   "right_share_list": [
@@ -505,12 +504,21 @@
   ],
   "ipo_local": [
     {
+      "symbol": "MHCL",
+      "company": "Molung Hydropower Company Limited",
+      "unit": "802,500.00",
+      "price": "100.00",
+      "opening_date": "2023-01-03",
+      "closing_date": "2023-01-17",
+      "issue_manager": "Sunrise Capital Ltd."
+    },
+    {
       "symbol": "AHL",
       "company": "Asian Hydropower Limited",
       "unit": "340,000.00",
       "price": "100.00",
       "opening_date": "2022-12-13",
-      "closing_date": "2022-12-27",
+      "closing_date": "2023-01-03",
       "issue_manager": "NMB Capital Ltd"
     },
     {
@@ -519,7 +527,7 @@
       "unit": "1,000,000.00",
       "price": "100.00",
       "opening_date": "2022-12-09",
-      "closing_date": "2022-12-23",
+      "closing_date": "2023-01-08",
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
@@ -546,7 +554,7 @@
       "unit": "1,050,000.00",
       "price": "100.00",
       "opening_date": "2022-12-06",
-      "closing_date": "2023-01-04",
+      "closing_date": "2022-12-22",
       "issue_manager": "Sanima Capital Ltd."
     },
     {
@@ -674,15 +682,6 @@
       "opening_date": "2022-05-08",
       "closing_date": "2022-06-06",
       "issue_manager": "Global IME Capital Ltd."
-    },
-    {
-      "symbol": "DORDI",
-      "company": "Dordi Khola Hydropower Company Limited",
-      "unit": "1,054,260.00",
-      "price": "100.00",
-      "opening_date": "2022-04-26",
-      "closing_date": "2022-05-19",
-      "issue_manager": "Siddhartha Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -701,7 +700,7 @@
       "unit": "160,000,000.00",
       "price": "10.00",
       "opening_date": "2022-12-22",
-      "closing_date": "2022-12-27",
+      "closing_date": "2023-01-05",
       "issue_manager": "NIBL Ace Capital Ltd"
     },
     {
@@ -1050,6 +1049,15 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "MHCL",
+      "company": "Molung Hydropower Company Limited",
+      "unit": "272,850.00",
+      "price": "100.00",
+      "opening_date": "2023-01-03",
+      "closing_date": "2023-01-17",
+      "issue_manager": "Sunrise Capital Ltd."
+    },
     {
       "symbol": "SHUVAM",
       "company": "Shuvam Power Limited",
