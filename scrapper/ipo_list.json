@@ -545,7 +545,7 @@
       "unit": "500,000.00",
       "price": "100.00",
       "opening_date": "2022-12-07",
-      "closing_date": "2023-01-05",
+      "closing_date": "2022-12-28",
       "issue_manager": "Sanima Capital Ltd"
     },
     {
@@ -868,6 +868,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "EBLUR",
+      "company": "7.5% Everest Bank Limited Urja Rinpatra (Energy Bond) 2089",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2023-01-09",
+      "closing_date": "2023-01-12",
+      "issue_manager": "Laxmi Capital Market"
+    },
+    {
       "symbol": "NUR86/87",
       "company": "7% NIFRA Urja Rinpatra 2085/86",
       "unit": "5,000,000.00",
@@ -910,15 +919,6 @@
       "price": "1,000.00",
       "opening_date": "2022-08-03",
       "closing_date": "2022-08-17",
-      "issue_manager": "Laxmi Capital Market Ltd"
-    },
-    {
-      "symbol": "EBLUR89",
-      "company": "5.5% Everest Bank Ltd Urja Rinpatra 2089",
-      "unit": "2,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
       "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
