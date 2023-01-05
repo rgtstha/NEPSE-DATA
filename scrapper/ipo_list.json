@@ -1,6 +1,42 @@
 {
   "ipo_list": [
     {
+      "symbol": "SMJCL",
+      "company": "Sagarmatha Jalbidhyut Company Limited",
+      "unit": "5,488,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "MAKAR",
+      "company": "Makar Jitumaya Suri Hydropower Company Limited",
+      "unit": "2,280,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "BPW",
+      "company": "BPW Laghubitta Bittiya Sanstha Limited",
+      "unit": "97,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Mega Capital Markets Ltd."
+    },
+    {
+      "symbol": "SMTHL",
+      "company": "Sanima Middle Tamor Hydropower Limited",
+      "unit": "8,331,250.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
       "symbol": "BHPL",
       "company": "Barahi Hydropower Public Limited",
       "unit": "554,000.00",
@@ -143,42 +179,6 @@
       "opening_date": "2022-07-20",
       "closing_date": "2022-07-24",
       "issue_manager": "Sanima Capital Ltd."
-    },
-    {
-      "symbol": "USHEC",
-      "company": "Upper Solu Hydro Electric Company Limited",
-      "unit": "1,957,500.00",
-      "price": "100.00",
-      "opening_date": "2022-07-04",
-      "closing_date": "2022-07-07",
-      "issue_manager": "NMB Capital Ltd."
-    },
-    {
-      "symbol": "HHL",
-      "company": "Himalayan Hydropower Limited",
-      "unit": "1,968,250.00",
-      "price": "100.00",
-      "opening_date": "2022-06-29",
-      "closing_date": "2022-07-03",
-      "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "ADLB",
-      "company": "Adarsha Laghubitta Bittiya Sanstha Limited",
-      "unit": "67,000.00",
-      "price": "100.00",
-      "opening_date": "2022-06-15",
-      "closing_date": "2022-06-19",
-      "issue_manager": "BOK Capital Market Ltd."
-    },
-    {
-      "symbol": "BHDC",
-      "company": "Bindhyabasini Hydropower Development Company Limited",
-      "unit": "1,500,000.00",
-      "price": "100.00",
-      "opening_date": "2022-06-03",
-      "closing_date": "2022-06-08",
-      "issue_manager": "Sanima Capital Limited"
     }
   ],
   "right_share_list": [
@@ -686,12 +686,21 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "PSMF",
+      "company": "Prabhu Smart Fund",
+      "unit": "80,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "SFEF",
       "company": "Sunrise Focused Equity Fund",
       "unit": "120,000,000.00",
       "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-01-24",
+      "closing_date": "2023-01-27",
       "issue_manager": "Sunrise Capital Ltd."
     },
     {
@@ -855,15 +864,6 @@
       "opening_date": "2021-03-14",
       "closing_date": "2021-03-21",
       "issue_manager": "Sunrise Capital Ltd."
-    },
-    {
-      "symbol": "NADDF",
-      "company": "NIC Asia Dynamic Debt Fund",
-      "unit": "50,000,000.00",
-      "price": "10.00",
-      "opening_date": "2020-11-27",
-      "closing_date": "2020-12-01",
-      "issue_manager": "NIC Asia Capital Limited"
     }
   ],
   "bonds_debentures": [
