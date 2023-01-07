@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "AATMA",
+      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+      "unit": "623,380.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
       "symbol": "SMJCL",
       "company": "Sagarmatha Jalbidhyut Company Limited",
       "unit": "5,488,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "2022-07-13",
       "closing_date": "2022-07-17",
       "issue_manager": "Siddhartha Capital Ltd."
-    },
-    {
-      "symbol": "SGHC",
-      "company": "Swet-Ganga Hydropower & Construction Limited",
-      "unit": "2,389,500.00",
-      "price": "100.00",
-      "opening_date": "2022-07-20",
-      "closing_date": "2022-07-24",
-      "issue_manager": "Sanima Capital Ltd."
     }
   ],
   "right_share_list": [
