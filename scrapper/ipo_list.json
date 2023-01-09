@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "KDL",
+      "company": "Kalinchowk Darshan Limited",
+      "unit": "896,400.00",
+      "price": "100.00",
+      "opening_date": "2023-01-17",
+      "closing_date": "2023-01-20",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
       "symbol": "AATMA",
       "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
       "unit": "623,380.00",
@@ -35,15 +44,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
-      "symbol": "SMTHL",
-      "company": "Sanima Middle Tamor Hydropower Limited",
-      "unit": "8,331,250.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Ltd"
     },
     {
       "symbol": "BHPL",
@@ -504,6 +504,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "SMTHL",
+      "company": "Sanima Middle Tamor Hydropower Limited",
+      "unit": "3,332,500.00",
+      "price": "100.00",
+      "opening_date": "2023-01-18",
+      "closing_date": "2023-02-01",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
       "symbol": "MHCL",
       "company": "Molung Hydropower Company Limited",
       "unit": "802,500.00",
@@ -673,15 +682,6 @@
       "opening_date": "2022-05-05",
       "closing_date": "2022-06-03",
       "issue_manager": "NMB Capital Ltd"
-    },
-    {
-      "symbol": "HHL",
-      "company": "Himalayan Hydropower Limited",
-      "unit": "900,000.00",
-      "price": "100.00",
-      "opening_date": "2022-05-08",
-      "closing_date": "2022-06-06",
-      "issue_manager": "Global IME Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -1049,6 +1049,15 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "SMTHL",
+      "company": "Sanima Middle Tamor Hydropower Limited",
+      "unit": "499,875.00",
+      "price": "100.00",
+      "opening_date": "2023-01-18",
+      "closing_date": "2023-02-01",
+      "issue_manager": "Sanima Capital Ltd"
+    },
     {
       "symbol": "MHCL",
       "company": "Molung Hydropower Company Limited",
