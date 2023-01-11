@@ -19,15 +19,6 @@
       "issue_manager": "Sunrise Capital Ltd"
     },
     {
-      "symbol": "SMJCL",
-      "company": "Sagarmatha Jalbidhyut Company Limited",
-      "unit": "5,488,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
       "symbol": "MAKAR",
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
       "unit": "2,280,000.00",
@@ -179,6 +170,15 @@
       "opening_date": "2022-07-13",
       "closing_date": "2022-07-17",
       "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "SGHC",
+      "company": "Swet-Ganga Hydropower & Construction Limited",
+      "unit": "2,389,500.00",
+      "price": "100.00",
+      "opening_date": "2022-07-20",
+      "closing_date": "2022-07-24",
+      "issue_manager": "Sanima Capital Ltd."
     }
   ],
   "right_share_list": [
@@ -504,6 +504,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "SMJCL",
+      "company": "Sagarmatha Jalbidhyut Company Limited",
+      "unit": "1,120,000.00",
+      "price": "100.00",
+      "opening_date": "2023-01-19",
+      "closing_date": "2023-02-02",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
       "symbol": "SMTHL",
       "company": "Sanima Middle Tamor Hydropower Limited",
       "unit": "3,332,500.00",
@@ -673,15 +682,6 @@
       "opening_date": "2022-05-24",
       "closing_date": "2022-06-07",
       "issue_manager": "NMB Capital Ltd."
-    },
-    {
-      "symbol": "USHEC",
-      "company": "Upper Solu Hydro Electric Company Limited",
-      "unit": "1,350,000.00",
-      "price": "100.00",
-      "opening_date": "2022-05-05",
-      "closing_date": "2022-06-03",
-      "issue_manager": "NMB Capital Ltd"
     }
   ],
   "mutual_fund": [
@@ -1049,6 +1049,15 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "SMJCL",
+      "company": "Sagarmatha Jalbidhyut Company Limited",
+      "unit": "436,800.00",
+      "price": "100.00",
+      "opening_date": "2023-01-19",
+      "closing_date": "2023-02-02",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
     {
       "symbol": "SMTHL",
       "company": "Sanima Middle Tamor Hydropower Limited",
