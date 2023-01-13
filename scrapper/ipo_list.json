@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "SMHPL",
+      "company": "Super Madi Hydropower Limited",
+      "unit": "1,743,000.00",
+      "price": "100.00",
+      "opening_date": "2023-01-23",
+      "closing_date": "2023-01-26",
+      "issue_manager": "Sanima Capital Ltd."
+    },
+    {
       "symbol": "KDL",
       "company": "Kalinchowk Darshan Limited",
       "unit": "896,400.00",
@@ -170,15 +179,6 @@
       "opening_date": "2022-07-13",
       "closing_date": "2022-07-17",
       "issue_manager": "Siddhartha Capital Ltd."
-    },
-    {
-      "symbol": "SGHC",
-      "company": "Swet-Ganga Hydropower & Construction Limited",
-      "unit": "2,389,500.00",
-      "price": "100.00",
-      "opening_date": "2022-07-20",
-      "closing_date": "2022-07-24",
-      "issue_manager": "Sanima Capital Ltd."
     }
   ],
   "right_share_list": [
@@ -868,12 +868,21 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "GBIME84/85",
+      "company": "11.25% Global IME Bank Debenture 2084/85",
+      "unit": "5,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
       "symbol": "EBLUR",
       "company": "7.5% Everest Bank Limited Urja Rinpatra (Energy Bond) 2089",
       "unit": "2,000,000.00",
       "price": "1,000.00",
       "opening_date": "2023-01-09",
-      "closing_date": "2023-01-12",
+      "closing_date": "2023-01-23",
       "issue_manager": "Laxmi Capital Market"
     },
     {
@@ -1037,15 +1046,6 @@
       "opening_date": "2021-07-15",
       "closing_date": "2021-07-29",
       "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
-      "symbol": "LBLD88",
-      "company": "8.5% Laxmi Bank Debenture",
-      "unit": "2,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2021-07-12",
-      "closing_date": "2021-07-20",
-      "issue_manager": "Civil Capital Market Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
