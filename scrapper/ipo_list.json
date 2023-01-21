@@ -30,10 +30,10 @@
     {
       "symbol": "AATMA",
       "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
-      "unit": "623,380.00",
+      "unit": "169,755.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-02-23",
+      "closing_date": "2023-02-27",
       "issue_manager": "Sunrise Capital Ltd"
     },
     {
@@ -1049,6 +1049,15 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "AATMA",
+      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+      "unit": "20,388.00",
+      "price": "100.00",
+      "opening_date": "2023-01-30",
+      "closing_date": "2023-02-13",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
     {
       "symbol": "MJS",
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
