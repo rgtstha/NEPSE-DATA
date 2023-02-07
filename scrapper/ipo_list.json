@@ -1,13 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "SHUVAM",
-      "company": "Shuvam Power Limited",
-      "unit": "481,882.00",
+      "symbol": "AATMA",
+      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+      "unit": "169,755.00",
       "price": "100.00",
-      "opening_date": "2023-02-01",
-      "closing_date": "2023-02-05",
-      "issue_manager": "Muktinath Capital Ltd"
+      "opening_date": "2023-02-23",
+      "closing_date": "2023-02-27",
+      "issue_manager": "Sunrise Capital Ltd"
     },
     {
       "symbol": "SMHL",
@@ -28,6 +28,42 @@
       "issue_manager": "NMB Capital Ltd"
     },
     {
+      "symbol": "BPW",
+      "company": "BPW Laghubitta Bittiya Sanstha Limited",
+      "unit": "80,950.00",
+      "price": "100.00",
+      "opening_date": "2023-03-02",
+      "closing_date": "2023-03-07",
+      "issue_manager": "Mega Capital Markets Ltd."
+    },
+    {
+      "symbol": "SHUVAM",
+      "company": "Shuvam Power Limited",
+      "unit": "481,882.00",
+      "price": "100.00",
+      "opening_date": "2023-02-01",
+      "closing_date": "2023-02-05",
+      "issue_manager": "Muktinath Capital Ltd"
+    },
+    {
+      "symbol": "DPCL",
+      "company": "Dolti Power Company Ltd",
+      "unit": "1,609,458.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nic Asia Capital Ltd."
+    },
+    {
+      "symbol": "BEDCL",
+      "company": "Bhugol Energy Development Company Limited",
+      "unit": "1,632,160.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIC Asia Capital Ltd."
+    },
+    {
       "symbol": "MKHCL",
       "company": "Maya Khola Hydropower Company Limited",
       "unit": "1,992,000.00",
@@ -37,22 +73,13 @@
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
-      "symbol": "AATMA",
-      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
-      "unit": "169,755.00",
+      "symbol": "MCHPL",
+      "company": "Menchhiyam Hydropower Power Limited",
+      "unit": "1,627,750.00",
       "price": "100.00",
-      "opening_date": "2023-02-23",
-      "closing_date": "2023-02-27",
-      "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "BPW",
-      "company": "BPW Laghubitta Bittiya Sanstha Limited",
-      "unit": "80,950.00",
-      "price": "100.00",
-      "opening_date": "2023-03-02",
-      "closing_date": "2023-03-07",
-      "issue_manager": "Mega Capital Markets Ltd."
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nic Asia Capital Ltd."
     },
     {
       "symbol": "SMHPL",
@@ -152,33 +179,6 @@
       "opening_date": "2022-08-09",
       "closing_date": "2022-08-14",
       "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "AVYAN",
-      "company": "Aviyan Laghubitta Bittiya Sanstha Limited",
-      "unit": "975,000.00",
-      "price": "100.00",
-      "opening_date": "2022-08-03",
-      "closing_date": "2022-08-07",
-      "issue_manager": "Muktinath Capital Ltd"
-    },
-    {
-      "symbol": "SPHL",
-      "company": "Sayapatri Hydropower Limited",
-      "unit": "721,060.00",
-      "price": "100.00",
-      "opening_date": "2022-07-29",
-      "closing_date": "2022-08-02",
-      "issue_manager": "NIBL ACE Capital Limited"
-    },
-    {
-      "symbol": "MHL",
-      "company": "Mandakini Hydropower Limited",
-      "unit": "1,176,073.00",
-      "price": "100.00",
-      "opening_date": "2022-07-25",
-      "closing_date": "2022-07-28",
-      "issue_manager": "BOK Capital Market Ltd."
     }
   ],
   "right_share_list": [
@@ -704,7 +704,7 @@
       "issue_manager": "Sunrise Capital Ltd."
     },
     {
-      "symbol": "NGF",
+      "symbol": "NIBLGF",
       "company": "NIBL Growth Fund",
       "unit": "160,000,000.00",
       "price": "10.00",
@@ -722,7 +722,7 @@
       "issue_manager": "Nabil Investment Banking Ltd"
     },
     {
-      "symbol": "SGF",
+      "symbol": "SAGF",
       "company": "Sanima Growth Fund",
       "unit": "120,000,000.00",
       "price": "10.00",
