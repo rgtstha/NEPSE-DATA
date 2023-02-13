@@ -504,6 +504,24 @@
   ],
   "ipo_local": [
     {
+      "symbol": "BEDCL",
+      "company": "Bhugol Energy Development Company Limited",
+      "unit": "544,053.00",
+      "price": "100.00",
+      "opening_date": "2023-02-20",
+      "closing_date": "2023-03-09",
+      "issue_manager": ""
+    },
+    {
+      "symbol": "DPCL",
+      "company": "Dolti Power Company Ltd",
+      "unit": "536,486.00",
+      "price": "100.00",
+      "opening_date": "2023-02-20",
+      "closing_date": "2023-03-09",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
       "symbol": "SMJCL",
       "company": "Sagarmatha Jalbidhyut Company Limited",
       "unit": "1,120,000.00",
@@ -664,24 +682,6 @@
       "opening_date": "2022-06-15",
       "closing_date": "2022-07-06",
       "issue_manager": "BOK Capital Market Ltd."
-    },
-    {
-      "symbol": "SGHC",
-      "company": "Swet-Ganga Hydropower & Construction Limited",
-      "unit": "1,593,000.00",
-      "price": "100.00",
-      "opening_date": "2022-06-06",
-      "closing_date": "2022-06-20",
-      "issue_manager": "Sanima Capital Ltd."
-    },
-    {
-      "symbol": "RHGCL",
-      "company": "Rapti Hydro & General Construction Limited",
-      "unit": "612,793.00",
-      "price": "100.00",
-      "opening_date": "2022-06-07",
-      "closing_date": "2022-06-24",
-      "issue_manager": "Siddhartha Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -1049,6 +1049,24 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "BEDCL",
+      "company": "Bhugol Energy Development Company Limited",
+      "unit": "108,811.00",
+      "price": "100.00",
+      "opening_date": "2023-02-20",
+      "closing_date": "2023-03-09",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "DPCL",
+      "company": "Dolti Power Company Ltd",
+      "unit": "107,298.00",
+      "price": "100.00",
+      "opening_date": "2023-02-20",
+      "closing_date": "2023-03-09",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
     {
       "symbol": "BPW",
       "company": "BPW Laghubitta Bittiya Sanstha Limited",
