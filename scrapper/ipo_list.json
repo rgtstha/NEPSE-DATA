@@ -868,6 +868,24 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "CSB2084",
+      "company": "11.50% Citizens Saving Bond 2084 'Ka'",
+      "unit": "",
+      "price": "",
+      "opening_date": "2023-02-22",
+      "closing_date": "2023-03-14",
+      "issue_manager": "Nepal Rastra Bank"
+    },
+    {
+      "symbol": "SCBNLD",
+      "company": "10.30% Standard Chartered Bank Nepal Ltd Rinpatra",
+      "unit": "2,400,000.00",
+      "price": "1,000.00",
+      "opening_date": "2023-02-09",
+      "closing_date": "2023-02-20",
+      "issue_manager": "NIBL Ace Capital Ltd."
+    },
+    {
       "symbol": "GBIME84/85",
       "company": "11.25% Global IME Bank Debenture 2084/85",
       "unit": "5,000,000.00",
@@ -929,15 +947,6 @@
       "opening_date": "2022-08-03",
       "closing_date": "2022-08-17",
       "issue_manager": "Laxmi Capital Market Ltd"
-    },
-    {
-      "symbol": "SCBNLD",
-      "company": "10.30% Standard Chartered Bank Nepal Ltd Rinpatra",
-      "unit": "2,400,000.00",
-      "price": "1,000.00",
-      "opening_date": "2023-02-09",
-      "closing_date": "2023-02-20",
-      "issue_manager": "NIBL Ace Capital Ltd."
     },
     {
       "symbol": "SBID83",
@@ -1037,15 +1046,6 @@
       "opening_date": "2021-07-22",
       "closing_date": "2021-07-27",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "MBLD87",
-      "company": "8.5% Machhapuchchhre Debenture 2087",
-      "unit": "3,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2021-07-15",
-      "closing_date": "2021-07-29",
-      "issue_manager": "Nabil Investment Banking Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
