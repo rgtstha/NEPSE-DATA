@@ -1,6 +1,24 @@
 {
   "ipo_list": [
     {
+      "symbol": "MODI",
+      "company": "Modi Energy Limited",
+      "unit": "7,250,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
+      "symbol": "SMTHL",
+      "company": "Sanima Middle Tamor Hydropower Limited",
+      "unit": "4,248,988.00",
+      "price": "100.00",
+      "opening_date": "2023-03-10",
+      "closing_date": "2023-03-14",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
       "symbol": "AATMA",
       "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
       "unit": "169,755.00",
@@ -8,15 +26,6 @@
       "opening_date": "2023-02-23",
       "closing_date": "2023-02-27",
       "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "MHCL",
-      "company": "Molung Hydropower Company Limited",
-      "unit": "2,264,655.00",
-      "price": "100.00",
-      "opening_date": "2023-02-16",
-      "closing_date": "2023-02-22",
-      "issue_manager": "Sunrise Capital Ltd."
     },
     {
       "symbol": "BPW",
@@ -64,15 +73,6 @@
       "issue_manager": "NIC Asia Capital Ltd."
     },
     {
-      "symbol": "IHL",
-      "company": "Ingwa Hydropower Ltd",
-      "unit": "1,800,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Nepal SBI Merchant Banking Ltd."
-    },
-    {
       "symbol": "SMHL",
       "company": "Supermai Hydropower Limited",
       "unit": "415,000.00",
@@ -107,6 +107,15 @@
       "opening_date": "2023-01-27",
       "closing_date": "2023-01-31",
       "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "MHCL",
+      "company": "Molung Hydropower Company Limited",
+      "unit": "2,264,655.00",
+      "price": "100.00",
+      "opening_date": "2023-02-16",
+      "closing_date": "2023-02-22",
+      "issue_manager": "Sunrise Capital Ltd."
     },
     {
       "symbol": "SMHPL",
@@ -170,15 +179,6 @@
       "opening_date": "2022-09-14",
       "closing_date": "2022-09-18",
       "issue_manager": "BOK Capital Market Ltd."
-    },
-    {
-      "symbol": "KLBS",
-      "company": "Khaptad Laghubitta Bittiya Sanstha Limited",
-      "unit": "132,000.00",
-      "price": "100.00",
-      "opening_date": "2022-08-24",
-      "closing_date": "2022-08-28",
-      "issue_manager": "Prabhu Capital Ltd"
     }
   ],
   "right_share_list": [
@@ -504,6 +504,24 @@
   ],
   "ipo_local": [
     {
+      "symbol": "MJS",
+      "company": "Makar Jitumaya Suri Hydropower Company Limited",
+      "unit": "760,000.00",
+      "price": "100.00",
+      "opening_date": "2023-01-29",
+      "closing_date": "2023-02-27",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "IHL",
+      "company": "Ingwa Hydropower Ltd",
+      "unit": "600,000.00",
+      "price": "100.00",
+      "opening_date": "2023-03-05",
+      "closing_date": "2023-03-19",
+      "issue_manager": "Nepal SBI Merchant Banking Ltd."
+    },
+    {
       "symbol": "MCHL",
       "company": "Menchhiyam Hydropower Limited",
       "unit": "542,583.00",
@@ -547,15 +565,6 @@
       "opening_date": "2023-01-18",
       "closing_date": "2023-02-02",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "MJS",
-      "company": "Makar Jitumaya Suri Hydropower Company Limited",
-      "unit": "760,000.00",
-      "price": "100.00",
-      "opening_date": "2023-01-29",
-      "closing_date": "2023-02-12",
-      "issue_manager": "Prabhu Capital Ltd."
     },
     {
       "symbol": "MHCL",
@@ -673,15 +682,6 @@
       "opening_date": "2022-06-22",
       "closing_date": "2022-07-21",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "SPHL",
-      "company": "Sayapatri Hydropower Limited",
-      "unit": "300,000.00",
-      "price": "100.00",
-      "opening_date": "2022-06-16",
-      "closing_date": "2022-07-08",
-      "issue_manager": "NIBL ACE Capital Limited"
     }
   ],
   "mutual_fund": [
@@ -913,7 +913,7 @@
       "issue_manager": "NIBL Ace Capital Ltd."
     },
     {
-      "symbol": "BOK86",
+      "symbol": "BOKD86KA",
       "company": "10.5% BOK Debenture 2086",
       "unit": "1,100,000.00",
       "price": "1,000.00",
@@ -1049,6 +1049,15 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "IHL",
+      "company": "Ingwa Hydropower Ltd",
+      "unit": "120,000.00",
+      "price": "100.00",
+      "opening_date": "2023-03-05",
+      "closing_date": "2023-03-19",
+      "issue_manager": "Nepal SBI Merchant Banking Ltd."
+    },
     {
       "symbol": "MCHL",
       "company": "Menchhiyam Hydropower Limited",
