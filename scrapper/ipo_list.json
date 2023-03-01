@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "MODI",
-      "company": "Modi Energy Limited",
-      "unit": "7,250,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
       "symbol": "SMTHL",
       "company": "Sanima Middle Tamor Hydropower Limited",
       "unit": "4,248,988.00",
@@ -19,15 +10,6 @@
       "issue_manager": "Sanima Capital Ltd"
     },
     {
-      "symbol": "AATMA",
-      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
-      "unit": "169,755.00",
-      "price": "100.00",
-      "opening_date": "2023-02-23",
-      "closing_date": "2023-02-27",
-      "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
       "symbol": "BPW",
       "company": "BPW Laghubitta Bittiya Sanstha Limited",
       "unit": "80,950.00",
@@ -35,6 +17,15 @@
       "opening_date": "2023-03-02",
       "closing_date": "2023-03-07",
       "issue_manager": "Mega Capital Markets Ltd."
+    },
+    {
+      "symbol": "AATMA",
+      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
+      "unit": "169,755.00",
+      "price": "100.00",
+      "opening_date": "2023-02-23",
+      "closing_date": "2023-02-27",
+      "issue_manager": "Sunrise Capital Ltd"
     },
     {
       "symbol": "MKHL",
@@ -71,6 +62,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NIC Asia Capital Ltd."
+    },
+    {
+      "symbol": "MODI",
+      "company": "Modi Energy Limited",
+      "unit": "7,250,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Ltd"
     },
     {
       "symbol": "SMHL",
@@ -504,6 +504,42 @@
   ],
   "ipo_local": [
     {
+      "symbol": "MODI",
+      "company": "Modi Energy Limited",
+      "unit": "2,900,000.00",
+      "price": "100.00",
+      "opening_date": "2023-03-09",
+      "closing_date": "2023-03-23",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
+      "symbol": "DPCL",
+      "company": "Dolti Power Company Ltd",
+      "unit": "536,486.00",
+      "price": "100.00",
+      "opening_date": "2023-02-20",
+      "closing_date": "2023-03-09",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "BEDCL",
+      "company": "Bhugol Energy Development Company Limited",
+      "unit": "544,053.00",
+      "price": "100.00",
+      "opening_date": "2023-02-20",
+      "closing_date": "2023-03-09",
+      "issue_manager": "NIC Asia Capital Ltd."
+    },
+    {
+      "symbol": "MKHL",
+      "company": "Mai Khola Hydropower Limited",
+      "unit": "392,157.00",
+      "price": "100.00",
+      "opening_date": "2023-03-09",
+      "closing_date": "2023-03-23",
+      "issue_manager": "Prabhu Capital Ltd"
+    },
+    {
       "symbol": "MJS",
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
       "unit": "760,000.00",
@@ -527,24 +563,6 @@
       "unit": "542,583.00",
       "price": "100.00",
       "opening_date": "2023-02-22",
-      "closing_date": "2023-03-09",
-      "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
-      "symbol": "BEDCL",
-      "company": "Bhugol Energy Development Company Limited",
-      "unit": "544,053.00",
-      "price": "100.00",
-      "opening_date": "2023-02-20",
-      "closing_date": "2023-03-09",
-      "issue_manager": "NIC Asia Capital Ltd."
-    },
-    {
-      "symbol": "DPCL",
-      "company": "Dolti Power Company Ltd",
-      "unit": "536,486.00",
-      "price": "100.00",
-      "opening_date": "2023-02-20",
       "closing_date": "2023-03-09",
       "issue_manager": "NIC Asia Capital Ltd"
     },
@@ -664,24 +682,6 @@
       "opening_date": "2022-07-22",
       "closing_date": "2022-08-21",
       "issue_manager": "BOK Capital Market Ltd."
-    },
-    {
-      "symbol": "RHPL",
-      "company": "Rasuwagadhi Hydropower Company Limited",
-      "unit": "6,842,100.00",
-      "price": "100.00",
-      "opening_date": "2022-06-27",
-      "closing_date": "2022-08-16",
-      "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
-      "symbol": "PPL",
-      "company": "People's Power Limited",
-      "unit": "632,600.00",
-      "price": "100.00",
-      "opening_date": "2022-06-22",
-      "closing_date": "2022-07-21",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -1049,6 +1049,24 @@
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "MODI",
+      "company": "Modi Energy Limited",
+      "unit": "435,000.00",
+      "price": "100.00",
+      "opening_date": "2023-03-09",
+      "closing_date": "2023-03-23",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
+      "symbol": "MKHL",
+      "company": "Mai Khola Hydropower Limited",
+      "unit": "152,941.00",
+      "price": "100.00",
+      "opening_date": "2023-03-09",
+      "closing_date": "2023-03-23",
+      "issue_manager": "Prabhu Capital Ltd"
+    },
     {
       "symbol": "IHL",
       "company": "Ingwa Hydropower Ltd",
