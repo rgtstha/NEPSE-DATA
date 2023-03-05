@@ -868,6 +868,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "NMB89/90",
+      "company": "10.75% NMB Debenture 2089/2090",
+      "unit": "4,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIBL Ace Capital Ltd."
+    },
+    {
       "symbol": "CSB2084",
       "company": "11.50% Citizens Saving Bond 2084 'Ka'",
       "unit": "",
@@ -1037,15 +1046,6 @@
       "opening_date": "2021-12-02",
       "closing_date": "2021-12-16",
       "issue_manager": "NIBL Ace Capital Ltd"
-    },
-    {
-      "symbol": "MND84/85",
-      "company": "8.75% Muktinath Debenture/Rinpatra 2084/85",
-      "unit": "1,250,000.00",
-      "price": "1,000.00",
-      "opening_date": "2021-07-22",
-      "closing_date": "2021-07-27",
-      "issue_manager": "Sanima Capital Limited"
     }
   ],
   "ipo_to_migrant_workers": [
