@@ -1,22 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "SMJCL",
-      "company": "Sagarmatha Jalbidhyut Company Limited",
-      "unit": "3,581,760.00",
-      "price": "100.00",
-      "opening_date": "2023-03-22",
-      "closing_date": "2023-03-26",
-      "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "CHTL",
-      "company": "City Hotel Limited",
-      "unit": "1,674,000.00",
+      "symbol": "MKHL",
+      "company": "Mai Khola Hydropower Limited",
+      "unit": "1,921,568.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Ltd"
+      "issue_manager": "Prabhu Capital Ltd"
     },
     {
       "symbol": "IHL",
@@ -32,8 +23,26 @@
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
       "unit": "2,280,000.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-04-02",
+      "closing_date": "2023-04-05",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "CHTL",
+      "company": "City Hotel Limited",
+      "unit": "1,355,940.00",
+      "price": "100.00",
+      "opening_date": "2023-05-08",
+      "closing_date": "2023-05-11",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "SMJCL",
+      "company": "Sagarmatha Jalbidhyut Company Limited",
+      "unit": "3,581,760.00",
+      "price": "100.00",
+      "opening_date": "2023-03-22",
+      "closing_date": "2023-03-26",
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
@@ -62,15 +71,6 @@
       "opening_date": "2023-02-23",
       "closing_date": "2023-02-27",
       "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "MKHL",
-      "company": "Mai Khola Hydropower Limited",
-      "unit": "1,921,568.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Ltd"
     },
     {
       "symbol": "DPCL",
@@ -504,6 +504,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "CHTL",
+      "company": "City Hotel Limited",
+      "unit": "167,400.00",
+      "price": "100.00",
+      "opening_date": "2023-04-04",
+      "closing_date": "2023-04-18",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
       "symbol": "MODI",
       "company": "Modi Energy Limited",
       "unit": "2,900,000.00",
@@ -673,25 +682,34 @@
       "opening_date": "2022-08-23",
       "closing_date": "2022-09-13",
       "issue_manager": "NMB Capital Ltd"
-    },
-    {
-      "symbol": "SIKLES",
-      "company": "Sikles Hydropower Limited",
-      "unit": "850,000.00",
-      "price": "100.00",
-      "opening_date": "2022-07-22",
-      "closing_date": "2022-08-21",
-      "issue_manager": "BOK Capital Market Ltd."
     }
   ],
   "mutual_fund": [
+    {
+      "symbol": "RMF2",
+      "company": "RBB Mutual Fund 2",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "RBB Merchant Banking Ltd."
+    },
+    {
+      "symbol": "30CSMF",
+      "company": "Citizens Super 30 Mutual Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "CBIL Capital Ltd"
+    },
     {
       "symbol": "KSYJ",
       "company": "Kumari Sunaulo Lagani Yojana",
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2023-03-23",
-      "closing_date": "2023-03-27",
+      "closing_date": "2023-04-06",
       "issue_manager": "Kumari Capital Ltd"
     },
     {
@@ -708,8 +726,8 @@
       "company": "Siddhartha Investment Growth Scheme 3",
       "unit": "120,000,000.00",
       "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-04-09",
+      "closing_date": "2023-04-12",
       "issue_manager": "Siddhartha Capital Ltd."
     },
     {
@@ -846,24 +864,6 @@
       "opening_date": "2021-04-26",
       "closing_date": "2021-04-29",
       "issue_manager": "NIBL Ace Capital Ltd"
-    },
-    {
-      "symbol": "RMF1",
-      "company": "RBB Mutual Fund 1",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-07-07",
-      "closing_date": "2021-07-11",
-      "issue_manager": "RBB Merchant Bank Ltd"
-    },
-    {
-      "symbol": "KEF",
-      "company": "Kumari Equity Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-02-26",
-      "closing_date": "2021-03-09",
-      "issue_manager": "Kumari Capital Limited"
     }
   ],
   "bonds_debentures": [
@@ -872,8 +872,8 @@
       "company": "10.75% NMB Debenture 2089/2090",
       "unit": "4,000,000.00",
       "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-04-04",
+      "closing_date": "2023-04-07",
       "issue_manager": "NIBL Ace Capital Ltd."
     },
     {
