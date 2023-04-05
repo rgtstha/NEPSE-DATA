@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "TSHL",
+      "company": "Three Star Hydropower Limited",
+      "unit": "1,231,250.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Ltd"
+    },
+    {
       "symbol": "DPCL",
       "company": "Dolti Power Company Ltd",
       "unit": "1,271,861.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-01-23",
       "closing_date": "2023-01-26",
       "issue_manager": "Sanima Capital Ltd."
-    },
-    {
-      "symbol": "BHPL",
-      "company": "Barahi Hydropower Public Limited",
-      "unit": "554,000.00",
-      "price": "100.00",
-      "opening_date": "2022-12-07",
-      "closing_date": "2022-12-12",
-      "issue_manager": "NIBL Ace Capital"
     }
   ],
   "right_share_list": [
@@ -868,6 +868,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "11MLD",
+      "company": "11% Mahalaxmi Debenture 2089",
+      "unit": "1,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2023-04-12",
+      "closing_date": "2023-04-17",
+      "issue_manager": "Nic Asia Capital Ltd"
+    },
+    {
       "symbol": "NMB89/90",
       "company": "10.75% NMB Debenture 2089/2090",
       "unit": "4,000,000.00",
@@ -904,7 +913,7 @@
       "issue_manager": "Sunrise Capital Ltd"
     },
     {
-      "symbol": "EBLUR",
+      "symbol": "EBLEB89",
       "company": "7.5% Everest Bank Limited Urja Rinpatra (Energy Bond) 2089",
       "unit": "2,000,000.00",
       "price": "1,000.00",
@@ -1037,15 +1046,6 @@
       "opening_date": "2021-12-10",
       "closing_date": "2021-12-24",
       "issue_manager": "Laxmi Capital Market Ltd."
-    },
-    {
-      "symbol": "GBBD85",
-      "company": "8.75% Garima Debenture 2085",
-      "unit": "1,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2021-12-02",
-      "closing_date": "2021-12-16",
-      "issue_manager": "NIBL Ace Capital Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
