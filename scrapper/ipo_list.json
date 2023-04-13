@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "MKHL",
+      "company": "Mai Khola Hydropower Limited",
+      "unit": "1,269,411.00",
+      "price": "100.00",
+      "opening_date": "2023-04-21",
+      "closing_date": "2023-04-25",
+      "issue_manager": "Prabhu Capital Ltd"
+    },
+    {
       "symbol": "DPCL",
       "company": "Dolti Power Company Ltd",
       "unit": "1,271,861.00",
@@ -46,15 +55,6 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "MKHL",
-      "company": "Mai Khola Hydropower Limited",
-      "unit": "1,921,568.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Ltd"
-    },
-    {
       "symbol": "IHL",
       "company": "Ingwa Hydropower Ltd",
       "unit": "1,800,000.00",
@@ -64,7 +64,7 @@
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
     },
     {
-      "symbol": "SMJCL",
+      "symbol": "SMJC",
       "company": "Sagarmatha Jalbidhyut Company Limited",
       "unit": "3,581,760.00",
       "price": "100.00",
@@ -576,7 +576,7 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "SMJCL",
+      "symbol": "SMJC",
       "company": "Sagarmatha Jalbidhyut Company Limited",
       "unit": "1,120,000.00",
       "price": "100.00",
@@ -691,7 +691,7 @@
       "unit": "120,000,000.00",
       "price": "10.00",
       "opening_date": "2023-04-09",
-      "closing_date": "2023-04-12",
+      "closing_date": "2023-04-23",
       "issue_manager": "Siddhartha Capital Ltd."
     },
     {
@@ -1149,7 +1149,7 @@
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
-      "symbol": "SMJCL",
+      "symbol": "SMJC",
       "company": "Sagarmatha Jalbidhyut Company Limited",
       "unit": "436,800.00",
       "price": "100.00",
