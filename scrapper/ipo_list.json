@@ -28,6 +28,15 @@
       "issue_manager": "Prabhu Capital Ltd"
     },
     {
+      "symbol": "IHL",
+      "company": "Ingwa Hydropower Ltd",
+      "unit": "1,268,639.00",
+      "price": "100.00",
+      "opening_date": "2023-04-26",
+      "closing_date": "2023-04-30",
+      "issue_manager": "Nepal SBI Merchant Banking Ltd."
+    },
+    {
       "symbol": "TSHL",
       "company": "Three Star Hydropower Limited",
       "unit": "1,231,250.00",
@@ -53,15 +62,6 @@
       "opening_date": "2023-04-06",
       "closing_date": "2023-04-10",
       "issue_manager": "NIC Asia Capital Ltd."
-    },
-    {
-      "symbol": "IHL",
-      "company": "Ingwa Hydropower Ltd",
-      "unit": "1,800,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Nepal SBI Merchant Banking Ltd."
     },
     {
       "symbol": "SMJC",
