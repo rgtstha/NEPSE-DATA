@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "GCI",
+      "company": "Ghorahi Cement Industry Limited",
+      "unit": "7,546,611.00",
+      "price": "435.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Ltd."
+    },
+    {
       "symbol": "MCHL",
       "company": "Menchhiyam Hydropower Limited",
       "unit": "934,915.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-02-16",
       "closing_date": "2023-02-22",
       "issue_manager": "Sunrise Capital Ltd."
-    },
-    {
-      "symbol": "SMHL",
-      "company": "Super Madi Hydropower Limited",
-      "unit": "1,743,000.00",
-      "price": "100.00",
-      "opening_date": "2023-01-23",
-      "closing_date": "2023-01-26",
-      "issue_manager": "Sanima Capital Ltd."
     }
   ],
   "right_share_list": [
@@ -504,6 +504,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "GCI",
+      "company": "Ghorahi Cement Industry Limited",
+      "unit": "397,190.00",
+      "price": "400.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Ltd."
+    },
+    {
       "symbol": "TSHL",
       "company": "Three Star Hydropower Limited",
       "unit": "492,500.00",
@@ -518,7 +527,7 @@
       "unit": "280,000.00",
       "price": "100.00",
       "opening_date": "2023-04-06",
-      "closing_date": "2023-04-20",
+      "closing_date": "2023-05-07",
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
@@ -673,15 +682,6 @@
       "opening_date": "2022-09-16",
       "closing_date": "2022-10-16",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "SJCL",
-      "company": "Sanjen Jalavidhyut Company Limited",
-      "unit": "3,650,000.00",
-      "price": "100.00",
-      "opening_date": "2022-08-21",
-      "closing_date": "2022-10-16",
-      "issue_manager": "Citizen Investment Trust"
     }
   ],
   "mutual_fund": [
@@ -713,7 +713,7 @@
       "issue_manager": "RBB Merchant Banking Ltd."
     },
     {
-      "symbol": "KSYJ",
+      "symbol": "KSLY",
       "company": "Kumari Sunaulo Lagani Yojana",
       "unit": "100,000,000.00",
       "price": "10.00",
