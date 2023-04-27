@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "HDHPC",
+      "company": "Himal Dolakha Hydropower Company Limited",
+      "ratio": "1: 0.75",
+      "unit": "12,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Capital Market Limited"
+    },
+    {
       "symbol": "BARUN",
       "company": "Barun Hydropower Company Limited",
       "ratio": "1:1",
@@ -371,16 +381,6 @@
       "opening_date": "2020-10-02",
       "closing_date": "2020-10-22",
       "issue_manager": "BOK Capital Limited"
-    },
-    {
-      "symbol": "SICL",
-      "company": "Shikhar Insurance Company Limited",
-      "ratio": "10:3",
-      "unit": "3,171,932.00",
-      "price": "100.00",
-      "opening_date": "2020-06-28",
-      "closing_date": "2020-07-19",
-      "issue_manager": "Nibl Ace Capital Limited"
     }
   ],
   "fpo_list": [
