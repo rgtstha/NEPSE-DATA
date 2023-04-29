@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "USYHL",
+      "company": "Upper Syange Hydropower Limited",
+      "unit": "870,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
       "symbol": "MODI",
       "company": "Modi Energy Limited",
       "unit": "5,559,420.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-02-01",
       "closing_date": "2023-02-05",
       "issue_manager": "Muktinath Capital Ltd"
-    },
-    {
-      "symbol": "MKHC",
-      "company": "Maya Khola Hydropower Company Limited",
-      "unit": "1,992,000.00",
-      "price": "100.00",
-      "opening_date": "2023-01-27",
-      "closing_date": "2023-01-31",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ],
   "right_share_list": [
