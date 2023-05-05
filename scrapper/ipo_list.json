@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "USYHL",
-      "company": "Upper Syange Hydropower Limited",
-      "unit": "870,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Siddhartha Capital Ltd."
-    },
-    {
       "symbol": "MODI",
       "company": "Modi Energy Limited",
       "unit": "5,559,420.00",
@@ -19,6 +10,24 @@
       "issue_manager": "Sunrise Capital Ltd"
     },
     {
+      "symbol": "NRML",
+      "company": "Nepal Republic Media Limited",
+      "unit": "4,353,000.00",
+      "price": "100.00",
+      "opening_date": "2023-06-09",
+      "closing_date": "2023-06-13",
+      "issue_manager": "Mega Capital Markets Ltd."
+    },
+    {
+      "symbol": "USYHL",
+      "company": "Upper Syange Hydropower Limited",
+      "unit": "870,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
       "symbol": "CITY",
       "company": "City Hotel Limited",
       "unit": "1,355,940.00",
@@ -26,24 +35,6 @@
       "opening_date": "2023-05-08",
       "closing_date": "2023-05-11",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "MKHL",
-      "company": "Mai Khola Hydropower Limited",
-      "unit": "1,269,411.00",
-      "price": "100.00",
-      "opening_date": "2023-04-21",
-      "closing_date": "2023-04-25",
-      "issue_manager": "Prabhu Capital Ltd"
-    },
-    {
-      "symbol": "IHL",
-      "company": "Ingwa Hydropower Ltd",
-      "unit": "1,268,639.00",
-      "price": "100.00",
-      "opening_date": "2023-04-26",
-      "closing_date": "2023-04-30",
-      "issue_manager": "Nepal SBI Merchant Banking Ltd."
     },
     {
       "symbol": "GCI",
@@ -64,15 +55,6 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "NRML",
-      "company": "Nepal Republic Media Limited",
-      "unit": "4,353,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
       "symbol": "REDL",
       "company": "Rawa Energy Development Ltd.",
       "unit": "840,000.00",
@@ -80,6 +62,24 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
+      "symbol": "MKHL",
+      "company": "Mai Khola Hydropower Limited",
+      "unit": "1,269,411.00",
+      "price": "100.00",
+      "opening_date": "2023-04-21",
+      "closing_date": "2023-04-25",
+      "issue_manager": "Prabhu Capital Ltd"
+    },
+    {
+      "symbol": "IHL",
+      "company": "Ingwa Hydropower Ltd",
+      "unit": "1,268,639.00",
+      "price": "100.00",
+      "opening_date": "2023-04-26",
+      "closing_date": "2023-04-30",
+      "issue_manager": "Nepal SBI Merchant Banking Ltd."
     },
     {
       "symbol": "DPCL",
@@ -118,7 +118,7 @@
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
-      "symbol": "MJS",
+      "symbol": "MAKAR",
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
       "unit": "2,280,000.00",
       "price": "100.00",
@@ -576,7 +576,7 @@
       "issue_manager": "Prabhu Capital Ltd"
     },
     {
-      "symbol": "MJS",
+      "symbol": "MAKAR",
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
       "unit": "760,000.00",
       "price": "100.00",
@@ -709,7 +709,7 @@
       "unit": "120,000,000.00",
       "price": "10.00",
       "opening_date": "2023-04-30",
-      "closing_date": "2023-05-04",
+      "closing_date": "2023-05-14",
       "issue_manager": "RBB Merchant Banking Ltd."
     },
     {
@@ -1050,6 +1050,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "NRML",
+      "company": "Nepal Republic Media Limited",
+      "unit": "435,300.00",
+      "price": "100.00",
+      "opening_date": "2023-05-14",
+      "closing_date": "2023-05-28",
+      "issue_manager": "Mega Capital Markets Ltd."
+    },
+    {
       "symbol": "GCI",
       "company": "Ghorahi Cement Industry Limited",
       "unit": "754,661.00",
@@ -1158,7 +1167,7 @@
       "issue_manager": "Sunrise Capital Ltd"
     },
     {
-      "symbol": "MJS",
+      "symbol": "MAKAR",
       "company": "Makar Jitumaya Suri Hydropower Company Limited",
       "unit": "152,000.00",
       "price": "100.00",
@@ -1219,15 +1228,6 @@
       "opening_date": "2022-12-07",
       "closing_date": "2022-12-21",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "MKHC",
-      "company": "Maya Khola Hydropower Company Limited",
-      "unit": "240,000.00",
-      "price": "100.00",
-      "opening_date": "2022-12-09",
-      "closing_date": "2022-12-23",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ]
 }
