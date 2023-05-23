@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "REDL",
+      "company": "Rawa Energy Development Ltd.",
+      "unit": "643,667.00",
+      "price": "100.00",
+      "opening_date": "2023-06-01",
+      "closing_date": "2023-06-05",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "KBSHL",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "243,675.00",
@@ -62,15 +71,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Himalayan Capital Ltd"
-    },
-    {
-      "symbol": "REDL",
-      "company": "Rawa Energy Development Ltd.",
-      "unit": "840,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Ltd."
     },
     {
       "symbol": "MKHL",
@@ -513,6 +513,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "KBSHL",
+      "company": "Kutheli Bukhari Small Hydropower Limited",
+      "unit": "121,868.00",
+      "price": "100.00",
+      "opening_date": "2023-06-02",
+      "closing_date": "2023-06-16",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "USYHL",
       "company": "Upper Syange Hydropower Limited",
       "unit": "220,000.00",
@@ -682,15 +691,6 @@
       "opening_date": "2022-12-06",
       "closing_date": "2022-12-22",
       "issue_manager": "Sanima Capital Ltd."
-    },
-    {
-      "symbol": "BHPL",
-      "company": "Barahi Hydropower Public Limited",
-      "unit": "250,000.00",
-      "price": "100.00",
-      "opening_date": "2022-10-21",
-      "closing_date": "2022-11-11",
-      "issue_manager": "NIBL Ace Capital"
     }
   ],
   "mutual_fund": [
