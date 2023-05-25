@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "KBSHL",
+      "company": "Kutheli Bukhari Small Hydropower Limited",
+      "unit": "12,168.00",
+      "price": "100.00",
+      "opening_date": "2023-06-02",
+      "closing_date": "2023-06-16",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "USYHL",
       "company": "Upper Syange Hydropower Limited",
       "unit": "65,000.00",
@@ -1228,15 +1237,6 @@
       "opening_date": "2022-12-21",
       "closing_date": "2023-01-04",
       "issue_manager": "Muktinath Capital Ltd"
-    },
-    {
-      "symbol": "AHL",
-      "company": "Asian Hydropower Limited",
-      "unit": "84,000.00",
-      "price": "100.00",
-      "opening_date": "2022-12-13",
-      "closing_date": "2022-12-27",
-      "issue_manager": "NMB Capital Ltd"
     }
   ]
 }
