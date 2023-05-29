@@ -695,6 +695,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "LVF2",
+      "company": "Laxmi Value Fund-II",
+      "unit": "80,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Capital Market Ltd"
+    },
+    {
       "symbol": "SIGS3",
       "company": "Siddhartha Investment Growth Scheme 3",
       "unit": "120,000,000.00",
@@ -864,15 +873,6 @@
       "opening_date": "2021-05-19",
       "closing_date": "2021-05-23",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "NIBSF2",
-      "company": "NIBL Samriddhi Fund - 2",
-      "unit": "120,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-04-26",
-      "closing_date": "2021-04-29",
-      "issue_manager": "NIBL Ace Capital Ltd"
     }
   ],
   "bonds_debentures": [
