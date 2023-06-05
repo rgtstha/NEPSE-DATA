@@ -19,15 +19,6 @@
       "issue_manager": "NMB Capital Limited"
     },
     {
-      "symbol": "MODI",
-      "company": "Modi Energy Limited",
-      "unit": "5,559,420.00",
-      "price": "100.00",
-      "opening_date": "2023-05-02",
-      "closing_date": "2023-05-07",
-      "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
       "symbol": "NRML",
       "company": "Nepal Republic Media Limited",
       "unit": "4,353,000.00",
@@ -44,15 +35,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Siddhartha Capital Ltd."
-    },
-    {
-      "symbol": "CITY",
-      "company": "City Hotel Limited",
-      "unit": "1,355,940.00",
-      "price": "100.00",
-      "opening_date": "2023-05-08",
-      "closing_date": "2023-05-11",
-      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "GCI",
@@ -89,6 +71,24 @@
       "opening_date": "2023-04-26",
       "closing_date": "2023-04-30",
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
+    },
+    {
+      "symbol": "MODI",
+      "company": "Modi Energy Limited",
+      "unit": "5,559,420.00",
+      "price": "100.00",
+      "opening_date": "2023-05-02",
+      "closing_date": "2023-05-07",
+      "issue_manager": "Sunrise Capital Ltd"
+    },
+    {
+      "symbol": "CITY",
+      "company": "City Hotel Limited",
+      "unit": "1,355,940.00",
+      "price": "100.00",
+      "opening_date": "2023-05-08",
+      "closing_date": "2023-05-11",
+      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "DPCL",
