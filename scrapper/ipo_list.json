@@ -1,22 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "REDL",
-      "company": "Rawa Energy Development Ltd.",
-      "unit": "643,667.00",
-      "price": "100.00",
-      "opening_date": "2023-06-01",
-      "closing_date": "2023-06-05",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "KBSHL",
-      "company": "Kutheli Bukhari Small Hydropower Limited",
-      "unit": "243,675.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NMB Capital Limited"
+      "symbol": "GCI",
+      "company": "Ghorahi Cement Industry Limited",
+      "unit": "6,911,670.00",
+      "price": "435.00",
+      "opening_date": "2023-06-15",
+      "closing_date": "2023-06-19",
+      "issue_manager": "Himalayan Capital Ltd."
     },
     {
       "symbol": "NRML",
@@ -28,6 +19,33 @@
       "issue_manager": "Mega Capital Markets Ltd."
     },
     {
+      "symbol": "ULHCL",
+      "company": "Upper Lohare Hydropower Company Limited",
+      "unit": "2,498,040.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "KBSHL",
+      "company": "Kutheli Bukhari Small Hydropower Limited",
+      "unit": "243,675.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "IMELICL",
+      "company": "IME Life Insurance Company Limited",
+      "unit": "12,000,000.00",
+      "price": "236.91",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
       "symbol": "USYHL",
       "company": "Upper Syange Hydropower Limited",
       "unit": "870,000.00",
@@ -37,13 +55,13 @@
       "issue_manager": "Siddhartha Capital Ltd."
     },
     {
-      "symbol": "GCI",
-      "company": "Ghorahi Cement Industry Limited",
-      "unit": "7,546,611.00",
-      "price": "435.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Himalayan Capital Ltd."
+      "symbol": "REDL",
+      "company": "Rawa Energy Development Ltd.",
+      "unit": "643,667.00",
+      "price": "100.00",
+      "opening_date": "2023-06-01",
+      "closing_date": "2023-06-05",
+      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "TSHL",
@@ -91,7 +109,7 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "DPCL",
+      "symbol": "DOLTI",
       "company": "Dolti Power Company Ltd",
       "unit": "1,271,861.00",
       "price": "100.00",
@@ -100,7 +118,7 @@
       "issue_manager": "Nic Asia Capital Ltd."
     },
     {
-      "symbol": "BEDCL",
+      "symbol": "BEDC",
       "company": "Bhugol Energy Development Company Limited",
       "unit": "1,346,993.00",
       "price": "100.00",
@@ -161,24 +179,6 @@
       "opening_date": "2023-02-23",
       "closing_date": "2023-02-27",
       "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "SMH",
-      "company": "Supermai Hydropower Limited",
-      "unit": "415,000.00",
-      "price": "100.00",
-      "opening_date": "2023-02-06",
-      "closing_date": "2023-02-09",
-      "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "AHL",
-      "company": "Asian Hydropower Limited",
-      "unit": "697,200.00",
-      "price": "100.00",
-      "opening_date": "2023-02-10",
-      "closing_date": "2023-02-15",
-      "issue_manager": "NMB Capital Ltd"
     }
   ],
   "right_share_list": [
@@ -576,7 +576,7 @@
       "issue_manager": "Sunrise Capital Ltd"
     },
     {
-      "symbol": "DPCL",
+      "symbol": "DOLTI",
       "company": "Dolti Power Company Ltd",
       "unit": "536,486.00",
       "price": "100.00",
@@ -585,7 +585,7 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "BEDCL",
+      "symbol": "BEDC",
       "company": "Bhugol Energy Development Company Limited",
       "unit": "544,053.00",
       "price": "100.00",
@@ -740,7 +740,7 @@
       "issue_manager": "Kumari Capital Ltd"
     },
     {
-      "symbol": "PSMF",
+      "symbol": "PRSF",
       "company": "Prabhu Smart Fund",
       "unit": "80,000,000.00",
       "price": "10.00",
@@ -922,7 +922,7 @@
       "issue_manager": "NIBL Ace Capital Ltd."
     },
     {
-      "symbol": "GBIME84/85",
+      "symbol": "GBILD84/85",
       "company": "11.25% Global IME Bank Debenture 2084/85",
       "unit": "5,000,000.00",
       "price": "1,000.00",
@@ -1158,7 +1158,7 @@
       "issue_manager": "NIC Asia Capital Ltd."
     },
     {
-      "symbol": "BEDCL",
+      "symbol": "BEDC",
       "company": "Bhugol Energy Development Company Limited",
       "unit": "108,811.00",
       "price": "100.00",
@@ -1167,7 +1167,7 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "DPCL",
+      "symbol": "DOLTI",
       "company": "Dolti Power Company Ltd",
       "unit": "107,298.00",
       "price": "100.00",
