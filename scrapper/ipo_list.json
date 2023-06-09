@@ -19,6 +19,15 @@
       "issue_manager": "Mega Capital Markets Ltd."
     },
     {
+      "symbol": "IMELICL",
+      "company": "IME Life Insurance Company Limited",
+      "unit": "9,600,000.00",
+      "price": "236.91",
+      "opening_date": "2023-07-05",
+      "closing_date": "2023-07-09",
+      "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
       "symbol": "ULHCL",
       "company": "Upper Lohare Hydropower Company Limited",
       "unit": "2,498,040.00",
@@ -35,15 +44,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "IMELICL",
-      "company": "IME Life Insurance Company Limited",
-      "unit": "12,000,000.00",
-      "price": "236.91",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Civil Capital Market Ltd."
     },
     {
       "symbol": "USYHL",
@@ -882,7 +882,7 @@
       "unit": "1,000,000.00",
       "price": "1,000.00",
       "opening_date": "2023-05-30",
-      "closing_date": "2023-06-13",
+      "closing_date": "2023-06-08",
       "issue_manager": "Nabil Investment Banking Ltd"
     },
     {
@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "IMELICL",
+      "company": "IME Life Insurance Company Limited",
+      "unit": "1,200,000.00",
+      "price": "236.91",
+      "opening_date": "2023-06-16",
+      "closing_date": "2023-06-30",
+      "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
       "symbol": "KBSHL",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "12,168.00",
@@ -1228,15 +1237,6 @@
       "opening_date": "2023-01-03",
       "closing_date": "2023-01-17",
       "issue_manager": "Sunrise Capital Ltd."
-    },
-    {
-      "symbol": "SPL",
-      "company": "Shuvam Power Limited",
-      "unit": "58,058.00",
-      "price": "100.00",
-      "opening_date": "2022-12-21",
-      "closing_date": "2023-01-04",
-      "issue_manager": "Muktinath Capital Ltd"
     }
   ]
 }
