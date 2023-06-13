@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "TSHL",
+      "company": "Three Star Hydropower Limited",
+      "unit": "613,162.00",
+      "price": "100.00",
+      "opening_date": "2023-06-20",
+      "closing_date": "2023-06-23",
+      "issue_manager": "Himalayan Capital Ltd"
+    },
+    {
       "symbol": "GCI",
       "company": "Ghorahi Cement Industry Limited",
       "unit": "6,911,670.00",
@@ -62,15 +71,6 @@
       "opening_date": "2023-06-01",
       "closing_date": "2023-06-05",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "TSHL",
-      "company": "Three Star Hydropower Limited",
-      "unit": "1,231,250.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Himalayan Capital Ltd"
     },
     {
       "symbol": "MKHL",
