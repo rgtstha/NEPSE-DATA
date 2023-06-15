@@ -38,7 +38,7 @@
     },
     {
       "symbol": "ULHCL",
-      "company": "Upper Lohare Hydropower Company Limited",
+      "company": "Upper Lohore Hydropower Company Limited",
       "unit": "2,498,040.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
@@ -182,6 +182,16 @@
     }
   ],
   "right_share_list": [
+    {
+      "symbol": "NHPC",
+      "company": "National Hydro Power Company Limited",
+      "ratio": "10: 5",
+      "unit": "8,221,459.72",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital limited"
+    },
     {
       "symbol": "HDHPC",
       "company": "Himal Dolakha Hydropower Company Limited",
@@ -371,16 +381,6 @@
       "opening_date": "2020-11-19",
       "closing_date": "2020-12-09",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "SFCL",
-      "company": "Samriddhi Finance Company Limited (former World Merchant Banking)",
-      "ratio": "1:2",
-      "unit": "3,639,606.00",
-      "price": "100.00",
-      "opening_date": "2020-10-02",
-      "closing_date": "2020-10-22",
-      "issue_manager": "BOK Capital Limited"
     }
   ],
   "fpo_list": [
@@ -512,6 +512,15 @@
     }
   ],
   "ipo_local": [
+    {
+      "symbol": "ULHCL",
+      "company": "Upper Lohore Hydropower Company Limited",
+      "unit": "509,804.00",
+      "price": "100.00",
+      "opening_date": "2023-06-22",
+      "closing_date": "2023-07-06",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
     {
       "symbol": "KBSHL",
       "company": "Kutheli Bukhari Small Hydropower Limited",
@@ -682,15 +691,6 @@
       "opening_date": "2022-12-07",
       "closing_date": "2022-12-28",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "SMHL",
-      "company": "Super Madi Hydropower Limited",
-      "unit": "1,050,000.00",
-      "price": "100.00",
-      "opening_date": "2022-12-06",
-      "closing_date": "2022-12-22",
-      "issue_manager": "Sanima Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "ULHCL",
+      "company": "Upper Lohore Hydropower Company Limited",
+      "unit": "198,824.00",
+      "price": "100.00",
+      "opening_date": "2023-06-22",
+      "closing_date": "2023-07-06",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "IMELICL",
       "company": "IME Life Insurance Company Limited",
       "unit": "1,200,000.00",
@@ -1228,15 +1237,6 @@
       "opening_date": "2023-01-18",
       "closing_date": "2023-02-01",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "MHCL",
-      "company": "Molung Hydropower Company Limited",
-      "unit": "272,850.00",
-      "price": "100.00",
-      "opening_date": "2023-01-03",
-      "closing_date": "2023-01-17",
-      "issue_manager": "Sunrise Capital Ltd."
     }
   ]
 }
