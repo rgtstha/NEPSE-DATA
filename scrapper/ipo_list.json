@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "USYHL",
+      "company": "Upper Syange Hydropower Limited",
+      "unit": "539,500.00",
+      "price": "100.00",
+      "opening_date": "2023-06-25",
+      "closing_date": "2023-06-28",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
       "symbol": "TSHL",
       "company": "Three Star Hydropower Limited",
       "unit": "613,162.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-03-02",
       "closing_date": "2023-03-07",
       "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
-      "symbol": "ANLB",
-      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
-      "unit": "169,755.00",
-      "price": "100.00",
-      "opening_date": "2023-02-23",
-      "closing_date": "2023-02-27",
-      "issue_manager": "Sunrise Capital Ltd"
     }
   ],
   "right_share_list": [
@@ -527,7 +527,7 @@
       "unit": "121,868.00",
       "price": "100.00",
       "opening_date": "2023-06-02",
-      "closing_date": "2023-06-16",
+      "closing_date": "2023-06-20",
       "issue_manager": "NMB Capital Limited"
     },
     {
