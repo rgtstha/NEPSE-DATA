@@ -193,6 +193,16 @@
       "issue_manager": "Muktinath Capital limited"
     },
     {
+      "symbol": "API",
+      "company": "Api Power Company Limited",
+      "ratio": "1: 0.40",
+      "unit": "16,533,137.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "HDHPC",
       "company": "Himal Dolakha Hydropower Company Limited",
       "ratio": "1: 0.75",
@@ -371,16 +381,6 @@
       "opening_date": "2021-01-26",
       "closing_date": "2021-02-15",
       "issue_manager": "Global IME Capital Ltd."
-    },
-    {
-      "symbol": "NFS",
-      "company": "Nepal Finance Limited",
-      "ratio": "1:1.25",
-      "unit": "1,697,506.25",
-      "price": "100.00",
-      "opening_date": "2020-11-19",
-      "closing_date": "2020-12-09",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "fpo_list": [
