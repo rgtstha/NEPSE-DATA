@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "1,430,162.00",
+      "price": "116.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Siddhartha Capital Ltd"
+    },
+    {
       "symbol": "USYHL",
       "company": "Upper Syange Hydropower Limited",
       "unit": "539,500.00",
@@ -170,27 +179,18 @@
       "opening_date": "2023-03-10",
       "closing_date": "2023-03-14",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "BPW",
-      "company": "BPW Laghubitta Bittiya Sanstha Limited",
-      "unit": "80,950.00",
-      "price": "100.00",
-      "opening_date": "2023-03-02",
-      "closing_date": "2023-03-07",
-      "issue_manager": "Mega Capital Markets Ltd."
     }
   ],
   "right_share_list": [
     {
       "symbol": "NHPC",
       "company": "National Hydro Power Company Limited",
-      "ratio": "10: 5",
+      "ratio": "10:5",
       "unit": "8,221,459.72",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital limited"
+      "opening_date": "2023-07-14",
+      "closing_date": "2023-08-03",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "API",
@@ -209,7 +209,7 @@
       "unit": "12,000,000.00",
       "price": "100.00",
       "opening_date": "2023-06-05",
-      "closing_date": "2023-06-25",
+      "closing_date": "2023-07-10",
       "issue_manager": "Laxmi Capital Market Limited"
     },
     {
@@ -513,6 +513,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "MEHL",
+      "company": "Manakamana Engineering Hydropower Limited",
+      "unit": "800,000.00",
+      "price": "100.00",
+      "opening_date": "2023-07-04",
+      "closing_date": "2023-07-18",
+      "issue_manager": "B.O.K Capital Market Limited"
+    },
+    {
       "symbol": "ULHCL",
       "company": "Upper Lohore Hydropower Company Limited",
       "unit": "509,804.00",
@@ -682,15 +691,6 @@
       "opening_date": "2022-11-30",
       "closing_date": "2022-12-14",
       "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
-      "symbol": "SMH",
-      "company": "Supermai Hydropower Limited",
-      "unit": "500,000.00",
-      "price": "100.00",
-      "opening_date": "2022-12-07",
-      "closing_date": "2022-12-28",
-      "issue_manager": "Sanima Capital Ltd"
     }
   ],
   "mutual_fund": [
@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "MEHL",
+      "company": "Manakamana Engineering Hydropower Limited",
+      "unit": "200,000.00",
+      "price": "100.00",
+      "opening_date": "2023-07-04",
+      "closing_date": "2023-07-18",
+      "issue_manager": "B.O.K Capital Market Limited"
+    },
+    {
       "symbol": "ULHCL",
       "company": "Upper Lohore Hydropower Company Limited",
       "unit": "198,824.00",
@@ -1228,15 +1237,6 @@
       "opening_date": "2023-01-19",
       "closing_date": "2023-02-02",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "TAMOR",
-      "company": "Sanima Middle Tamor Hydropower Limited",
-      "unit": "499,875.00",
-      "price": "100.00",
-      "opening_date": "2023-01-18",
-      "closing_date": "2023-02-01",
-      "issue_manager": "Sanima Capital Ltd"
     }
   ]
 }
