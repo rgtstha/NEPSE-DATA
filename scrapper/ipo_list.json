@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "KBSHL",
+      "company": "Kutheli Bukhari Small Hydropower Limited",
+      "unit": "101,151.00",
+      "price": "100.00",
+      "opening_date": "2023-07-11",
+      "closing_date": "2023-07-14",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "BHPDCL",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "1,430,162.00",
@@ -71,15 +80,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "USYHL",
-      "company": "Upper Syange Hydropower Limited",
-      "unit": "870,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Siddhartha Capital Ltd."
     },
     {
       "symbol": "REDL",
