@@ -213,6 +213,16 @@
       "issue_manager": "Laxmi Capital Market Limited"
     },
     {
+      "symbol": "AKPL",
+      "company": "Arun Kabeli Power Limited",
+      "ratio": "1: 1",
+      "unit": "18,552,105.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
       "symbol": "BARUN",
       "company": "Barun Hydropower Company Limited",
       "ratio": "1:1",
@@ -371,16 +381,6 @@
       "opening_date": "2021-01-12",
       "closing_date": "2021-02-01",
       "issue_manager": "RBB Merchant Banking Limited"
-    },
-    {
-      "symbol": "NABBC",
-      "company": "Narayani Development Bank Limited",
-      "ratio": "1:1",
-      "unit": "656,169.00",
-      "price": "100.00",
-      "opening_date": "2021-01-26",
-      "closing_date": "2021-02-15",
-      "issue_manager": "Global IME Capital Ltd."
     }
   ],
   "fpo_list": [
@@ -512,6 +512,15 @@
     }
   ],
   "ipo_local": [
+    {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "572,065.00",
+      "price": "100.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-23",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
     {
       "symbol": "MEHL",
       "company": "Manakamana Engineering Hydropower Limited",
@@ -682,15 +691,6 @@
       "opening_date": "2022-12-09",
       "closing_date": "2023-01-01",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "KDL",
-      "company": "Kalinchowk Darshan Limited",
-      "unit": "120,000.00",
-      "price": "100.00",
-      "opening_date": "2022-11-30",
-      "closing_date": "2022-12-14",
-      "issue_manager": "Nabil Investment Banking Ltd"
     }
   ],
   "mutual_fund": [
@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "85,810.00",
+      "price": "100.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-23",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
       "symbol": "MEHL",
       "company": "Manakamana Engineering Hydropower Limited",
       "unit": "200,000.00",
@@ -1227,15 +1236,6 @@
       "price": "100.00",
       "opening_date": "2023-01-29",
       "closing_date": "2023-02-12",
-      "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "SMJC",
-      "company": "Sagarmatha Jalbidhyut Company Limited",
-      "unit": "436,800.00",
-      "price": "100.00",
-      "opening_date": "2023-01-19",
-      "closing_date": "2023-02-02",
       "issue_manager": "Prabhu Capital Ltd."
     }
   ]
