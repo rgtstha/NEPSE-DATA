@@ -73,15 +73,6 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "KBSHL",
-      "company": "Kutheli Bukhari Small Hydropower Limited",
-      "unit": "243,675.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NMB Capital Limited"
-    },
-    {
       "symbol": "REDL",
       "company": "Rawa Energy Development Ltd.",
       "unit": "643,667.00",
@@ -179,6 +170,15 @@
       "opening_date": "2023-03-10",
       "closing_date": "2023-03-14",
       "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "BPW",
+      "company": "BPW Laghubitta Bittiya Sanstha Limited",
+      "unit": "80,950.00",
+      "price": "100.00",
+      "opening_date": "2023-03-02",
+      "closing_date": "2023-03-07",
+      "issue_manager": "Mega Capital Markets Ltd."
     }
   ],
   "right_share_list": [
