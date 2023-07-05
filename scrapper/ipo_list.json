@@ -1,6 +1,60 @@
 {
   "ipo_list": [
     {
+      "symbol": "MAHL",
+      "company": "Mandu Hydropower Limited",
+      "unit": "1,636,370.00",
+      "price": "248.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital limited"
+    },
+    {
+      "symbol": "MSHCL",
+      "company": "Mid Solu Hydropower Company Limited",
+      "unit": "1,496,800.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "SNLICL",
+      "company": "Sun Nepal Life Insurance Company Limited",
+      "unit": "9,600,000.00",
+      "price": "250.55",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
+    {
+      "symbol": "CLICL",
+      "company": "Citizen Life Insurance Company Limited",
+      "unit": "11,250,000.00",
+      "price": "290.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIBL Ace Capital Ltd."
+    },
+    {
+      "symbol": "HINL",
+      "company": "Hathway Investment Nepal Limited",
+      "unit": "2,925,000.00",
+      "price": "50.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital Ltd."
+    },
+    {
+      "symbol": "HINL",
+      "company": "Hathway Investment Nepal Limited",
+      "unit": "2,925,000.00",
+      "price": "50.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
       "symbol": "KBSHL",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "101,151.00",
@@ -42,7 +96,7 @@
       "unit": "6,911,670.00",
       "price": "435.00",
       "opening_date": "2023-06-15",
-      "closing_date": "2023-06-19",
+      "closing_date": "",
       "issue_manager": "Himalayan Capital Ltd."
     },
     {
@@ -59,8 +113,8 @@
       "company": "IME Life Insurance Company Limited",
       "unit": "9,600,000.00",
       "price": "236.91",
-      "opening_date": "2023-07-05",
-      "closing_date": "2023-07-09",
+      "opening_date": "2023-07-06",
+      "closing_date": "2023-07-10",
       "issue_manager": "Civil Capital Market Ltd."
     },
     {
@@ -73,7 +127,7 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "REDL",
+      "symbol": "RAWA",
       "company": "Rawa Energy Development Ltd.",
       "unit": "643,667.00",
       "price": "100.00",
@@ -100,7 +154,7 @@
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
     },
     {
-      "symbol": "MODI",
+      "symbol": "MEL",
       "company": "Modi Energy Limited",
       "unit": "5,559,420.00",
       "price": "100.00",
@@ -125,60 +179,6 @@
       "opening_date": "2023-04-11",
       "closing_date": "2023-04-16",
       "issue_manager": "Nic Asia Capital Ltd."
-    },
-    {
-      "symbol": "BEDC",
-      "company": "Bhugol Energy Development Company Limited",
-      "unit": "1,346,993.00",
-      "price": "100.00",
-      "opening_date": "2023-04-06",
-      "closing_date": "2023-04-10",
-      "issue_manager": "NIC Asia Capital Ltd."
-    },
-    {
-      "symbol": "MCHL",
-      "company": "Menchhiyam Hydropower Limited",
-      "unit": "934,915.00",
-      "price": "100.00",
-      "opening_date": "2023-04-17",
-      "closing_date": "2023-04-20",
-      "issue_manager": "Nic Asia Capital Ltd."
-    },
-    {
-      "symbol": "SMJC",
-      "company": "Sagarmatha Jalbidhyut Company Limited",
-      "unit": "3,581,760.00",
-      "price": "100.00",
-      "opening_date": "2023-03-22",
-      "closing_date": "2023-03-26",
-      "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "MAKAR",
-      "company": "Makar Jitumaya Suri Hydropower Company Limited",
-      "unit": "2,280,000.00",
-      "price": "100.00",
-      "opening_date": "2023-04-02",
-      "closing_date": "2023-04-05",
-      "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "TAMOR",
-      "company": "Sanima Middle Tamor Hydropower Limited",
-      "unit": "4,248,988.00",
-      "price": "100.00",
-      "opening_date": "2023-03-10",
-      "closing_date": "2023-03-14",
-      "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "BPW",
-      "company": "BPW Laghubitta Bittiya Sanstha Limited",
-      "unit": "80,950.00",
-      "price": "100.00",
-      "opening_date": "2023-03-02",
-      "closing_date": "2023-03-07",
-      "issue_manager": "Mega Capital Markets Ltd."
     }
   ],
   "right_share_list": [
@@ -516,7 +516,7 @@
       "symbol": "BHPDCL",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "572,065.00",
-      "price": "100.00",
+      "price": "116.00",
       "opening_date": "2023-07-09",
       "closing_date": "2023-07-23",
       "issue_manager": "Siddhartha Capital Limited"
@@ -576,7 +576,7 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "REDL",
+      "symbol": "RAWA",
       "company": "Rawa Energy Development Ltd.",
       "unit": "280,000.00",
       "price": "100.00",
@@ -594,7 +594,7 @@
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
     },
     {
-      "symbol": "MODI",
+      "symbol": "MEL",
       "company": "Modi Energy Limited",
       "unit": "2,900,000.00",
       "price": "100.00",
@@ -694,6 +694,15 @@
     }
   ],
   "mutual_fund": [
+    {
+      "symbol": "H8020",
+      "company": "Himalayan 80-20",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Limited"
+    },
     {
       "symbol": "LVF2",
       "company": "Laxmi Value Fund-II",
@@ -864,15 +873,6 @@
       "opening_date": "2021-08-20",
       "closing_date": "2021-08-26",
       "issue_manager": "Mega Capital Markets Ltd"
-    },
-    {
-      "symbol": "PSF",
-      "company": "Prabhu Select Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-05-19",
-      "closing_date": "2021-05-23",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "bonds_debentures": [
@@ -1062,7 +1062,7 @@
       "symbol": "BHPDCL",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "85,810.00",
-      "price": "100.00",
+      "price": "116.00",
       "opening_date": "2023-07-09",
       "closing_date": "2023-07-23",
       "issue_manager": "Siddhartha Capital Limited"
@@ -1140,7 +1140,7 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "REDL",
+      "symbol": "RAWA",
       "company": "Rawa Energy Development Ltd.",
       "unit": "56,000.00",
       "price": "100.00",
@@ -1158,7 +1158,7 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "MODI",
+      "symbol": "MEL",
       "company": "Modi Energy Limited",
       "unit": "435,000.00",
       "price": "100.00",
