@@ -1,6 +1,33 @@
 {
   "ipo_list": [
     {
+      "symbol": "GCI",
+      "company": "Ghorahi Cement Industry Limited",
+      "unit": "6,911,670.00",
+      "price": "435.00",
+      "opening_date": "2023-07-07",
+      "closing_date": "2023-07-09",
+      "issue_manager": "Himalayan Capital Ltd."
+    },
+    {
+      "symbol": "KBSHL",
+      "company": "Kutheli Bukhari Small Hydropower Limited",
+      "unit": "101,151.00",
+      "price": "100.00",
+      "opening_date": "2023-07-11",
+      "closing_date": "2023-07-14",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "IMELICL",
+      "company": "IME Life Insurance Company Limited",
+      "unit": "9,600,000.00",
+      "price": "236.91",
+      "opening_date": "2023-07-06",
+      "closing_date": "2023-07-10",
+      "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
       "symbol": "MAHL",
       "company": "Mandu Hydropower Limited",
       "unit": "1,636,370.00",
@@ -55,15 +82,6 @@
       "issue_manager": "Global IME Capital Limited"
     },
     {
-      "symbol": "KBSHL",
-      "company": "Kutheli Bukhari Small Hydropower Limited",
-      "unit": "101,151.00",
-      "price": "100.00",
-      "opening_date": "2023-07-11",
-      "closing_date": "2023-07-14",
-      "issue_manager": "NMB Capital Limited"
-    },
-    {
       "symbol": "BHPDCL",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "1,430,162.00",
@@ -71,6 +89,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Siddhartha Capital Ltd"
+    },
+    {
+      "symbol": "MEHL",
+      "company": "Manakamana Engineering Hydropower Limited",
+      "unit": "2,800,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "B.O.K Capital Market Ltd"
     },
     {
       "symbol": "USYHL",
@@ -91,15 +118,6 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "GCI",
-      "company": "Ghorahi Cement Industry Limited",
-      "unit": "6,911,670.00",
-      "price": "435.00",
-      "opening_date": "2023-06-15",
-      "closing_date": "",
-      "issue_manager": "Himalayan Capital Ltd."
-    },
-    {
       "symbol": "NRML",
       "company": "Nepal Republic Media Limited",
       "unit": "4,353,000.00",
@@ -107,15 +125,6 @@
       "opening_date": "2023-06-09",
       "closing_date": "2023-06-13",
       "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
-      "symbol": "IMELICL",
-      "company": "IME Life Insurance Company Limited",
-      "unit": "9,600,000.00",
-      "price": "236.91",
-      "opening_date": "2023-07-06",
-      "closing_date": "2023-07-10",
-      "issue_manager": "Civil Capital Market Ltd."
     },
     {
       "symbol": "ULHCL",
@@ -170,38 +179,9 @@
       "opening_date": "2023-05-08",
       "closing_date": "2023-05-11",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "DOLTI",
-      "company": "Dolti Power Company Ltd",
-      "unit": "1,271,861.00",
-      "price": "100.00",
-      "opening_date": "2023-04-11",
-      "closing_date": "2023-04-16",
-      "issue_manager": "Nic Asia Capital Ltd."
     }
   ],
   "right_share_list": [
-    {
-      "symbol": "NHPC",
-      "company": "National Hydro Power Company Limited",
-      "ratio": "10:5",
-      "unit": "8,221,459.72",
-      "price": "100.00",
-      "opening_date": "2023-07-14",
-      "closing_date": "2023-08-03",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "API",
-      "company": "Api Power Company Limited",
-      "ratio": "1: 0.40",
-      "unit": "16,533,137.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
-    },
     {
       "symbol": "HDHPC",
       "company": "Himal Dolakha Hydropower Company Limited",
@@ -213,6 +193,36 @@
       "issue_manager": "Laxmi Capital Market Limited"
     },
     {
+      "symbol": "UPPER",
+      "company": "Upper Tamakoshi Hydropower Limited",
+      "ratio": "1: 1",
+      "unit": "105,900,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sunrise Capital Limited"
+    },
+    {
+      "symbol": "SPDL",
+      "company": "Synergy Power Development Limited",
+      "ratio": "2: 1",
+      "unit": "4,032,875.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "NHPC",
+      "company": "National Hydro Power Company Limited",
+      "ratio": "10:5",
+      "unit": "8,221,459.72",
+      "price": "100.00",
+      "opening_date": "2023-07-14",
+      "closing_date": "2023-08-03",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "AKPL",
       "company": "Arun Kabeli Power Limited",
       "ratio": "1: 1",
@@ -221,6 +231,16 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "API",
+      "company": "Api Power Company Limited",
+      "ratio": "1: 0.40",
+      "unit": "16,533,137.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "BARUN",
@@ -361,26 +381,6 @@
       "opening_date": "2021-07-20",
       "closing_date": "2021-08-24",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "AHPC",
-      "company": "Arun Valley Hydropower Development Company Limited",
-      "ratio": "1:0.5",
-      "unit": "5,241,197.00",
-      "price": "100.00",
-      "opening_date": "2021-04-19",
-      "closing_date": "2021-05-16",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "CIT",
-      "company": "Citizen Investment Trust",
-      "ratio": "100:82.84",
-      "unit": "13,592,592.00",
-      "price": "100.00",
-      "opening_date": "2021-01-12",
-      "closing_date": "2021-02-01",
-      "issue_manager": "RBB Merchant Banking Limited"
     }
   ],
   "fpo_list": [
@@ -513,13 +513,13 @@
   ],
   "ipo_local": [
     {
-      "symbol": "BHPDCL",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "572,065.00",
-      "price": "116.00",
-      "opening_date": "2023-07-09",
-      "closing_date": "2023-07-23",
-      "issue_manager": "Siddhartha Capital Limited"
+      "symbol": "ULHCL",
+      "company": "Upper Lohore Hydropower Company Limited",
+      "unit": "509,804.00",
+      "price": "100.00",
+      "opening_date": "2023-06-22",
+      "closing_date": "2023-07-21",
+      "issue_manager": "NIC Asia Capital Limited"
     },
     {
       "symbol": "MEHL",
@@ -531,13 +531,22 @@
       "issue_manager": "B.O.K Capital Market Limited"
     },
     {
-      "symbol": "ULHCL",
-      "company": "Upper Lohore Hydropower Company Limited",
-      "unit": "509,804.00",
-      "price": "100.00",
-      "opening_date": "2023-06-22",
-      "closing_date": "2023-07-06",
-      "issue_manager": "NIC Asia Capital Limited"
+      "symbol": "MAHL",
+      "company": "Mandu Hydropower Limited",
+      "unit": "272,730.00",
+      "price": "206.00",
+      "opening_date": "2023-07-13",
+      "closing_date": "2023-07-27",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "572,065.00",
+      "price": "116.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-23",
+      "issue_manager": "Siddhartha Capital Limited"
     },
     {
       "symbol": "KBSHL",
@@ -682,15 +691,6 @@
       "opening_date": "2022-12-13",
       "closing_date": "2023-01-03",
       "issue_manager": "NMB Capital Ltd"
-    },
-    {
-      "symbol": "MKHC",
-      "company": "Maya Khola Hydropower Company Limited",
-      "unit": "1,000,000.00",
-      "price": "100.00",
-      "opening_date": "2022-12-09",
-      "closing_date": "2023-01-01",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -895,7 +895,7 @@
       "issue_manager": "Nic Asia Capital Ltd"
     },
     {
-      "symbol": "NMB89/90",
+      "symbol": "NMBD89/90",
       "company": "10.75% NMB Debenture 2089/2090",
       "unit": "4,000,000.00",
       "price": "1,000.00",
@@ -1059,15 +1059,6 @@
   ],
   "ipo_to_migrant_workers": [
     {
-      "symbol": "BHPDCL",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "85,810.00",
-      "price": "116.00",
-      "opening_date": "2023-07-09",
-      "closing_date": "2023-07-23",
-      "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
       "symbol": "MEHL",
       "company": "Manakamana Engineering Hydropower Limited",
       "unit": "200,000.00",
@@ -1075,6 +1066,51 @@
       "opening_date": "2023-07-04",
       "closing_date": "2023-07-18",
       "issue_manager": "B.O.K Capital Market Limited"
+    },
+    {
+      "symbol": "RENLICL",
+      "company": "Reliable Nepal Life Insurance Limited",
+      "unit": "1,200,000.00",
+      "price": "257.00",
+      "opening_date": "2023-07-12",
+      "closing_date": "2023-07-26",
+      "issue_manager": "Civil Capital Market Limited"
+    },
+    {
+      "symbol": "MAHL",
+      "company": "Mandu Hydropower Limited",
+      "unit": "136,364.00",
+      "price": "206.00",
+      "opening_date": "2023-07-13",
+      "closing_date": "2023-07-27",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "SNLICL",
+      "company": "Sun Nepal Life Insurance Company Limited",
+      "unit": "960,000.00",
+      "price": "239.00",
+      "opening_date": "2023-07-17",
+      "closing_date": "2023-07-31",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
+    {
+      "symbol": "CLICL",
+      "company": "Citizen Life Insurance Company Limited",
+      "unit": "1,125,000.00",
+      "price": "244.00",
+      "opening_date": "2023-07-16",
+      "closing_date": "2023-07-30",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "85,810.00",
+      "price": "116.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-23",
+      "issue_manager": "Siddhartha Capital Limited"
     },
     {
       "symbol": "ULHCL",
@@ -1201,42 +1237,6 @@
       "opening_date": "2023-02-20",
       "closing_date": "2023-03-09",
       "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
-      "symbol": "DOLTI",
-      "company": "Dolti Power Company Ltd",
-      "unit": "107,298.00",
-      "price": "100.00",
-      "opening_date": "2023-02-20",
-      "closing_date": "2023-03-09",
-      "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
-      "symbol": "BPW",
-      "company": "BPW Laghubitta Bittiya Sanstha Limited",
-      "unit": "9,700.00",
-      "price": "100.00",
-      "opening_date": "2023-02-05",
-      "closing_date": "2023-02-20",
-      "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
-      "symbol": "ANLB",
-      "company": "Aatmanirbhar Laghubitta Bittiya Sanstha Limited",
-      "unit": "20,388.00",
-      "price": "100.00",
-      "opening_date": "2023-01-30",
-      "closing_date": "2023-02-14",
-      "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "MAKAR",
-      "company": "Makar Jitumaya Suri Hydropower Company Limited",
-      "unit": "152,000.00",
-      "price": "100.00",
-      "opening_date": "2023-01-29",
-      "closing_date": "2023-02-12",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ]
 }
