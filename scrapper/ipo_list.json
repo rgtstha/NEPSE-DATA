@@ -49,7 +49,7 @@
       "symbol": "MAHL",
       "company": "Mandu Hydropower Limited",
       "unit": "1,636,370.00",
-      "price": "248.00",
+      "price": "206.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Prabhu Capital limited"
@@ -67,7 +67,7 @@
       "symbol": "SNLICL",
       "company": "Sun Nepal Life Insurance Company Limited",
       "unit": "9,600,000.00",
-      "price": "250.55",
+      "price": "239.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
@@ -76,7 +76,7 @@
       "symbol": "CLICL",
       "company": "Citizen Life Insurance Company Limited",
       "unit": "11,250,000.00",
-      "price": "290.00",
+      "price": "244.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NIBL Ace Capital Ltd."
@@ -157,7 +157,7 @@
       "symbol": "RENLICL",
       "company": "Reliable Nepal Life Insurance Limited",
       "unit": "12,000,000.00",
-      "price": "257.00",
+      "price": "256.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Civil Capital Market Ltd."
@@ -182,6 +182,16 @@
     }
   ],
   "right_share_list": [
+    {
+      "symbol": "MPFL",
+      "company": "Multipurpose Finance Company Limited",
+      "ratio": "1: 0.35",
+      "unit": "1,582,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
+    },
     {
       "symbol": "NHPC",
       "company": "National Hydro Power Company Limited",
@@ -371,16 +381,6 @@
       "opening_date": "2021-06-03",
       "closing_date": "2021-06-27",
       "issue_manager": "Muktinath Capital Ltd."
-    },
-    {
-      "symbol": "HIDCL",
-      "company": "Hydroelectricity Investment and Development Company Limited",
-      "ratio": "1:1",
-      "unit": "110,000,000.00",
-      "price": "100.00",
-      "opening_date": "2021-07-20",
-      "closing_date": "2021-08-24",
-      "issue_manager": "Global IME Capital Limited"
     }
   ],
   "fpo_list": [
@@ -695,6 +695,24 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "LVF2",
+      "company": "Laxmi Value Fund-II",
+      "unit": "68,000,000.00",
+      "price": "10.00",
+      "opening_date": "2023-07-21",
+      "closing_date": "2023-07-25",
+      "issue_manager": "Laxmi Capital Market Limited"
+    },
+    {
+      "symbol": "NSTF",
+      "company": "NIBL Stable Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIBL ACE Capital Limited"
+    },
+    {
       "symbol": "H8020",
       "company": "Himalayan 80-20",
       "unit": "100,000,000.00",
@@ -855,24 +873,6 @@
       "opening_date": "2021-09-02",
       "closing_date": "2021-09-06",
       "issue_manager": "NMB Capital Ltd."
-    },
-    {
-      "symbol": "NICSF",
-      "company": "NIC Asia Select-30",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-06-24",
-      "closing_date": "2021-06-28",
-      "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "MMF1",
-      "company": "Mega Mutual Fund - 1",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-08-20",
-      "closing_date": "2021-08-26",
-      "issue_manager": "Mega Capital Markets Ltd"
     }
   ],
   "bonds_debentures": [
@@ -1059,13 +1059,13 @@
   ],
   "ipo_to_migrant_workers": [
     {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "150,000.00",
-      "price": "100.00",
-      "opening_date": "2023-07-20",
-      "closing_date": "2023-08-03",
-      "issue_manager": "Sanima Capital Limited"
+      "symbol": "MAHL",
+      "company": "Mandu Hydropower Limited",
+      "unit": "136,364.00",
+      "price": "206.00",
+      "opening_date": "2023-07-13",
+      "closing_date": "2023-07-27",
+      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "BHPDCL",
@@ -1089,19 +1089,10 @@
       "symbol": "RENLICL",
       "company": "Reliable Nepal Life Insurance Limited",
       "unit": "1,200,000.00",
-      "price": "257.00",
+      "price": "256.00",
       "opening_date": "2023-07-12",
       "closing_date": "2023-07-26",
       "issue_manager": "Civil Capital Market Limited"
-    },
-    {
-      "symbol": "MAHL",
-      "company": "Mandu Hydropower Limited",
-      "unit": "136,364.00",
-      "price": "206.00",
-      "opening_date": "2023-07-13",
-      "closing_date": "2023-07-27",
-      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "SNLICL",
@@ -1120,6 +1111,24 @@
       "opening_date": "2023-07-16",
       "closing_date": "2023-07-30",
       "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "150,000.00",
+      "price": "100.00",
+      "opening_date": "2023-07-20",
+      "closing_date": "2023-08-03",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "HINL",
+      "company": "Hathway Investment Nepal Limited",
+      "unit": "292,500.00",
+      "price": "50.00",
+      "opening_date": "2023-07-20",
+      "closing_date": "2023-08-03",
+      "issue_manager": ""
     },
     {
       "symbol": "ULHCL",
@@ -1228,15 +1237,6 @@
       "opening_date": "2023-03-05",
       "closing_date": "2023-03-19",
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
-    },
-    {
-      "symbol": "MCHL",
-      "company": "Menchhiyam Hydropower Limited",
-      "unit": "108,517.00",
-      "price": "100.00",
-      "opening_date": "2023-02-22",
-      "closing_date": "2023-03-09",
-      "issue_manager": "NIC Asia Capital Ltd."
     }
   ]
 }
