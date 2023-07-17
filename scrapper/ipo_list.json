@@ -877,6 +877,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "NSBD98",
+      "company": "9% Nepal SBI Bank Debenture 2089",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Ltd"
+    },
+    {
       "symbol": "11LBBL89",
       "company": "11% LBBL Debenture 2089",
       "unit": "1,000,000.00",
@@ -1046,18 +1055,18 @@
       "opening_date": "2022-03-30",
       "closing_date": "2022-04-13",
       "issue_manager": "RBB Merchant Banking Ltd."
-    },
-    {
-      "symbol": "EBLD86",
-      "company": "8.5% Everest Bank Debenture",
-      "unit": "2,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-01-17",
-      "closing_date": "2022-01-31",
-      "issue_manager": "NIBL Ace Capital Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "CLICL",
+      "company": "Citizen Life Insurance Company Limited",
+      "unit": "1,125,000.00",
+      "price": "244.00",
+      "opening_date": "2023-07-16",
+      "closing_date": "2023-07-30",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
     {
       "symbol": "MAHL",
       "company": "Mandu Hydropower Limited",
@@ -1102,15 +1111,6 @@
       "opening_date": "2023-07-17",
       "closing_date": "2023-07-31",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "CLICL",
-      "company": "Citizen Life Insurance Company Limited",
-      "unit": "1,125,000.00",
-      "price": "244.00",
-      "opening_date": "2023-07-16",
-      "closing_date": "2023-07-30",
-      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "MMKJL",
