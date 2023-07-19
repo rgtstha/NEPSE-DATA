@@ -1,33 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "GCI",
-      "company": "Ghorahi Cement Industry Limited",
-      "unit": "6,911,670.00",
-      "price": "435.00",
-      "opening_date": "2023-07-07",
-      "closing_date": "2023-07-10",
-      "issue_manager": "Himalayan Capital Ltd."
-    },
-    {
-      "symbol": "KBSHL",
-      "company": "Kutheli Bukhari Small Hydropower Limited",
-      "unit": "101,151.00",
-      "price": "100.00",
-      "opening_date": "2023-07-11",
-      "closing_date": "2023-07-14",
-      "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "IMELICL",
-      "company": "IME Life Insurance Company Limited",
-      "unit": "9,600,000.00",
-      "price": "236.91",
-      "opening_date": "2023-07-06",
-      "closing_date": "2023-07-10",
-      "issue_manager": "Civil Capital Market Ltd."
-    },
-    {
       "symbol": "CHPL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "1,200,000.00",
@@ -109,6 +82,33 @@
       "issue_manager": "B.O.K Capital Market Ltd"
     },
     {
+      "symbol": "KBSHL",
+      "company": "Kutheli Bukhari Small Hydropower Limited",
+      "unit": "101,151.00",
+      "price": "100.00",
+      "opening_date": "2023-07-11",
+      "closing_date": "2023-07-14",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "GCI",
+      "company": "Ghorahi Cement Industry Limited",
+      "unit": "6,911,670.00",
+      "price": "435.00",
+      "opening_date": "2023-07-07",
+      "closing_date": "2023-07-10",
+      "issue_manager": "Himalayan Capital Ltd."
+    },
+    {
+      "symbol": "IMELICL",
+      "company": "IME Life Insurance Company Limited",
+      "unit": "9,600,000.00",
+      "price": "236.91",
+      "opening_date": "2023-07-06",
+      "closing_date": "2023-07-10",
+      "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
       "symbol": "USYHL",
       "company": "Upper Syange Hydropower Limited",
       "unit": "539,500.00",
@@ -183,16 +183,6 @@
   ],
   "right_share_list": [
     {
-      "symbol": "MPFL",
-      "company": "Multipurpose Finance Company Limited",
-      "ratio": "1: 0.35",
-      "unit": "1,582,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
       "symbol": "NHPC",
       "company": "National Hydro Power Company Limited",
       "ratio": "10:5",
@@ -200,6 +190,26 @@
       "price": "100.00",
       "opening_date": "2023-07-14",
       "closing_date": "2023-08-03",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "API",
+      "company": "Api Power Company Limited",
+      "ratio": "1: 0.40",
+      "unit": "16,533,137.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "MPFL",
+      "company": "Multipurpose Finance Company Limited",
+      "ratio": "1: 0.35",
+      "unit": "1,582,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
       "issue_manager": "Muktinath Capital Limited"
     },
     {
@@ -241,16 +251,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
-      "symbol": "API",
-      "company": "Api Power Company Limited",
-      "ratio": "1: 0.40",
-      "unit": "16,533,137.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "BARUN",
@@ -513,13 +513,13 @@
   ],
   "ipo_local": [
     {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "1,000,000.00",
+      "symbol": "MEHL",
+      "company": "Manakamana Engineering Hydropower Limited",
+      "unit": "800,000.00",
       "price": "100.00",
-      "opening_date": "2023-07-20",
-      "closing_date": "2023-08-03",
-      "issue_manager": "Sanima Capital Limited"
+      "opening_date": "2023-07-04",
+      "closing_date": "2023-07-25",
+      "issue_manager": "B.O.K Capital Market Limited"
     },
     {
       "symbol": "BHPDCL",
@@ -540,15 +540,6 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
-      "symbol": "MEHL",
-      "company": "Manakamana Engineering Hydropower Limited",
-      "unit": "800,000.00",
-      "price": "100.00",
-      "opening_date": "2023-07-04",
-      "closing_date": "2023-07-18",
-      "issue_manager": "B.O.K Capital Market Limited"
-    },
-    {
       "symbol": "MAHL",
       "company": "Mandu Hydropower Limited",
       "unit": "272,730.00",
@@ -556,6 +547,15 @@
       "opening_date": "2023-07-13",
       "closing_date": "2023-07-27",
       "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "1,000,000.00",
+      "price": "100.00",
+      "opening_date": "2023-07-20",
+      "closing_date": "2023-08-03",
+      "issue_manager": "Sanima Capital Limited"
     },
     {
       "symbol": "KBSHL",
@@ -697,11 +697,11 @@
     {
       "symbol": "LVF2",
       "company": "Laxmi Value Fund-II",
-      "unit": "68,000,000.00",
+      "unit": "80,000,000.00",
       "price": "10.00",
       "opening_date": "2023-07-21",
       "closing_date": "2023-07-25",
-      "issue_manager": "Laxmi Capital Market Limited"
+      "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
       "symbol": "NSTF",
@@ -720,15 +720,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "LVF2",
-      "company": "Laxmi Value Fund-II",
-      "unit": "80,000,000.00",
-      "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
       "symbol": "SIGS3",
@@ -873,6 +864,15 @@
       "opening_date": "2021-09-02",
       "closing_date": "2021-09-06",
       "issue_manager": "NMB Capital Ltd."
+    },
+    {
+      "symbol": "NICSF",
+      "company": "NIC Asia Select-30",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2021-06-24",
+      "closing_date": "2021-06-28",
+      "issue_manager": "NIC Asia Capital Limited"
     }
   ],
   "bonds_debentures": [
