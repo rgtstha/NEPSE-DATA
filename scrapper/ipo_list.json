@@ -513,6 +513,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "MSHCL",
+      "company": "Mid Solu Hydropower Company Limited",
+      "unit": "748,400.00",
+      "price": "100.00",
+      "opening_date": "2023-07-30",
+      "closing_date": "2023-08-13",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "MEHL",
       "company": "Manakamana Engineering Hydropower Limited",
       "unit": "800,000.00",
@@ -682,15 +691,6 @@
       "opening_date": "2023-01-18",
       "closing_date": "2023-02-02",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "MHCL",
-      "company": "Molung Hydropower Company Limited",
-      "unit": "802,500.00",
-      "price": "100.00",
-      "opening_date": "2023-01-03",
-      "closing_date": "2023-01-29",
-      "issue_manager": "Sunrise Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "MSHCL",
+      "company": "Mid Solu Hydropower Company Limited",
+      "unit": "74.00",
+      "price": "100.00",
+      "opening_date": "2023-07-30",
+      "closing_date": "2023-08-13",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "CLICL",
       "company": "Citizen Life Insurance Company Limited",
       "unit": "1,125,000.00",
@@ -1084,15 +1093,6 @@
       "opening_date": "2023-07-09",
       "closing_date": "2023-07-23",
       "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
-      "symbol": "MEHL",
-      "company": "Manakamana Engineering Hydropower Limited",
-      "unit": "200,000.00",
-      "price": "100.00",
-      "opening_date": "2023-07-04",
-      "closing_date": "2023-07-18",
-      "issue_manager": "B.O.K Capital Market Limited"
     },
     {
       "symbol": "RENLICL",
@@ -1129,6 +1129,15 @@
       "opening_date": "2023-07-20",
       "closing_date": "2023-08-03",
       "issue_manager": ""
+    },
+    {
+      "symbol": "MEHL",
+      "company": "Manakamana Engineering Hydropower Limited",
+      "unit": "200,000.00",
+      "price": "100.00",
+      "opening_date": "2023-07-04",
+      "closing_date": "2023-07-18",
+      "issue_manager": "B.O.K Capital Market Limited"
     },
     {
       "symbol": "ULHCL",
@@ -1228,15 +1237,6 @@
       "opening_date": "2023-03-09",
       "closing_date": "2023-03-23",
       "issue_manager": "Prabhu Capital Ltd"
-    },
-    {
-      "symbol": "IHL",
-      "company": "Ingwa Hydropower Ltd",
-      "unit": "120,000.00",
-      "price": "100.00",
-      "opening_date": "2023-03-05",
-      "closing_date": "2023-03-19",
-      "issue_manager": "Nepal SBI Merchant Banking Ltd."
     }
   ]
 }
