@@ -213,16 +213,6 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "HDHPC",
-      "company": "Himal Dolakha Hydropower Company Limited",
-      "ratio": "1: 0.75",
-      "unit": "12,000,000.00",
-      "price": "100.00",
-      "opening_date": "2023-06-05",
-      "closing_date": "2023-07-10",
-      "issue_manager": "Laxmi Capital Market Limited"
-    },
-    {
       "symbol": "UPPER",
       "company": "Upper Tamakoshi Hydropower Limited",
       "ratio": "1: 1",
@@ -251,6 +241,16 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "HDHPC",
+      "company": "Himal Dolakha Hydropower Company Limited",
+      "ratio": "1: 0.75",
+      "unit": "12,000,000.00",
+      "price": "100.00",
+      "opening_date": "2023-06-05",
+      "closing_date": "2023-07-10",
+      "issue_manager": "Laxmi Capital Market Limited"
     },
     {
       "symbol": "BARUN",
@@ -540,15 +540,6 @@
       "issue_manager": "Siddhartha Capital Limited"
     },
     {
-      "symbol": "ULHCL",
-      "company": "Upper Lohore Hydropower Company Limited",
-      "unit": "509,804.00",
-      "price": "100.00",
-      "opening_date": "2023-06-22",
-      "closing_date": "2023-07-21",
-      "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
       "symbol": "MAHL",
       "company": "Mandu Hydropower Limited",
       "unit": "272,730.00",
@@ -565,6 +556,15 @@
       "opening_date": "2023-07-20",
       "closing_date": "2023-08-03",
       "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "ULHCL",
+      "company": "Upper Lohore Hydropower Company Limited",
+      "unit": "509,804.00",
+      "price": "100.00",
+      "opening_date": "2023-06-22",
+      "closing_date": "2023-07-21",
+      "issue_manager": "NIC Asia Capital Limited"
     },
     {
       "symbol": "KBSHL",
@@ -700,7 +700,7 @@
       "unit": "80,000,000.00",
       "price": "10.00",
       "opening_date": "2023-07-21",
-      "closing_date": "2023-07-25",
+      "closing_date": "2023-08-04",
       "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
@@ -1061,7 +1061,7 @@
     {
       "symbol": "MSHCL",
       "company": "Mid Solu Hydropower Company Limited",
-      "unit": "74.00",
+      "unit": "74,840.00",
       "price": "100.00",
       "opening_date": "2023-07-30",
       "closing_date": "2023-08-13",
@@ -1084,15 +1084,6 @@
       "opening_date": "2023-07-13",
       "closing_date": "2023-07-27",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "BHPDCL",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "85,810.00",
-      "price": "116.00",
-      "opening_date": "2023-07-09",
-      "closing_date": "2023-07-23",
-      "issue_manager": "Siddhartha Capital Limited"
     },
     {
       "symbol": "RENLICL",
@@ -1138,6 +1129,15 @@
       "opening_date": "2023-07-04",
       "closing_date": "2023-07-18",
       "issue_manager": "B.O.K Capital Market Limited"
+    },
+    {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "85,810.00",
+      "price": "116.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-23",
+      "issue_manager": "Siddhartha Capital Limited"
     },
     {
       "symbol": "ULHCL",
