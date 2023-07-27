@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "ULHCL",
+      "company": "Upper Lohore Hydropower Company Limited",
+      "unit": "1,953,279.00",
+      "price": "100.00",
+      "opening_date": "2023-08-03",
+      "closing_date": "2023-08-07",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "CHPL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "1,200,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-04-21",
       "closing_date": "2023-04-25",
       "issue_manager": "Prabhu Capital Ltd"
-    },
-    {
-      "symbol": "IHL",
-      "company": "Ingwa Hydropower Ltd",
-      "unit": "1,268,639.00",
-      "price": "100.00",
-      "opening_date": "2023-04-26",
-      "closing_date": "2023-04-30",
-      "issue_manager": "Nepal SBI Merchant Banking Ltd."
     }
   ],
   "right_share_list": [
@@ -545,7 +545,7 @@
       "unit": "272,730.00",
       "price": "206.00",
       "opening_date": "2023-07-13",
-      "closing_date": "2023-07-27",
+      "closing_date": "2023-08-11",
       "issue_manager": "Prabhu Capital Limited"
     },
     {
@@ -881,6 +881,15 @@
       "company": "9% Nepal SBI Bank Debenture 2089",
       "unit": "2,000,000.00",
       "price": "1,000.00",
+      "opening_date": "2023-08-03",
+      "closing_date": "2023-08-07",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "NSBD98",
+      "company": "9% Nepal SBI Bank Debenture 2089",
+      "unit": "2,000,000.00",
+      "price": "1,000.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Ltd"
@@ -1046,15 +1055,6 @@
       "opening_date": "2022-05-04",
       "closing_date": "2022-05-18",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "PBD88",
-      "company": "10% Prime Debenture 2088",
-      "unit": "2,500,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-03-30",
-      "closing_date": "2022-04-13",
-      "issue_manager": "RBB Merchant Banking Ltd."
     }
   ],
   "ipo_to_migrant_workers": [
