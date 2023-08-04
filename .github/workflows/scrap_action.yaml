@@ -1,9 +1,9 @@
 name: Nepse Data Auto Scrape
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: '0 10 */2 * *' # runs everyday at 10 am
 
