@@ -1,3 +1,5 @@
 # ignore node_modules folder located inside scapper folder
 **/node_modules
 
+#remove all .env files
+**/.env
