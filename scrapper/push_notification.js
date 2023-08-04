@@ -9,6 +9,7 @@ admin.initializeApp({
 
 const ipo_list = require('./ipo_list.json');
 const todayDate = new Date().toISOString().slice(0, 10);
+console.log("Today's date: " + todayDate);
 const opening_today = ipo_list.ipo_list.filter(ipo => ipo.opening_date === todayDate);
 const closing_today = ipo_list.ipo_list.filter(ipo => ipo.closing_date === todayDate);
 
@@ -33,6 +34,7 @@ const sendNotification = (title, body) => {
 };
 
 if (opening_today.length > 0) {
+    console.log("Opening today ipo length: " + opening_today.length);
     opening_today.forEach(ipo => {
         sendNotification("IPO Opening Today", ipo.company_name + " is opening today.");
     });
