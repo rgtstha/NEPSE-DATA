@@ -10,33 +10,42 @@ admin.initializeApp({
 const ipo_list = require('./ipo_list.json');
 const todayDate = new Date().toISOString().slice(0, 10);
 console.log("Today's date: " + todayDate);
-const opening_today = ipo_list.ipo_list.filter(ipo => ipo.opening_date === todayDate);
-const closing_today = ipo_list.ipo_list.filter(ipo => ipo.closing_date === todayDate);
+const opening_today = ipo_list.ipo_list.filter(ipo => ipo.opening_date == todayDate);
+const closing_today = ipo_list.ipo_list.filter(ipo => ipo.closing_date == todayDate);
+
+// log the value of opening today ipo
+
+console.log("Opening today ipo: " + opening_today.map(ipo => ipo.company));
 
 const sendNotification = (title, body) => {
-    const notification = {
-        title: title,
-        body: body
-    };
+    try {
+        const notification = {
+            title: title,
+            body: body
+        };
 
-    const options = {
-        priority: "high",
-        timeToLive: 60 * 60 * 24
-    };
+        const options = {
+            priority: "high",
+            timeToLive: 60 * 60 * 24
+        };
 
-    admin.messaging().sendToTopic("ipo", {
-        notification: notification,
-    }).then((response) => {
-        console.log("Successfully sent message:", response);
-    }).catch((error) => {
+        admin.messaging().sendToTopic("ipo", {
+            notification: notification,
+        }).then((response) => {
+            console.log("Successfully sent message:", response);
+        }).catch((error) => {
             console.log("Error sending message:", error);
         });
+    }
+    catch (err) {
+        console.log("Error sending message:", err);
+    }
 };
 
+console.log("Opening today ipo length: " + opening_today.length);
 if (opening_today.length > 0) {
-    console.log("Opening today ipo length: " + opening_today.length);
     opening_today.forEach(ipo => {
-        sendNotification("IPO Opening Today", ipo.company_name + " is opening today.");
+        sendNotification("IPO Opening Today", ipo.company + " is opening today.");
     });
 }
 
