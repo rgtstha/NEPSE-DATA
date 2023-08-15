@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "BHPDCL",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "712,220.00",
+      "price": "116.00",
+      "opening_date": "2023-08-22",
+      "closing_date": "2023-08-25",
+      "issue_manager": "Siddhartha Capital Ltd"
+    },
+    {
       "symbol": "SNLICL",
       "company": "Sun Nepal Life Insurance Company Limited",
       "unit": "7,680,000.00",
@@ -98,15 +107,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "BHPDCL",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "1,430,162.00",
-      "price": "116.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Siddhartha Capital Ltd"
     },
     {
       "symbol": "GCIL",
