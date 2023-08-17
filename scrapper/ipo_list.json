@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "UPPER",
+      "company": "Upper Tamakoshi Hydropower Limited",
+      "ratio": "1: 1",
+      "unit": "105,900,000.00",
+      "price": "100.00",
+      "opening_date": "2023-09-04",
+      "closing_date": "2023-09-24",
+      "issue_manager": "Sunrise Capital Limited"
+    },
+    {
       "symbol": "AKPL",
       "company": "Arun Kabeli Power Limited",
       "ratio": "1: 1",
@@ -221,16 +231,6 @@
       "opening_date": "2023-08-16",
       "closing_date": "2023-09-05",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "UPPER",
-      "company": "Upper Tamakoshi Hydropower Limited",
-      "ratio": "1: 1",
-      "unit": "105,900,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sunrise Capital Limited"
     },
     {
       "symbol": "HDHPC",
