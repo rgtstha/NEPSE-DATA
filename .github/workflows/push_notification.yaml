@@ -29,13 +29,18 @@ jobs:
         run: npm install
 
       - name: Set environment variable
-        run: echo "SERVICE_ACCOUNT_JSON=\${{ secrets.SERVICE_ACCOUNT_JSON }}" >> .env
-      # - name: Set environment variable
-      #   run: |
-      #     BASE64_ENCODED_SECRET="${{ secrets.SERVICE_ACCOUNT_JSON }}"
-      #     DECODED_SECRET=$(echo "$BASE64_ENCODED_SECRET" | base64 -d)
-      #     echo "SERVICE_ACCOUNT_JSON=$DECODED_SECRET" >> .env
-
+        run:
+          echo "FIREBASE_PROJECT_ID=${{ secrets.FIREBASE_PROJECT_ID }}" >> $GITHUB_ENV
+          echo "FIREBASE_PRIVATE_KEY_ID=${{ secrets.FIREBASE_PRIVATE_KEY_ID }}" >> $GITHUB_ENV
+          echo "FIREBASE_PRIVATE_KEY=${{ secrets.FIREBASE_PRIVATE_KEY }}" >> $GITHUB_ENV
+          echo "FIREBASE_CLIENT_EMAIL=${{ secrets.FIREBASE_CLIENT_EMAIL }}" >> $GITHUB_ENV
+          echo "FIREBASE_CLIENT_ID=${{ secrets.FIREBASE_CLIENT_ID }}" >> $GITHUB_ENV
+          echo "FIREBASE_AUTH_URI=${{ secrets.FIREBASE_AUTH_URI }}" >> $GITHUB_ENV
+          echo "FIREBASE_TOKEN_URI=${{ secrets.FIREBASE_TOKEN_URI }}" >> $GITHUB_ENV
+          echo "FIREBASE_AUTH_PROVIDER_X509_CERT_URL=${{ secrets.FIREBASE_AUTH_PROVIDER_X509_CERT_URL }}" >> $GITHUB_ENV
+          echo "FIREBASE_CLIENT_X509_CERT_URL=${{ secrets.FIREBASE_CLIENT_X509_CERT_URL }}" >> $GITHUB_ENV
+          echo "FIREBASE_UNIVERSE_DOMAIN=${{ secrets.FIREBASE_UNIVERSE_DOMAIN }}" >> $GITHUB_ENV
+ 
 
       - name: Run script
         run: node push_notification.js
