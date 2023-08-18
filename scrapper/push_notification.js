@@ -2,6 +2,8 @@ var admin = require("firebase-admin");
 var base64 = require("base-64");
 require('dotenv').config();
 
+console.log("service account: " + base64.decode(process.env.FIREBASE_SERVICE_ACCOUNT));
+
 var serviceAccount = JSON.parse(base64.decode(process.env.FIREBASE_SERVICE_ACCOUNT));
 
 console.log("service account type: " + typeof serviceAccount);
