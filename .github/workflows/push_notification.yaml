@@ -28,13 +28,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      # - name: Set environment variable
-      #   run: echo "SERVICE_ACCOUNT_JSON=${{ secrets.SERVICE_ACCOUNT_JSON }}" >> .env
       - name: Set environment variable
-        run: |
-          BASE64_ENCODED_SECRET="${{ secrets.SERVICE_ACCOUNT_JSON }}"
-          DECODED_SECRET=$(echo "$BASE64_ENCODED_SECRET" | base64 -d)
-          echo "SERVICE_ACCOUNT_JSON=$DECODED_SECRET" >> .env
+        run: echo "SERVICE_ACCOUNT_JSON=\${{ secrets.SERVICE_ACCOUNT_JSON }}" >> .env
+      # - name: Set environment variable
+      #   run: |
+      #     BASE64_ENCODED_SECRET="${{ secrets.SERVICE_ACCOUNT_JSON }}"
+      #     DECODED_SECRET=$(echo "$BASE64_ENCODED_SECRET" | base64 -d)
+      #     echo "SERVICE_ACCOUNT_JSON=$DECODED_SECRET" >> .env
 
 
       - name: Run script
