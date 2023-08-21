@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "MAHL",
+      "company": "Mandu Hydropower Limited",
+      "unit": "1,205,320.00",
+      "price": "206.00",
+      "opening_date": "2023-08-27",
+      "closing_date": "2023-08-30",
+      "issue_manager": "Prabhu Capital limited"
+    },
+    {
       "symbol": "BHPDCL",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "712,220.00",
@@ -37,8 +46,8 @@
       "issue_manager": "Civil Capital Market Ltd."
     },
     {
-      "symbol": "ULHCL",
-      "company": "Upper Lohore Hydropower Company Limited",
+      "symbol": "ULKHCL",
+      "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "1,953,279.00",
       "price": "100.00",
       "opening_date": "2023-08-03",
@@ -71,15 +80,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "MAHL",
-      "company": "Mandu Hydropower Limited",
-      "unit": "1,636,370.00",
-      "price": "206.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital limited"
     },
     {
       "symbol": "MSHCL",
@@ -118,7 +118,7 @@
       "issue_manager": "Himalayan Capital Ltd."
     },
     {
-      "symbol": "KBSHL",
+      "symbol": "KBSH",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "101,151.00",
       "price": "100.00",
@@ -558,8 +558,8 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "ULHCL",
-      "company": "Upper Lohore Hydropower Company Limited",
+      "symbol": "ULKHCL",
+      "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "509,804.00",
       "price": "100.00",
       "opening_date": "2023-06-22",
@@ -585,7 +585,7 @@
       "issue_manager": "Siddhartha Capital Limited"
     },
     {
-      "symbol": "KBSHL",
+      "symbol": "KBSH",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "121,868.00",
       "price": "100.00",
@@ -709,7 +709,7 @@
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2023-08-17",
-      "closing_date": "2023-08-21",
+      "closing_date": "2023-09-01",
       "issue_manager": "Himalayan Capital Limited"
     },
     {
@@ -1158,8 +1158,8 @@
       "issue_manager": "Siddhartha Capital Limited"
     },
     {
-      "symbol": "ULHCL",
-      "company": "Upper Lohore Hydropower Company Limited",
+      "symbol": "ULKHCL",
+      "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "198,824.00",
       "price": "100.00",
       "opening_date": "2023-06-22",
@@ -1176,7 +1176,7 @@
       "issue_manager": "Civil Capital Market Ltd."
     },
     {
-      "symbol": "KBSHL",
+      "symbol": "KBSH",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "12,168.00",
       "price": "100.00",
