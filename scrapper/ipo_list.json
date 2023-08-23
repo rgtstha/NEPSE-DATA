@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "CLICL",
+      "company": "Citizen Life Insurance Company Limited",
+      "unit": "9,000,000.00",
+      "price": "244.00",
+      "opening_date": "2023-09-01",
+      "closing_date": "2023-09-05",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "MAHL",
       "company": "Mandu Hydropower Limited",
       "unit": "1,205,320.00",
@@ -89,15 +98,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
-      "symbol": "CLICL",
-      "company": "Citizen Life Insurance Company Limited",
-      "unit": "11,250,000.00",
-      "price": "244.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIBL Ace Capital Ltd."
     },
     {
       "symbol": "HINL",
