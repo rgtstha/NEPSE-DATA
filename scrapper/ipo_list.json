@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "VLCL",
+      "company": "Vision Lumbini Urja Company Limited",
+      "unit": "3,825,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Ltd."
+    },
+    {
       "symbol": "CLICL",
       "company": "Citizen Life Insurance Company Limited",
       "unit": "9,000,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-06-01",
       "closing_date": "2023-06-05",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "MKHL",
-      "company": "Mai Khola Hydropower Limited",
-      "unit": "1,269,411.00",
-      "price": "100.00",
-      "opening_date": "2023-04-21",
-      "closing_date": "2023-04-25",
-      "issue_manager": "Prabhu Capital Ltd"
     }
   ],
   "right_share_list": [
