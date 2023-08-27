@@ -513,6 +513,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "VLCL",
+      "company": "Vision Lumbini Urja Company Limited",
+      "unit": "1,912,500.00",
+      "price": "100.00",
+      "opening_date": "2023-09-05",
+      "closing_date": "2023-09-19",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "SMOL",
       "company": "Sonapur Minerals and Oil Limited",
       "unit": "1,537,525.00",
@@ -527,7 +536,7 @@
       "unit": "400,000.00",
       "price": "100.00",
       "opening_date": "2023-08-13",
-      "closing_date": "2023-08-27",
+      "closing_date": "2023-09-11",
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
@@ -682,15 +691,6 @@
       "opening_date": "2023-01-29",
       "closing_date": "2023-02-27",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "MCHL",
-      "company": "Menchhiyam Hydropower Limited",
-      "unit": "542,583.00",
-      "price": "100.00",
-      "opening_date": "2023-02-22",
-      "closing_date": "2023-03-23",
-      "issue_manager": "NIC Asia Capital Ltd"
     }
   ],
   "mutual_fund": [
@@ -1059,6 +1059,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "VLCL",
+      "company": "Vision Lumbini Urja Company Limited",
+      "unit": "191,250.00",
+      "price": "100.00",
+      "opening_date": "2023-09-05",
+      "closing_date": "2023-09-19",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "SMOL",
       "company": "Sonapur Minerals and Oil Limited",
       "unit": "1,076,268.00",
@@ -1228,15 +1237,6 @@
       "opening_date": "2023-04-06",
       "closing_date": "2023-04-20",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "CITY",
-      "company": "City Hotel Limited",
-      "unit": "167,400.00",
-      "price": "100.00",
-      "opening_date": "2023-04-04",
-      "closing_date": "2023-04-18",
-      "issue_manager": "Global IME Capital Ltd"
     }
   ]
 }
