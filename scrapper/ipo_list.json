@@ -1,6 +1,24 @@
 {
   "ipo_list": [
     {
+      "symbol": "MSHCL",
+      "company": "Mid Solu Hydropower Company Limited",
+      "unit": "621,172.00",
+      "price": "100.00",
+      "opening_date": "2023-09-14",
+      "closing_date": "2023-09-18",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "HINL",
+      "company": "Hathway Investment Nepal Limited",
+      "unit": "2,427,750.00",
+      "price": "50.00",
+      "opening_date": "2023-09-07",
+      "closing_date": "2023-09-11",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
       "symbol": "VLCL",
       "company": "Vision Lumbini Urja Company Limited",
       "unit": "3,825,000.00",
@@ -98,24 +116,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "MSHCL",
-      "company": "Mid Solu Hydropower Company Limited",
-      "unit": "1,496,800.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
-      "symbol": "HINL",
-      "company": "Hathway Investment Nepal Limited",
-      "unit": "2,925,000.00",
-      "price": "50.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Limited"
     },
     {
       "symbol": "GCIL",
