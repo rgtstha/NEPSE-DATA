@@ -1,6 +1,42 @@
 {
   "ipo_list": [
     {
+      "symbol": "SMOL",
+      "company": "Sonapur Minerals and Oil Limited",
+      "unit": "9,732,544.00",
+      "price": "237.58",
+      "opening_date": "2023-10-01",
+      "closing_date": "2023-10-04",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "CHPL",
+      "company": "Chirkhwa Hydro Power Limited",
+      "unit": "1,200,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "RBB Merchant Banking Ltd."
+    },
+    {
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "2,500,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "VLCL",
+      "company": "Vision Lumbini Urja Company Limited",
+      "unit": "3,825,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Ltd."
+    },
+    {
       "symbol": "MSHCL",
       "company": "Mid Solu Hydropower Company Limited",
       "unit": "621,172.00",
@@ -17,15 +53,6 @@
       "opening_date": "2023-09-07",
       "closing_date": "2023-09-11",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "VLCL",
-      "company": "Vision Lumbini Urja Company Limited",
-      "unit": "3,825,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Ltd."
     },
     {
       "symbol": "CLICL",
@@ -89,33 +116,6 @@
       "opening_date": "2023-08-03",
       "closing_date": "2023-08-07",
       "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
-      "symbol": "SMOL",
-      "company": "Sonapur Minerals and Oil Limited",
-      "unit": "12,300,200.00",
-      "price": "237.58",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "CHPL",
-      "company": "Chirkhwa Hydro Power Limited",
-      "unit": "1,200,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "RBB Merchant Banking Ltd."
-    },
-    {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "2,500,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Ltd"
     },
     {
       "symbol": "GCIL",
@@ -189,7 +189,7 @@
       "unit": "105,900,000.00",
       "price": "100.00",
       "opening_date": "2023-09-04",
-      "closing_date": "2023-09-24",
+      "closing_date": "2023-10-09",
       "issue_manager": "Sunrise Capital Limited"
     },
     {
@@ -877,6 +877,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "10CBB80",
+      "company": "10% Citizens Bank Bond 2080",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "NSBD98",
       "company": "9% Nepal SBI Bank Debenture 2089",
       "unit": "2,000,000.00",
@@ -1046,15 +1055,6 @@
       "opening_date": "2022-05-04",
       "closing_date": "2022-05-18",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "PBD88",
-      "company": "10% Prime Debenture 2088",
-      "unit": "2,500,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-03-30",
-      "closing_date": "2022-04-13",
-      "issue_manager": "RBB Merchant Banking Ltd."
     }
   ],
   "ipo_to_migrant_workers": [
