@@ -109,7 +109,7 @@
       "issue_manager": "Civil Capital Market Ltd."
     },
     {
-      "symbol": "ULKHCL",
+      "symbol": "ULHC",
       "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "1,953,279.00",
       "price": "100.00",
@@ -567,7 +567,7 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "ULKHCL",
+      "symbol": "ULHC",
       "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "509,804.00",
       "price": "100.00",
@@ -877,12 +877,12 @@
   ],
   "bonds_debentures": [
     {
-      "symbol": "10CBB80",
-      "company": "10% Citizens Bank Bond 2080",
+      "symbol": "10CBD90",
+      "company": "10% Citizens Bank Debenture 2090",
       "unit": "3,000,000.00",
       "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-10-04",
+      "closing_date": "2023-10-08",
       "issue_manager": "Himalayan Capital Limited"
     },
     {
@@ -1167,7 +1167,7 @@
       "issue_manager": "Siddhartha Capital Limited"
     },
     {
-      "symbol": "ULKHCL",
+      "symbol": "ULHC",
       "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "198,824.00",
       "price": "100.00",
