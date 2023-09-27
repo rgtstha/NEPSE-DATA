@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "1,284,200.00",
+      "price": "100.00",
+      "opening_date": "2023-10-05",
+      "closing_date": "2023-10-09",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
       "symbol": "SMOL",
       "company": "Sonapur Minerals and Oil Limited",
       "unit": "9,732,544.00",
@@ -17,15 +26,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "RBB Merchant Banking Ltd."
-    },
-    {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "2,500,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Ltd"
     },
     {
       "symbol": "VLCL",
@@ -55,7 +55,7 @@
       "issue_manager": "Global IME Capital Limited"
     },
     {
-      "symbol": "CLICL",
+      "symbol": "CLI",
       "company": "Citizen Life Insurance Company Limited",
       "unit": "9,000,000.00",
       "price": "244.00",
@@ -1122,7 +1122,7 @@
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
-      "symbol": "CLICL",
+      "symbol": "CLI",
       "company": "Citizen Life Insurance Company Limited",
       "unit": "1,125,000.00",
       "price": "244.00",
