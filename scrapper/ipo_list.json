@@ -1,6 +1,24 @@
 {
   "ipo_list": [
     {
+      "symbol": "CHPL",
+      "company": "Chirkhwa Hydro Power Limited",
+      "unit": "859,300.00",
+      "price": "100.00",
+      "opening_date": "2023-10-10",
+      "closing_date": "2023-10-13",
+      "issue_manager": "RBB Merchant Banking Ltd."
+    },
+    {
+      "symbol": "NWCL",
+      "company": "Nepal Warehousing Company Limited",
+      "unit": "6,875,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Ltd"
+    },
+    {
       "symbol": "MMKJL",
       "company": "Mathillo Mailun Khola Jalvidhyut Limited",
       "unit": "1,284,200.00",
@@ -17,15 +35,6 @@
       "opening_date": "2023-10-01",
       "closing_date": "2023-10-04",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "CHPL",
-      "company": "Chirkhwa Hydro Power Limited",
-      "unit": "1,200,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "RBB Merchant Banking Ltd."
     },
     {
       "symbol": "VLCL",
@@ -170,15 +179,6 @@
       "opening_date": "2023-06-09",
       "closing_date": "2023-06-13",
       "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
-      "symbol": "RAWA",
-      "company": "Rawa Energy Development Ltd.",
-      "unit": "643,667.00",
-      "price": "100.00",
-      "opening_date": "2023-06-01",
-      "closing_date": "2023-06-05",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "right_share_list": [
