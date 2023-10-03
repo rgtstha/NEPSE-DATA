@@ -877,6 +877,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "KBLMD90",
+      "company": "10% KBLM Debenture 2090",
+      "unit": "5,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Bank Limited"
+    },
+    {
       "symbol": "10CBD90",
       "company": "10% Citizens Bank Debenture 2090",
       "unit": "3,000,000.00",
@@ -886,7 +895,7 @@
       "issue_manager": "Himalayan Capital Limited"
     },
     {
-      "symbol": "NSBD98",
+      "symbol": "SBID89",
       "company": "9% Nepal SBI Bank Debenture 2089",
       "unit": "2,000,000.00",
       "price": "1,000.00",
@@ -1046,15 +1055,6 @@
       "opening_date": "2022-05-04",
       "closing_date": "2022-05-18",
       "issue_manager": "Siddhartha Capital Ltd"
-    },
-    {
-      "symbol": "CCBD88",
-      "company": "10.50% Century Debenture 2088",
-      "unit": "2,200,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-05-04",
-      "closing_date": "2022-05-18",
-      "issue_manager": "Global IME Capital Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
