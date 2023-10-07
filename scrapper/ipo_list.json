@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "GHL",
+      "company": "Ghalemdi Hydro Limited",
+      "ratio": "1:2",
+      "unit": "11,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "UPPER",
       "company": "Upper Tamakoshi Hydropower Limited",
       "ratio": "1: 1",
@@ -371,16 +381,6 @@
       "opening_date": "2021-10-11",
       "closing_date": "2021-11-15",
       "issue_manager": "NIBL Ace Capital"
-    },
-    {
-      "symbol": "API",
-      "company": "Api Power Company Limited",
-      "ratio": "1:0.2938",
-      "unit": "5,670,000.00",
-      "price": "100.00",
-      "opening_date": "2021-06-03",
-      "closing_date": "2021-06-27",
-      "issue_manager": "Muktinath Capital Ltd."
     }
   ],
   "fpo_list": [
@@ -704,6 +704,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "NICGF2",
+      "company": "NIC Asia Growth Fund 2",
+      "unit": "200,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nic Asia Capital Ltd."
+    },
+    {
       "symbol": "NSTF",
       "company": "NIBL Stable Fund",
       "unit": "100,000,000.00",
@@ -873,15 +882,6 @@
       "opening_date": "2021-09-02",
       "closing_date": "2021-09-06",
       "issue_manager": "NMB Capital Ltd."
-    },
-    {
-      "symbol": "NICSF",
-      "company": "NIC Asia Select-30",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-06-24",
-      "closing_date": "2021-06-28",
-      "issue_manager": "NIC Asia Capital Limited"
     }
   ],
   "bonds_debentures": [
@@ -1068,6 +1068,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "NWCL",
+      "company": "Nepal Warehousing Company Limited",
+      "unit": "137,500.00",
+      "price": "100.00",
+      "opening_date": "2023-10-27",
+      "closing_date": "2023-11-10",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "MKCL",
       "company": "Muktinath Krishi Company Limited",
       "unit": "140,000.00",
@@ -1237,15 +1246,6 @@
       "opening_date": "2023-05-02",
       "closing_date": "2023-05-16",
       "issue_manager": "Himalayan Capital Ltd."
-    },
-    {
-      "symbol": "TSHL",
-      "company": "Three Star Hydropower Limited",
-      "unit": "73,875.00",
-      "price": "100.00",
-      "opening_date": "2023-04-24",
-      "closing_date": "2023-05-08",
-      "issue_manager": "Himalayan Capital Ltd"
     }
   ]
 }
