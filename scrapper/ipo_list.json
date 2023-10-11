@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "1,284,200.00",
-      "price": "100.00",
-      "opening_date": "2023-10-05",
-      "closing_date": "2023-10-09",
-      "issue_manager": "Sanima Capital Ltd"
-    },
-    {
       "symbol": "CHPL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "859,300.00",
@@ -55,7 +46,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "MSHCL",
+      "symbol": "MSHL",
       "company": "Mid Solu Hydropower Company Limited",
       "unit": "621,172.00",
       "price": "100.00",
@@ -64,7 +55,16 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "HINL",
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "1,284,200.00",
+      "price": "100.00",
+      "opening_date": "2023-10-05",
+      "closing_date": "2023-10-09",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "HATHY",
       "company": "Hathway Investment Nepal Limited",
       "unit": "2,427,750.00",
       "price": "50.00",
@@ -82,7 +82,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "MAHL",
+      "symbol": "MANDU",
       "company": "Mandu Hydropower Limited",
       "unit": "1,205,320.00",
       "price": "206.00",
@@ -91,7 +91,7 @@
       "issue_manager": "Prabhu Capital limited"
     },
     {
-      "symbol": "BHPDCL",
+      "symbol": "BGWT",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "712,220.00",
       "price": "116.00",
@@ -549,7 +549,7 @@
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
-      "symbol": "MSHCL",
+      "symbol": "MSHL",
       "company": "Mid Solu Hydropower Company Limited",
       "unit": "748,400.00",
       "price": "100.00",
@@ -558,7 +558,7 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
-      "symbol": "MAHL",
+      "symbol": "MANDU",
       "company": "Mandu Hydropower Limited",
       "unit": "272,730.00",
       "price": "206.00",
@@ -594,7 +594,7 @@
       "issue_manager": "B.O.K Capital Market Limited"
     },
     {
-      "symbol": "BHPDCL",
+      "symbol": "BGWT",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "572,065.00",
       "price": "116.00",
@@ -886,12 +886,12 @@
   ],
   "bonds_debentures": [
     {
-      "symbol": "KBLMD90",
-      "company": "10% KBLM Debenture 2090",
+      "symbol": "KBLD90",
+      "company": "10% KBL Debenture 2090",
       "unit": "5,000,000.00",
       "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2023-10-19",
+      "closing_date": "2023-10-29",
       "issue_manager": "Nabil Investment Bank Limited"
     },
     {
@@ -1113,7 +1113,7 @@
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
-      "symbol": "MSHCL",
+      "symbol": "MSHL",
       "company": "Mid Solu Hydropower Company Limited",
       "unit": "74,840.00",
       "price": "100.00",
@@ -1131,7 +1131,7 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "HINL",
+      "symbol": "HATHY",
       "company": "Hathway Investment Nepal Limited",
       "unit": "292,500.00",
       "price": "50.00",
@@ -1158,7 +1158,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "MAHL",
+      "symbol": "MANDU",
       "company": "Mandu Hydropower Limited",
       "unit": "136,364.00",
       "price": "206.00",
@@ -1185,7 +1185,7 @@
       "issue_manager": "B.O.K Capital Market Limited"
     },
     {
-      "symbol": "BHPDCL",
+      "symbol": "BGWT",
       "company": "Bhagawati Hydropower Development Company Limited",
       "unit": "85,810.00",
       "price": "116.00",
