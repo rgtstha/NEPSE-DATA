@@ -385,15 +385,6 @@
   ],
   "fpo_list": [
     {
-      "symbol": "UNLB",
-      "company": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
-      "unit": "379,425.00",
-      "price": "100.00",
-      "opening_date": "2023-05-25",
-      "closing_date": "2023-05-31",
-      "issue_manager": "Muktinath Capital Ltd."
-    },
-    {
       "symbol": "MMFDB",
       "company": "Mirmire Laghubitta Bittiya Sanstha Limited",
       "unit": "123,816.45",
@@ -401,6 +392,15 @@
       "opening_date": "2023-10-12",
       "closing_date": "2023-10-17",
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
+    },
+    {
+      "symbol": "UNLB",
+      "company": "Unique Nepal Laghubitta Bittiya Sanstha Limited",
+      "unit": "379,425.00",
+      "price": "100.00",
+      "opening_date": "2023-05-25",
+      "closing_date": "2023-05-31",
+      "issue_manager": "Muktinath Capital Ltd."
     },
     {
       "symbol": "CZBIL",
