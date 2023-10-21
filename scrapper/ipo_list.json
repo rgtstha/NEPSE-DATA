@@ -1068,6 +1068,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "HRL",
+      "company": "Himalayan Reinsurance Limited",
+      "unit": "3,000,000.00",
+      "price": "100.00",
+      "opening_date": "2023-11-07",
+      "closing_date": "2023-11-21",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "NWCL",
       "company": "Nepal Warehousing Company Limited",
       "unit": "137,500.00",
@@ -1237,15 +1246,6 @@
       "opening_date": "2023-05-14",
       "closing_date": "2023-05-28",
       "issue_manager": "Mega Capital Markets Ltd."
-    },
-    {
-      "symbol": "GCIL",
-      "company": "Ghorahi Cement Industry Limited",
-      "unit": "754,661.00",
-      "price": "435.00",
-      "opening_date": "2023-05-02",
-      "closing_date": "2023-05-16",
-      "issue_manager": "Himalayan Capital Ltd."
     }
   ]
 }
