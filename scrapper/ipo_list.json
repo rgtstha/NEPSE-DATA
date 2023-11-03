@@ -10,15 +10,6 @@
       "issue_manager": "Muktinath Capital Ltd."
     },
     {
-      "symbol": "SCML",
-      "company": "Sarbottam Cement Limited",
-      "unit": "2,400,000.00",
-      "price": "",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Ltd"
-    },
-    {
       "symbol": "HRL",
       "company": "Himalayan Reinsurance Limited",
       "unit": "30,000,000.00",
@@ -179,6 +170,15 @@
       "opening_date": "2023-07-06",
       "closing_date": "2023-07-10",
       "issue_manager": "Civil Capital Market Ltd."
+    },
+    {
+      "symbol": "USHL",
+      "company": "Upper Syange Hydropower Limited",
+      "unit": "539,500.00",
+      "price": "100.00",
+      "opening_date": "2023-06-25",
+      "closing_date": "2023-06-28",
+      "issue_manager": "Siddhartha Capital Limited"
     }
   ],
   "right_share_list": [
@@ -203,16 +203,6 @@
       "issue_manager": "Sunrise Capital Limited"
     },
     {
-      "symbol": "AKPL",
-      "company": "Arun Kabeli Power Limited",
-      "ratio": "1: 1",
-      "unit": "18,552,105.00",
-      "price": "100.00",
-      "opening_date": "2023-08-28",
-      "closing_date": "2023-09-17",
-      "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
       "symbol": "MPFL",
       "company": "Multipurpose Finance Company Limited",
       "ratio": "1: 0.35",
@@ -221,6 +211,16 @@
       "opening_date": "2023-08-27",
       "closing_date": "2023-09-17",
       "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "AKPL",
+      "company": "Arun Kabeli Power Limited",
+      "ratio": "1: 1",
+      "unit": "18,552,105.00",
+      "price": "100.00",
+      "opening_date": "2023-08-28",
+      "closing_date": "2023-09-17",
+      "issue_manager": "Nabil Investment Banking Ltd"
     },
     {
       "symbol": "SPDL",
@@ -243,16 +243,6 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "HDHPC",
-      "company": "Himal Dolakha Hydropower Company Limited",
-      "ratio": "1: 0.75",
-      "unit": "12,000,000.00",
-      "price": "100.00",
-      "opening_date": "2023-06-05",
-      "closing_date": "2023-07-10",
-      "issue_manager": "Laxmi Capital Market Limited"
-    },
-    {
       "symbol": "NHPC",
       "company": "National Hydro Power Company Limited",
       "ratio": "10:5",
@@ -261,6 +251,16 @@
       "opening_date": "2023-07-14",
       "closing_date": "2023-08-03",
       "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "HDHPC",
+      "company": "Himal Dolakha Hydropower Company Limited",
+      "ratio": "1: 0.75",
+      "unit": "12,000,000.00",
+      "price": "100.00",
+      "opening_date": "2023-06-05",
+      "closing_date": "2023-07-10",
+      "issue_manager": "Laxmi Capital Market Limited"
     },
     {
       "symbol": "BARUN",
@@ -333,16 +333,6 @@
       "issue_manager": "Global IME Capital Ltd."
     },
     {
-      "symbol": "CHL",
-      "company": "Chhyangdi Hydropower Company Limited",
-      "ratio": "10:3",
-      "unit": "893,025.00",
-      "price": "100.00",
-      "opening_date": "2022-01-25",
-      "closing_date": "2022-02-14",
-      "issue_manager": "Global IME Capital Ltd."
-    },
-    {
       "symbol": "SFCL",
       "company": "Samriddhi Finance Company Limited (former World Merchant Banking)",
       "ratio": "2:1",
@@ -351,6 +341,16 @@
       "opening_date": "2022-02-20",
       "closing_date": "2022-03-13",
       "issue_manager": "BOK Capital Market Ltd."
+    },
+    {
+      "symbol": "CHL",
+      "company": "Chhyangdi Hydropower Company Limited",
+      "ratio": "10:3",
+      "unit": "893,025.00",
+      "price": "100.00",
+      "opening_date": "2022-01-25",
+      "closing_date": "2022-02-14",
+      "issue_manager": "Global IME Capital Ltd."
     },
     {
       "symbol": "CORBL",
