@@ -19,15 +19,6 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "VLCL",
-      "company": "Vision Lumbini Urja Company Limited",
-      "unit": "2,075,285.00",
-      "price": "100.00",
-      "opening_date": "2023-11-02",
-      "closing_date": "2023-11-06",
-      "issue_manager": "Muktinath Capital Ltd."
-    },
-    {
       "symbol": "HRL",
       "company": "Himalayan Reinsurance Limited",
       "unit": "30,000,000.00",
@@ -35,6 +26,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "VLCL",
+      "company": "Vision Lumbini Urja Company Limited",
+      "unit": "2,075,285.00",
+      "price": "100.00",
+      "opening_date": "2023-11-02",
+      "closing_date": "2023-11-06",
+      "issue_manager": "Muktinath Capital Ltd."
     },
     {
       "symbol": "CHPL",
