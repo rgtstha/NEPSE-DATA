@@ -895,6 +895,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "9NBLD87",
+      "company": "9% Nabil Debenture 2087",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "KBLD90",
       "company": "10% KBL Debenture 2090",
       "unit": "5,000,000.00",
@@ -1064,15 +1073,6 @@
       "opening_date": "2022-06-14",
       "closing_date": "2022-06-28",
       "issue_manager": "Sanima Capital Ltd."
-    },
-    {
-      "symbol": "NMBUR93/94",
-      "company": "4% NMB Urja Rinpatra (Energy Bond II) 2093/94",
-      "unit": "3,500,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-05-04",
-      "closing_date": "2022-05-18",
-      "issue_manager": "Siddhartha Capital Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
