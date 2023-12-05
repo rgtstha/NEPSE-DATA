@@ -1,13 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "MKCL",
-      "company": "Muktinath Krishi Company Limited",
-      "unit": "1,148,000.00",
-      "price": "100.00",
-      "opening_date": "2023-11-24",
-      "closing_date": "2023-11-28",
-      "issue_manager": "NIMB Ace Capital Limited"
+      "symbol": "HRL",
+      "company": "Himalayan Reinsurance Limited",
+      "unit": "30,000,000.00",
+      "price": "206.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Limited"
     },
     {
       "symbol": "NWCL",
@@ -19,13 +19,13 @@
       "issue_manager": "Himalayan Capital Ltd"
     },
     {
-      "symbol": "HRL",
-      "company": "Himalayan Reinsurance Limited",
-      "unit": "30,000,000.00",
-      "price": "206.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NMB Capital Limited"
+      "symbol": "MKCL",
+      "company": "Muktinath Krishi Company Limited",
+      "unit": "1,148,000.00",
+      "price": "100.00",
+      "opening_date": "2023-11-24",
+      "closing_date": "2023-11-28",
+      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "VLCL",
