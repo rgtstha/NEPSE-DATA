@@ -28,7 +28,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "VLCL",
+      "symbol": "VLUCL",
       "company": "Vision Lumbini Urja Company Limited",
       "unit": "2,075,285.00",
       "price": "100.00",
@@ -37,7 +37,7 @@
       "issue_manager": "Muktinath Capital Ltd."
     },
     {
-      "symbol": "CHPL",
+      "symbol": "CKHL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "859,300.00",
       "price": "100.00",
@@ -531,7 +531,7 @@
   ],
   "ipo_local": [
     {
-      "symbol": "VLCL",
+      "symbol": "VLUCL",
       "company": "Vision Lumbini Urja Company Limited",
       "unit": "1,912,500.00",
       "price": "100.00",
@@ -549,7 +549,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "CHPL",
+      "symbol": "CKHL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "400,000.00",
       "price": "100.00",
@@ -712,6 +712,15 @@
     }
   ],
   "mutual_fund": [
+    {
+      "symbol": "KSY",
+      "company": "Kumari Sabal Yojana",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Kumari Capital Ltd"
+    },
     {
       "symbol": "NICGF2",
       "company": "NIC Asia Growth Fund 2",
@@ -882,18 +891,18 @@
       "opening_date": "2021-09-10",
       "closing_date": "2021-09-14",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "NMBSBF",
-      "company": "NMB Saral Bachat Fund - E",
-      "unit": "40,000,000.00",
-      "price": "10.00",
-      "opening_date": "2021-09-02",
-      "closing_date": "2021-09-06",
-      "issue_manager": "NMB Capital Ltd."
     }
   ],
   "bonds_debentures": [
+    {
+      "symbol": "10NIMBD90",
+      "company": "10% NIMB Debenture 2090",
+      "unit": "4,040,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Limited"
+    },
     {
       "symbol": "9NBLD87",
       "company": "9% Nabil Debenture 2087",
@@ -1064,15 +1073,6 @@
       "opening_date": "2022-06-24",
       "closing_date": "2022-07-08",
       "issue_manager": "Kumari Capital Ltd."
-    },
-    {
-      "symbol": "PDD84",
-      "company": "10.15% Prime Debenture 2084",
-      "unit": "5,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-06-14",
-      "closing_date": "2022-06-28",
-      "issue_manager": "Sanima Capital Ltd."
     }
   ],
   "ipo_to_migrant_workers": [
@@ -1104,7 +1104,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "VLCL",
+      "symbol": "VLUCL",
       "company": "Vision Lumbini Urja Company Limited",
       "unit": "191,250.00",
       "price": "100.00",
@@ -1122,7 +1122,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "CHPL",
+      "symbol": "CKHL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "80,000.00",
       "price": "100.00",
