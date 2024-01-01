@@ -213,6 +213,16 @@
       "issue_manager": "Sunrise Capital Limited"
     },
     {
+      "symbol": "SHEL",
+      "company": "Singati Hydro Energy Limited",
+      "ratio": "1:1",
+      "unit": "14,500,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "MPFL",
       "company": "Multipurpose Finance Company Limited",
       "ratio": "1: 0.35",
@@ -371,16 +381,6 @@
       "opening_date": "2022-01-21",
       "closing_date": "2022-02-25",
       "issue_manager": "Civil Capital Market Ltd."
-    },
-    {
-      "symbol": "NABBC",
-      "company": "Narayani Development Bank Limited",
-      "ratio": "1:1",
-      "unit": "1,312,338.00",
-      "price": "100.00",
-      "opening_date": "2021-12-23",
-      "closing_date": "2022-01-26",
-      "issue_manager": "Global IME Capital Ltd"
     }
   ],
   "fpo_list": [
