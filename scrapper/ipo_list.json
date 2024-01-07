@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "NABBC",
+      "company": "Narayani Development Bank Limited",
+      "ratio": "1: 1",
+      "unit": "2,624,676.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital ltd."
+    },
+    {
       "symbol": "RIDI",
       "company": "Ridi Power Company Limited",
       "ratio": "1:0.5",
@@ -371,16 +381,6 @@
       "opening_date": "2022-03-06",
       "closing_date": "2022-03-27",
       "issue_manager": "Global IME Capital Ltd."
-    },
-    {
-      "symbol": "SFCL",
-      "company": "Samriddhi Finance Company Limited (former World Merchant Banking)",
-      "ratio": "2:1",
-      "unit": "2,729,705.00",
-      "price": "100.00",
-      "opening_date": "2022-02-20",
-      "closing_date": "2022-03-13",
-      "issue_manager": "BOK Capital Market Ltd."
     }
   ],
   "fpo_list": [
