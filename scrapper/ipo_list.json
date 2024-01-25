@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "SHEL",
+      "company": "Singati Hydro Energy Limited",
+      "ratio": "1:1",
+      "unit": "14,500,000.00",
+      "price": "100.00",
+      "opening_date": "2024-02-14",
+      "closing_date": "2024-03-05",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "NABBC",
       "company": "Narayani Development Bank Limited",
       "ratio": "1: 1",
@@ -241,16 +251,6 @@
       "opening_date": "2023-09-04",
       "closing_date": "2023-10-09",
       "issue_manager": "Sunrise Capital Limited"
-    },
-    {
-      "symbol": "SHEL",
-      "company": "Singati Hydro Energy Limited",
-      "ratio": "1:1",
-      "unit": "14,500,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Kumari Capital Limited"
     },
     {
       "symbol": "MPFL",
@@ -536,7 +536,7 @@
       "unit": "930,000.00",
       "price": "360.90",
       "opening_date": "2024-01-10",
-      "closing_date": "2024-01-24",
+      "closing_date": "2024-02-08",
       "issue_manager": "Global IME Capital Ltd"
     },
     {
