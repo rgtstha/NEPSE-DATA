@@ -713,6 +713,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "KSY",
+      "company": "Kumari Sabal Yojana",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2024-02-11",
+      "closing_date": "2024-02-14",
+      "issue_manager": "Kumari Capital Ltd"
+    },
+    {
       "symbol": "NSTF",
       "company": "NIBL Stable Fund",
       "unit": "100,000,000.00",
@@ -720,15 +729,6 @@
       "opening_date": "2024-01-16",
       "closing_date": "2024-01-30",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "KSY",
-      "company": "Kumari Sabal Yojana",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Kumari Capital Ltd"
     },
     {
       "symbol": "NICGF2",
