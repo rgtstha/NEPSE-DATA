@@ -183,6 +183,26 @@
   ],
   "right_share_list": [
     {
+      "symbol": "RIDI",
+      "company": "Ridi Power Company Limited",
+      "ratio": "1:0.5",
+      "unit": "7,744,506.00",
+      "price": "100.00",
+      "opening_date": "2024-03-01",
+      "closing_date": "2024-03-21",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "AHPC",
+      "company": "Arun Valley Hydropower Development Company Limited",
+      "ratio": "1:1",
+      "unit": "18,679,626.00",
+      "price": "100.00",
+      "opening_date": "2024-02-29",
+      "closing_date": "2024-03-20",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "SHEL",
       "company": "Singati Hydro Energy Limited",
       "ratio": "1:1",
@@ -201,26 +221,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital ltd."
-    },
-    {
-      "symbol": "RIDI",
-      "company": "Ridi Power Company Limited",
-      "ratio": "1:0.5",
-      "unit": "7,744,506.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "AHPC",
-      "company": "Arun Valley Hydropower Development Company Limited",
-      "ratio": "1:1",
-      "unit": "18,679,626.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "LSML",
