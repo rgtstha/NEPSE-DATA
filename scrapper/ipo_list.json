@@ -1,7 +1,7 @@
 {
   "ipo_list": [
     {
-      "symbol": "SCML",
+      "symbol": "SARBTM",
       "company": "Sarbottam Cement Limited",
       "unit": "2,776,076.00",
       "price": "360.90",
@@ -531,7 +531,7 @@
   ],
   "ipo_local": [
     {
-      "symbol": "SCML",
+      "symbol": "SARBTM",
       "company": "Sarbottam Cement Limited",
       "unit": "930,000.00",
       "price": "360.90",
@@ -1077,7 +1077,7 @@
   ],
   "ipo_to_migrant_workers": [
     {
-      "symbol": "SCML",
+      "symbol": "SARBTM",
       "company": "Sarbottam Cement Limited",
       "unit": "267,000.00",
       "price": "360.90",
