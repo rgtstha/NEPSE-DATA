@@ -1,37 +1,8 @@
 var admin = require("firebase-admin");
 require('dotenv').config();
 
-
-var project_id = process.env.FIREBASE_PROJECT_ID;
-var private_key_id = process.env.FIREBASE_PRIVATE_KEY_ID;
-var private_key = process.env.FIREBASE_PRIVATE_KEY;
-var client_email = process.env.FIREBASE_CLIENT_EMAIL;
-var client_id = process.env.FIREBASE_CLIENT_ID;
-var auth_uri = process.env.FIREBASE_AUTH_URI;
-var token_uri = process.env.FIREBASE_TOKEN_URI;
-var auth_provider_x509_cert_url = process.env.FIREBASE_AUTH_PROVIDER_X509_CERT_URL;
-var client_x509_cert_url = process.env.FIREBASE_CLIENT_X509_CERT_URL;
-var universe_domain = process.env.FIREBASE_UNIVERSE_DOMAIN;
-
-var serviceAccount = {
-    "type": "service_account",
-    "project_id": project_id,
-    "private_key_id": private_key_id,
-    "private_key": private_key,
-    "client_email": client_email,
-    "client_id": client_id,
-    "auth_uri": auth_uri,
-    "token_uri": token_uri,
-    "auth_provider_x509_cert_url": auth_provider_x509_cert_url,
-    "client_x509_cert_url": client_x509_cert_url,
-    "universe_domain": universe_domain
-}
-
-
-console.log("service account type: " + typeof serviceAccount);
-
 admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount)
+    credential: admin.credential.cert(process.env.SERVICE_ACCOUNT)
 });
 
 const ipo_list = require('./ipo_list.json');
