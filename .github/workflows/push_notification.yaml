@@ -33,6 +33,10 @@ jobs:
           echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ../scrapper/service-account.json
         working-directory: .github/workflows
 
+      - name: Print service account in logs
+        run: cat ../scrapper/service-account.json
+        working-directory: .github/workflows
+
       - name: Set environment variable
         run: |
           echo "SERVICE_ACCOUNT=$(cat ../scrapper/service-account.json)" >> $GITHUB_ENV
