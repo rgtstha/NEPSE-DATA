@@ -1,8 +1,11 @@
 var admin = require("firebase-admin");
 require('dotenv').config();
 
+
+const serviceAccount = JSON.parse(process.env.SERVICE_ACCOUNT);
+
 admin.initializeApp({
-    credential: admin.credential.cert(process.env.SERVICE_ACCOUNT)
+    credential: admin.credential.cert(serviceAccount)
 });
 
 const ipo_list = require('./ipo_list.json');
