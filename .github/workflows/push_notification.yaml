@@ -29,11 +29,12 @@ jobs:
         run: npm install
 
       - name: Decode base64-encoded service account
-        run: echo ${{ secrets.SERVICE_ACCOUNT }} | base64 --decode > ./scrapper/service-account.json
+        run: |
+          echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ./scrapper/service-account.json
 
       - name: Set environment variable
         run: |
-          echo "SERVICE_ACCOUNT=$(<./scrapper/service-account.json)" >> $GITHUB_ENV
+          echo "SERVICE_ACCOUNT=$(cat ./scrapper/service-account.json)" >> $GITHUB_ENV
 
       - name: Run script
         run: node push_notification.js
