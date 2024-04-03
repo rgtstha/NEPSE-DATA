@@ -39,7 +39,7 @@ jobs:
 
       - name: Set environment variable
         run: |
-          run: echo "SERVICE_ACCOUNT=$(jq -c . < ../scrapper/service-account.json)" >> $GITHUB_ENV
+          echo "SERVICE_ACCOUNT=$(jq -c . < ../scrapper/service-account.json)" >> $GITHUB_ENV
         working-directory: .github/workflows
 
       - name: Run script
