@@ -30,13 +30,11 @@ jobs:
 
       - name: Decode base64-encoded service account
         run: |
-          echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ../scrapper/service-account.json
-        working-directory: .github/workflows
+          echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ../../scrapper/service-account.json
 
       - name: Set environment variable
         run: |
-          echo "SERVICE_ACCOUNT=$(jq -c . < ../scrapper/service-account.json)" >> $GITHUB_ENV
-        working-directory: .github/workflows
+          echo "SERVICE_ACCOUNT=$(jq -c . < ../../scrapper/service-account.json)" >> $GITHUB_ENV
 
       - name: Run script
         run: node push_notification.js
