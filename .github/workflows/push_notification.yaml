@@ -22,8 +22,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          # cache: 'npm'
-          # cache-dependency-path: ./scrapper/package-lock.json
+          cache: 'npm'
+          cache-dependency-path: ./scrapper/package-lock.json
 
       - name: Install dependencies
         run: npm install
@@ -31,10 +31,6 @@ jobs:
       - name: Decode base64-encoded service account
         run: |
           echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ../scrapper/service-account.json
-        working-directory: .github/workflows
-
-      - name: Print service account in logs
-        run: cat ../scrapper/service-account.json
         working-directory: .github/workflows
 
       - name: Set environment variable
