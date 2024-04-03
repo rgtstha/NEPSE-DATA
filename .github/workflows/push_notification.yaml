@@ -30,7 +30,7 @@ jobs:
 
       - name: Decode base64-encoded service account
         run: |
-          echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ./scrapper/service-account.json
+          echo "${{ secrets.SERVICE_ACCOUNT }}" | base64 --decode > ../scrapper/service-account.json
         working-directory: .github/workflows
 
       - name: Set environment variable
