@@ -35,7 +35,8 @@ jobs:
 
       - name: Set environment variable
         run: |
-          echo "SERVICE_ACCOUNT=$(cat ./scrapper/service-account.json)" >> $GITHUB_ENV
+          echo "SERVICE_ACCOUNT=$(cat ../scrapper/service-account.json)" >> $GITHUB_ENV
+        working-directory: .github/workflows
 
       - name: Run script
         run: node push_notification.js
