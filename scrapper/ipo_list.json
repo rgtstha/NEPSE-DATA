@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "NLCL",
+      "company": "Nepal Life Capital Limited (Former National Merchant Banker Limited)",
+      "ratio": "1:0.50",
+      "unit": "1,499,518.00",
+      "price": "100.00",
+      "opening_date": "2024-06-25",
+      "closing_date": "2024-07-09",
+      "issue_manager": ""
+    },
+    {
       "symbol": "RIDI",
       "company": "Ridi Power Company Limited",
       "ratio": "1:0.5",
@@ -371,16 +381,6 @@
       "opening_date": "2022-03-15",
       "closing_date": "2022-04-04",
       "issue_manager": "NIBL Ace Capital Ltd"
-    },
-    {
-      "symbol": "IGIL",
-      "company": "IME General Insurance Limited",
-      "ratio": "10:4",
-      "unit": "4,630,344.00",
-      "price": "100.00",
-      "opening_date": "2022-03-06",
-      "closing_date": "2022-03-27",
-      "issue_manager": "Global IME Capital Ltd."
     }
   ],
   "fpo_list": [
