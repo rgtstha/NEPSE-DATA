@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "HURJA",
+      "company": "Himalaya Urja Bikas Company Limited",
+      "ratio": "1:1",
+      "unit": "9,900,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "NLCL",
       "company": "Nepal Life Capital Limited (Former National Merchant Banker Limited)",
       "ratio": "1:0.50",
@@ -371,16 +381,6 @@
       "opening_date": "2022-04-08",
       "closing_date": "2022-04-28",
       "issue_manager": "Muktinath Capital Ltd."
-    },
-    {
-      "symbol": "SICL",
-      "company": "Shikhar Insurance Company Limited",
-      "ratio": "10:3",
-      "unit": "5,275,572.00",
-      "price": "100.00",
-      "opening_date": "2022-03-15",
-      "closing_date": "2022-04-04",
-      "issue_manager": "NIBL Ace Capital Ltd"
     }
   ],
   "fpo_list": [
