@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "MMHPL",
+      "company": "Middle Modi Hydropower Limited",
+      "ratio": "1:0.6024",
+      "unit": "4,879,719.00",
+      "price": "100.00",
+      "opening_date": "2024-07-09",
+      "closing_date": "2024-07-28",
+      "issue_manager": ""
+    },
+    {
       "symbol": "HURJA",
       "company": "Himalaya Urja Bikas Company Limited",
       "ratio": "1:1",
@@ -371,16 +381,6 @@
       "opening_date": "2022-05-20",
       "closing_date": "2022-06-09",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "API",
-      "company": "Api Power Company Limited",
-      "ratio": "1: 0.3936",
-      "unit": "10,860,000.00",
-      "price": "100.00",
-      "opening_date": "2022-04-08",
-      "closing_date": "2022-04-28",
-      "issue_manager": "Muktinath Capital Ltd."
     }
   ],
   "fpo_list": [
