@@ -1077,6 +1077,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "RSM",
+      "company": "Reliance Spinning Mills",
+      "unit": "115,596.00",
+      "price": "820.80",
+      "opening_date": "2024-07-11",
+      "closing_date": "2024-07-25",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
       "symbol": "SARBTM",
       "company": "Sarbottam Cement Limited",
       "unit": "267,000.00",
@@ -1246,15 +1255,6 @@
       "opening_date": "2023-06-02",
       "closing_date": "2023-06-16",
       "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "USHL",
-      "company": "Upper Syange Hydropower Limited",
-      "unit": "65,000.00",
-      "price": "100.00",
-      "opening_date": "2023-05-15",
-      "closing_date": "2023-05-30",
-      "issue_manager": "Siddhartha Capital Ltd."
     }
   ]
 }
