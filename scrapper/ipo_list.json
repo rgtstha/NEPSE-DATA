@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "AKJCL",
+      "company": "Ankhukhola Hydropower Company Limited",
+      "ratio": "1:1.5",
+      "unit": "12,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "MMHPL",
       "company": "Middle Modi Hydropower Limited",
       "ratio": "1:0.6024",
@@ -371,16 +381,6 @@
       "opening_date": "2022-08-03",
       "closing_date": "2022-08-23",
       "issue_manager": "Siddhartha Capital Ltd"
-    },
-    {
-      "symbol": "NFS",
-      "company": "Nepal Finance Limited",
-      "ratio": "1:0.70",
-      "unit": "3,454,474.28",
-      "price": "100.00",
-      "opening_date": "2022-05-20",
-      "closing_date": "2022-06-09",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ],
   "fpo_list": [
