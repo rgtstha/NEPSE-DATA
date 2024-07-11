@@ -385,6 +385,15 @@
   ],
   "fpo_list": [
     {
+      "symbol": "SWMF",
+      "company": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
+      "unit": "46,729.55",
+      "price": "100.00",
+      "opening_date": "2024-07-19",
+      "closing_date": "2024-07-23",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "USLB",
       "company": "Unnati Sahakarya Laghubitta Bittiya Sanstha Limited",
       "unit": "178,451.18",
@@ -1081,8 +1090,8 @@
       "company": "Reliance Spinning Mills",
       "unit": "115,596.00",
       "price": "820.80",
-      "opening_date": "2024-07-11",
-      "closing_date": "2024-07-25",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Ltd"
     },
     {
