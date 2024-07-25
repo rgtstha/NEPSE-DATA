@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "AKJCL",
+      "company": "Ankhukhola Hydropower Company Limited",
+      "ratio": "1:1.5",
+      "unit": "12,000,000.00",
+      "price": "100.00",
+      "opening_date": "2024-08-11",
+      "closing_date": "2024-09-01",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "HURJA",
       "company": "Himalaya Urja Bikas Company Limited",
       "ratio": "1:1",
@@ -190,16 +200,6 @@
       "price": "100.00",
       "opening_date": "2024-08-08",
       "closing_date": "2024-08-28",
-      "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "AKJCL",
-      "company": "Ankhukhola Hydropower Company Limited",
-      "ratio": "1:1.5",
-      "unit": "12,000,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
