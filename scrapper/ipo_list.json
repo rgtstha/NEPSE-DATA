@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "CHDC",
+      "company": "CEDB Hydropower Development Company Limited",
+      "ratio": "1:0.545",
+      "unit": "",
+      "price": "",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": ""
+    },
+    {
       "symbol": "AKJCL",
       "company": "Ankhukhola Hydropower Company Limited",
       "ratio": "1:1.5",
@@ -371,16 +381,6 @@
       "opening_date": "2022-09-21",
       "closing_date": "2022-10-11",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "NGPL",
-      "company": "Ngadi Group Power Limited",
-      "ratio": "1:1.5",
-      "unit": "10,603,986.00",
-      "price": "100.00",
-      "opening_date": "2022-08-03",
-      "closing_date": "2022-08-23",
-      "issue_manager": "Siddhartha Capital Ltd"
     }
   ],
   "fpo_list": [
