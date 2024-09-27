@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "AKPL",
+      "company": "Arun Kabeli Power Limited",
+      "ratio": "1:1",
+      "unit": "",
+      "price": "",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": ""
+    },
+    {
       "symbol": "SAHAS",
       "company": "Sahas Urja Limited",
       "ratio": "1:1",
@@ -371,16 +381,6 @@
       "opening_date": "2023-08-20",
       "closing_date": "2023-09-17",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "API",
-      "company": "Api Power Company Limited",
-      "ratio": "1: 0.40",
-      "unit": "16,533,137.00",
-      "price": "100.00",
-      "opening_date": "2023-08-16",
-      "closing_date": "2023-09-05",
-      "issue_manager": "Muktinath Capital Limited"
     }
   ],
   "fpo_list": [
