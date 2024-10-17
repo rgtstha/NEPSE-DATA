@@ -385,6 +385,15 @@
   ],
   "fpo_list": [
     {
+      "symbol": "SMATA",
+      "company": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
+      "unit": "350,904.25",
+      "price": "0.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "RBB Merchant Banking Ltd."
+    },
+    {
       "symbol": "SWMF",
       "company": "Suryodaya Womi Laghubitta Bittiya Sanstha Limited",
       "unit": "46,729.55",
