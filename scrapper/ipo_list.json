@@ -293,6 +293,16 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
+      "symbol": "BHL",
+      "company": "Balephi Hydropower Limited",
+      "ratio": "1:1",
+      "unit": "18,279,700.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "MMHPL",
       "company": "Middle Modi Hydropower Limited",
       "ratio": "1:0.6024",
@@ -371,16 +381,6 @@
       "opening_date": "2023-11-26",
       "closing_date": "2024-01-01",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "LEC",
-      "company": "Liberty Energy Company Limited",
-      "ratio": "1:0.5",
-      "unit": "7,500,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "fpo_list": [
@@ -388,10 +388,10 @@
       "symbol": "SMATA",
       "company": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
       "unit": "350,904.25",
-      "price": "0.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "RBB Merchant Banking Ltd."
+      "price": "100.00",
+      "opening_date": "2024-10-28",
+      "closing_date": "2024-11-05",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "SWMF",
