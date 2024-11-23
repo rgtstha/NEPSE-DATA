@@ -64,13 +64,13 @@
       "issue_manager": "RBB Merchant Banking Ltd."
     },
     {
-      "symbol": "SONA",
-      "company": "Sonapur Minerals and Oil Limited",
-      "unit": "9,732,544.00",
-      "price": "237.58",
-      "opening_date": "2023-10-01",
-      "closing_date": "2023-10-05",
-      "issue_manager": "NIMB Ace Capital Limited"
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "1,284,200.00",
+      "price": "100.00",
+      "opening_date": "2023-10-05",
+      "closing_date": "2023-10-09",
+      "issue_manager": "Sanima Capital Ltd"
     },
     {
       "symbol": "MSHL",
@@ -82,13 +82,13 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "1,284,200.00",
-      "price": "100.00",
-      "opening_date": "2023-10-05",
-      "closing_date": "2023-10-09",
-      "issue_manager": "Sanima Capital Ltd"
+      "symbol": "SONA",
+      "company": "Sonapur Minerals and Oil Limited",
+      "unit": "9,732,544.00",
+      "price": "237.58",
+      "opening_date": "2023-10-01",
+      "closing_date": "2023-10-05",
+      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "HATHY",
@@ -136,15 +136,6 @@
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
-      "symbol": "RNLI",
-      "company": "Reliable Nepal Life Insurance Limited",
-      "unit": "9,600,000.00",
-      "price": "257.00",
-      "opening_date": "2023-08-08",
-      "closing_date": "2023-08-11",
-      "issue_manager": "Civil Capital Market Ltd."
-    },
-    {
       "symbol": "MEHL",
       "company": "Manakamana Engineering Hydropower Limited",
       "unit": "2,276,620.00",
@@ -152,6 +143,15 @@
       "opening_date": "2023-08-13",
       "closing_date": "2023-08-16",
       "issue_manager": "B.O.K Capital Market Ltd"
+    },
+    {
+      "symbol": "RNLI",
+      "company": "Reliable Nepal Life Insurance Limited",
+      "unit": "9,600,000.00",
+      "price": "257.00",
+      "opening_date": "2023-08-08",
+      "closing_date": "2023-08-11",
+      "issue_manager": "Civil Capital Market Ltd."
     },
     {
       "symbol": "ULHC",
@@ -182,6 +182,16 @@
     }
   ],
   "right_share_list": [
+    {
+      "symbol": "LEC",
+      "company": "Liberty Energy Company Limited",
+      "ratio": "1:0.5",
+      "unit": "7,500,000.00",
+      "price": "100.00",
+      "opening_date": "2024-12-01",
+      "closing_date": "2024-12-22",
+      "issue_manager": "Prabhu Capital Limited"
+    },
     {
       "symbol": "NLG",
       "company": "NLG Insurance Company Limited",
@@ -311,16 +321,6 @@
       "opening_date": "2023-11-26",
       "closing_date": "2024-01-01",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "LEC",
-      "company": "Liberty Energy Company Limited",
-      "ratio": "1:0.5",
-      "unit": "7,500,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "UPPER",
