@@ -1,13 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "SARBTM",
-      "company": "Sarbottam Cement Limited",
-      "unit": "2,776,076.00",
-      "price": "360.90",
-      "opening_date": "2024-02-25",
-      "closing_date": "2024-02-28",
-      "issue_manager": "Global IME Capital Ltd"
+      "symbol": "GMLIL",
+      "company": "Guardian Micro Life Insurance Limited",
+      "unit": "2,250,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Kumari Capital Ltd"
     },
     {
       "symbol": "RSM",
@@ -17,6 +17,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "SARBTM",
+      "company": "Sarbottam Cement Limited",
+      "unit": "2,776,076.00",
+      "price": "360.90",
+      "opening_date": "2024-02-25",
+      "closing_date": "2024-02-28",
+      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "HRL",
@@ -170,15 +179,6 @@
       "opening_date": "2023-07-11",
       "closing_date": "2023-07-14",
       "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "GCIL",
-      "company": "Ghorahi Cement Industry Limited",
-      "unit": "6,911,670.00",
-      "price": "435.00",
-      "opening_date": "2023-07-07",
-      "closing_date": "2023-07-10",
-      "issue_manager": "Himalayan Capital Ltd."
     }
   ],
   "right_share_list": [
@@ -213,6 +213,26 @@
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
+      "symbol": "NGPL",
+      "company": "Ngadi Group Power Limited",
+      "ratio": "1:1",
+      "unit": "18,512,793.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
+      "symbol": "BHL",
+      "company": "Balephi Hydropower Limited",
+      "ratio": "1:1",
+      "unit": "18,279,700.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "AKJCL",
       "company": "Ankhukhola Hydropower Company Limited",
       "ratio": "1:1.5",
@@ -231,16 +251,6 @@
       "opening_date": "2024-08-08",
       "closing_date": "2024-08-28",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "BHL",
-      "company": "Balephi Hydropower Limited",
-      "ratio": "1:1",
-      "unit": "18,279,700.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "MMHPL",
@@ -370,16 +380,6 @@
       "price": "100.00",
       "opening_date": "2023-08-16",
       "closing_date": "2023-09-05",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "NHPC",
-      "company": "National Hydro Power Company Limited",
-      "ratio": "10:5",
-      "unit": "8,221,459.72",
-      "price": "100.00",
-      "opening_date": "2023-07-14",
-      "closing_date": "2023-08-03",
       "issue_manager": "Muktinath Capital Limited"
     }
   ],
@@ -735,8 +735,8 @@
       "company": "Muktinath Mutual Fund 1",
       "unit": "100,000,000.00",
       "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2024-12-05",
+      "closing_date": "2024-12-09",
       "issue_manager": "Muktinath Capital Limited"
     },
     {
