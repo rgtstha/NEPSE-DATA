@@ -1095,6 +1095,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "GMLIL",
+      "company": "Guardian Micro Life Insurance Limited",
+      "unit": "1,845,000.00",
+      "price": "100.00",
+      "opening_date": "2024-12-04",
+      "closing_date": "2024-12-18",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "RSM",
       "company": "Reliance Spinning Mills",
       "unit": "115,596.00",
@@ -1264,15 +1273,6 @@
       "opening_date": "2023-06-16",
       "closing_date": "2023-06-30",
       "issue_manager": "Civil Capital Market Ltd."
-    },
-    {
-      "symbol": "KBSH",
-      "company": "Kutheli Bukhari Small Hydropower Limited",
-      "unit": "12,168.00",
-      "price": "100.00",
-      "opening_date": "2023-06-02",
-      "closing_date": "2023-06-16",
-      "issue_manager": "NMB Capital Limited"
     }
   ]
 }
