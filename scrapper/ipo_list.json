@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "BHL",
+      "company": "Balephi Hydropower Limited",
+      "ratio": "1:1",
+      "unit": "18,279,700.00",
+      "price": "100.00",
+      "opening_date": "2024-12-12",
+      "closing_date": "2025-01-01",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "LEC",
       "company": "Liberty Energy Company Limited",
       "ratio": "1:0.5",
@@ -221,16 +231,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
-      "symbol": "BHL",
-      "company": "Balephi Hydropower Limited",
-      "ratio": "1:1",
-      "unit": "18,279,700.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "AKJCL",
