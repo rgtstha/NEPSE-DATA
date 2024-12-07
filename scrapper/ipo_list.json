@@ -385,6 +385,15 @@
   ],
   "fpo_list": [
     {
+      "symbol": "MSLB",
+      "company": "Mahuli Laghubitta Bittiya Sanstha Limited",
+      "unit": "475,449.15",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
+    },
+    {
       "symbol": "SMATA",
       "company": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
       "unit": "350,904.25",
