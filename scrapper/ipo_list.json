@@ -209,7 +209,7 @@
       "unit": "9,631,220.22",
       "price": "100.00",
       "opening_date": "2024-11-26",
-      "closing_date": "2024-12-16",
+      "closing_date": "2024-12-31",
       "issue_manager": "LS Capital Limited"
     },
     {
@@ -219,7 +219,7 @@
       "unit": "23,468,000.00",
       "price": "100.00",
       "opening_date": "2024-11-27",
-      "closing_date": "2024-12-17",
+      "closing_date": "2025-01-01",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
@@ -911,13 +911,13 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "NICFC",
-      "company": "NIC Asia Flexi Cap Fund",
-      "unit": "100,000,000.00",
+      "symbol": "NMBHF2",
+      "company": "NMB Hybrid Fund L-II",
+      "unit": "120,000,000.00",
       "price": "10.00",
-      "opening_date": "2022-06-02",
-      "closing_date": "2022-06-08",
-      "issue_manager": "NIC Asia Capital Ltd."
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Ltd"
     }
   ],
   "bonds_debentures": [
