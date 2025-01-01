@@ -183,16 +183,6 @@
   ],
   "right_share_list": [
     {
-      "symbol": "GCIL",
-      "company": "Ghorahi Cement Industry Limited",
-      "ratio": "1:0.75",
-      "unit": "34,257,642.75",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": ""
-    },
-    {
       "symbol": "BHL",
       "company": "Balephi Hydropower Limited",
       "ratio": "1:1",
@@ -201,26 +191,6 @@
       "opening_date": "2024-12-12",
       "closing_date": "2025-01-01",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "LEC",
-      "company": "Liberty Energy Company Limited",
-      "ratio": "1:0.5",
-      "unit": "7,500,000.00",
-      "price": "100.00",
-      "opening_date": "2024-12-01",
-      "closing_date": "2024-12-22",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "NLG",
-      "company": "NLG Insurance Company Limited",
-      "ratio": "10:6.256",
-      "unit": "9,631,220.22",
-      "price": "100.00",
-      "opening_date": "2024-11-26",
-      "closing_date": "2024-12-31",
-      "issue_manager": "LS Capital Limited"
     },
     {
       "symbol": "LICN",
@@ -233,6 +203,16 @@
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
+      "symbol": "NLG",
+      "company": "NLG Insurance Company Limited",
+      "ratio": "10:6.256",
+      "unit": "9,631,220.22",
+      "price": "100.00",
+      "opening_date": "2024-11-26",
+      "closing_date": "2024-12-31",
+      "issue_manager": "LS Capital Limited"
+    },
+    {
       "symbol": "NGPL",
       "company": "Ngadi Group Power Limited",
       "ratio": "1:1",
@@ -241,6 +221,16 @@
       "opening_date": "2025-01-07",
       "closing_date": "2025-01-27",
       "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
+      "symbol": "LEC",
+      "company": "Liberty Energy Company Limited",
+      "ratio": "1:0.5",
+      "unit": "7,500,000.00",
+      "price": "100.00",
+      "opening_date": "2024-12-01",
+      "closing_date": "2024-12-22",
+      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "AKJCL",
@@ -381,6 +371,16 @@
       "opening_date": "2023-08-20",
       "closing_date": "2023-09-17",
       "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "API",
+      "company": "Api Power Company Limited",
+      "ratio": "1: 0.40",
+      "unit": "16,533,137.00",
+      "price": "100.00",
+      "opening_date": "2023-08-16",
+      "closing_date": "2023-09-05",
+      "issue_manager": "Muktinath Capital Limited"
     }
   ],
   "fpo_list": [
