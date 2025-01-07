@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "NGPL",
+      "company": "Ngadi Group Power Limited",
+      "ratio": "1:1",
+      "unit": "18,512,792.23",
+      "price": "100.00",
+      "opening_date": "2025-01-07",
+      "closing_date": "2025-01-27",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
       "symbol": "BHL",
       "company": "Balephi Hydropower Limited",
       "ratio": "1:1",
@@ -211,16 +221,6 @@
       "opening_date": "2024-11-26",
       "closing_date": "2024-12-31",
       "issue_manager": "LS Capital Limited"
-    },
-    {
-      "symbol": "NGPL",
-      "company": "Ngadi Group Power Limited",
-      "ratio": "1:1",
-      "unit": "18,512,792.23",
-      "price": "100.00",
-      "opening_date": "2025-01-07",
-      "closing_date": "2025-01-27",
-      "issue_manager": "Siddhartha Capital Limited"
     },
     {
       "symbol": "LEC",
@@ -749,7 +749,7 @@
       "issue_manager": "Garima Capital Limited"
     },
     {
-      "symbol": "MUKMF1",
+      "symbol": "MNMF1",
       "company": "Muktinath Mutual Fund 1",
       "unit": "100,000,000.00",
       "price": "10.00",
