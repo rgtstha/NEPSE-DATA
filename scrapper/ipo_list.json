@@ -922,6 +922,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "EBLEB91",
+      "company": "7.50% Everest Bank Limited Debenture 2091",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
+    },
+    {
       "symbol": "ICFCD88",
       "company": "9% ICFC Finance Limited Debenture 2088",
       "unit": "300,000.00",
@@ -1091,15 +1100,6 @@
       "opening_date": "2022-07-06",
       "closing_date": "2022-07-20",
       "issue_manager": "Sanima Bank Ltd"
-    },
-    {
-      "symbol": "SBD89",
-      "company": "10.25% Sanima Debenture 2089",
-      "unit": "5,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-06-24",
-      "closing_date": "2022-07-08",
-      "issue_manager": "RBB Merchant Banking Limited"
     }
   ],
   "ipo_to_migrant_workers": [
