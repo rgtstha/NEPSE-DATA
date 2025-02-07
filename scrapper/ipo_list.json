@@ -46,7 +46,7 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "GMLIL",
+      "symbol": "GMLI",
       "company": "Guardian Micro Life Insurance Limited",
       "unit": "1,845,000.00",
       "price": "100.00",
@@ -253,6 +253,16 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
+      "symbol": "DORDI",
+      "company": "Dordi Khola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "10,542,604.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
       "symbol": "HURJA",
       "company": "Himalaya Urja Bikas Company Limited",
       "ratio": "1:1",
@@ -371,16 +381,6 @@
       "opening_date": "2023-08-28",
       "closing_date": "2023-09-17",
       "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
-      "symbol": "SPDL",
-      "company": "Synergy Power Development Limited",
-      "ratio": "2: 1",
-      "unit": "4,032,875.00",
-      "price": "100.00",
-      "opening_date": "2023-08-20",
-      "closing_date": "2023-09-17",
-      "issue_manager": "Sanima Capital Limited"
     }
   ],
   "fpo_list": [
@@ -1131,7 +1131,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "GMLIL",
+      "symbol": "GMLI",
       "company": "Guardian Micro Life Insurance Limited",
       "unit": "225,000.00",
       "price": "100.00",
