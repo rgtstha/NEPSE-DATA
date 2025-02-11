@@ -1,5 +1,186 @@
 {
-  "ipo_list": [],
+  "ipo_list": [
+    {
+      "symbol": "NMIC",
+      "company": "Nepal Micro Insurance Company Limited",
+      "unit": "1,845,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIMB Ace Capital Ltd"
+    },
+    {
+      "symbol": "CMLIL",
+      "company": "Crest Micro Life Insurance Limited",
+      "unit": "2,250,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIMB Ace Capital Ltd."
+    },
+    {
+      "symbol": "OMSP",
+      "company": "Om Megashree Pharmaceuticals Limited",
+      "unit": "1,476,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "RSM",
+      "company": "Reliance Spinning Mills",
+      "unit": "1,155,960.00",
+      "price": "820.80",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "SARBTM",
+      "company": "Sarbottam Cement Limited",
+      "unit": "2,776,076.00",
+      "price": "360.90",
+      "opening_date": "2024-02-25",
+      "closing_date": "2024-02-28",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "GMLI",
+      "company": "Guardian Micro Life Insurance Limited",
+      "unit": "1,845,000.00",
+      "price": "100.00",
+      "opening_date": "2025-01-05",
+      "closing_date": "2025-01-08",
+      "issue_manager": "Kumari Capital Ltd"
+    },
+    {
+      "symbol": "HRL",
+      "company": "Himalayan Reinsurance Limited",
+      "unit": "24,900,000.00",
+      "price": "206.00",
+      "opening_date": "2023-12-13",
+      "closing_date": "2023-12-18",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "NWCL",
+      "company": "Nepal Warehousing Company Limited",
+      "unit": "1,141,250.00",
+      "price": "100.00",
+      "opening_date": "2023-11-26",
+      "closing_date": "2023-11-29",
+      "issue_manager": "Himalayan Capital Ltd"
+    },
+    {
+      "symbol": "MKCL",
+      "company": "Muktinath Krishi Company Limited",
+      "unit": "1,148,000.00",
+      "price": "100.00",
+      "opening_date": "2023-11-24",
+      "closing_date": "2023-11-28",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "VLUCL",
+      "company": "Vision Lumbini Urja Company Limited",
+      "unit": "2,075,285.00",
+      "price": "100.00",
+      "opening_date": "2023-11-02",
+      "closing_date": "2023-11-06",
+      "issue_manager": "Muktinath Capital Ltd."
+    },
+    {
+      "symbol": "CKHL",
+      "company": "Chirkhwa Hydro Power Limited",
+      "unit": "859,300.00",
+      "price": "100.00",
+      "opening_date": "2023-10-10",
+      "closing_date": "2023-10-13",
+      "issue_manager": "RBB Merchant Banking Ltd."
+    },
+    {
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "1,284,200.00",
+      "price": "100.00",
+      "opening_date": "2023-10-05",
+      "closing_date": "2023-10-09",
+      "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "MSHL",
+      "company": "Mid Solu Hydropower Company Limited",
+      "unit": "621,172.00",
+      "price": "100.00",
+      "opening_date": "2023-09-15",
+      "closing_date": "2023-09-19",
+      "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "SONA",
+      "company": "Sonapur Minerals and Oil Limited",
+      "unit": "9,732,544.00",
+      "price": "237.58",
+      "opening_date": "2023-10-01",
+      "closing_date": "2023-10-05",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "HATHY",
+      "company": "Hathway Investment Nepal Limited",
+      "unit": "2,427,750.00",
+      "price": "50.00",
+      "opening_date": "2023-09-07",
+      "closing_date": "2023-09-11",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "CLI",
+      "company": "Citizen Life Insurance Company Limited",
+      "unit": "9,000,000.00",
+      "price": "244.00",
+      "opening_date": "2023-09-01",
+      "closing_date": "2023-09-05",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "MANDU",
+      "company": "Mandu Hydropower Limited",
+      "unit": "1,205,320.00",
+      "price": "206.00",
+      "opening_date": "2023-08-27",
+      "closing_date": "2023-08-30",
+      "issue_manager": "Prabhu Capital limited"
+    },
+    {
+      "symbol": "BGWT",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "712,220.00",
+      "price": "116.00",
+      "opening_date": "2023-08-22",
+      "closing_date": "2023-08-25",
+      "issue_manager": "Siddhartha Capital Ltd"
+    },
+    {
+      "symbol": "SNLI",
+      "company": "Sun Nepal Life Insurance Company Limited",
+      "unit": "7,680,000.00",
+      "price": "239.00",
+      "opening_date": "2023-08-17",
+      "closing_date": "2023-08-21",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
+    {
+      "symbol": "MEHL",
+      "company": "Manakamana Engineering Hydropower Limited",
+      "unit": "2,276,620.00",
+      "price": "100.00",
+      "opening_date": "2023-08-13",
+      "closing_date": "2023-08-16",
+      "issue_manager": "B.O.K Capital Market Ltd"
+    }
+  ],
   "right_share_list": [
     {
       "symbol": "NIL",
@@ -211,6 +392,15 @@
       "opening_date": "2024-12-20",
       "closing_date": "2024-12-24",
       "issue_manager": "Laxmi Sunrise Capital Limited"
+    },
+    {
+      "symbol": "SLBBL",
+      "company": "Swarojgar Laghubitta Bittiya Sanstha Limited",
+      "unit": "195,773.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Ltd."
     },
     {
       "symbol": "SMATA",
@@ -564,7 +754,7 @@
       "unit": "120,000,000.00",
       "price": "10.00",
       "opening_date": "2025-02-06",
-      "closing_date": "2025-02-10",
+      "closing_date": "2025-02-20",
       "issue_manager": "NMB Capital Ltd"
     },
     {
