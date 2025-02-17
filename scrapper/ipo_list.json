@@ -109,13 +109,13 @@
       "issue_manager": "RBB Merchant Banking Ltd."
     },
     {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "1,284,200.00",
-      "price": "100.00",
-      "opening_date": "2023-10-05",
-      "closing_date": "2023-10-09",
-      "issue_manager": "Sanima Capital Ltd"
+      "symbol": "SONA",
+      "company": "Sonapur Minerals and Oil Limited",
+      "unit": "9,732,544.00",
+      "price": "237.58",
+      "opening_date": "2023-10-01",
+      "closing_date": "2023-10-05",
+      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "MSHL",
@@ -127,13 +127,13 @@
       "issue_manager": "NIC Asia Capital Ltd"
     },
     {
-      "symbol": "SONA",
-      "company": "Sonapur Minerals and Oil Limited",
-      "unit": "9,732,544.00",
-      "price": "237.58",
-      "opening_date": "2023-10-01",
-      "closing_date": "2023-10-05",
-      "issue_manager": "NIMB Ace Capital Limited"
+      "symbol": "MMKJL",
+      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
+      "unit": "1,284,200.00",
+      "price": "100.00",
+      "opening_date": "2023-10-05",
+      "closing_date": "2023-10-09",
+      "issue_manager": "Sanima Capital Ltd"
     },
     {
       "symbol": "HATHY",
@@ -253,16 +253,6 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "DORDI",
-      "company": "Dordi Khola Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "10,542,604.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
       "symbol": "HURJA",
       "company": "Himalaya Urja Bikas Company Limited",
       "ratio": "1:1",
@@ -271,6 +261,16 @@
       "opening_date": "2024-08-08",
       "closing_date": "2024-08-28",
       "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
+      "symbol": "DORDI",
+      "company": "Dordi Khola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "10,542,604.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sanima Capital Limited"
     },
     {
       "symbol": "MMHPL",
@@ -363,16 +363,6 @@
       "issue_manager": "Sunrise Capital Limited"
     },
     {
-      "symbol": "MPFL",
-      "company": "Multipurpose Finance Company Limited",
-      "ratio": "1: 0.35",
-      "unit": "1,582,000.00",
-      "price": "100.00",
-      "opening_date": "2023-08-27",
-      "closing_date": "2023-09-17",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
       "symbol": "AKPL",
       "company": "Arun Kabeli Power Limited",
       "ratio": "1: 1",
@@ -381,9 +371,28 @@
       "opening_date": "2023-08-28",
       "closing_date": "2023-09-17",
       "issue_manager": "Nabil Investment Banking Ltd"
+    },
+    {
+      "symbol": "MPFL",
+      "company": "Multipurpose Finance Company Limited",
+      "ratio": "1: 0.35",
+      "unit": "1,582,000.00",
+      "price": "100.00",
+      "opening_date": "2023-08-27",
+      "closing_date": "2023-09-17",
+      "issue_manager": "Muktinath Capital Limited"
     }
   ],
   "fpo_list": [
+    {
+      "symbol": "WNLB",
+      "company": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
+      "unit": "51,292.50",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
     {
       "symbol": "MSLB",
       "company": "Mahuli Laghubitta Bittiya Sanstha Limited",
@@ -554,15 +563,6 @@
       "opening_date": "2015-12-19",
       "closing_date": "2015-12-22",
       "issue_manager": "NCM Merchant Banking Ltd."
-    },
-    {
-      "symbol": "SICL",
-      "company": "Shikhar Insurance Company Limited",
-      "unit": "510,988.00",
-      "price": "650.00",
-      "opening_date": "2015-12-02",
-      "closing_date": "2015-12-06",
-      "issue_manager": "NIBL Capital Markets Ltd."
     }
   ],
   "ipo_local": [
