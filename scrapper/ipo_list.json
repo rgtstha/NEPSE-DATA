@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "PELTD",
+      "company": "Pure Energy Limited",
+      "unit": "144,000.00",
+      "price": "100.00",
+      "opening_date": "2025-03-04",
+      "closing_date": "2025-03-18",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "NMIC",
       "company": "Nepal Micro Insurance Company Limited",
       "unit": "225,000.00",
@@ -1156,15 +1165,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "PELTD",
-      "company": "Pure Energy Limited",
-      "unit": "144,000.00",
-      "price": "100.00",
-      "opening_date": "2025-03-04",
-      "closing_date": "2025-03-18",
-      "issue_manager": "Nabil Investment Banking Limited"
     },
     {
       "symbol": "SARBTM",
