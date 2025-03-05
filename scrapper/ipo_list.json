@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "NMIC",
-      "company": "Nepal Micro Insurance Company Limited",
-      "unit": "1,845,000.00",
-      "price": "100.00",
-      "opening_date": "2025-02-23",
-      "closing_date": "2025-02-27",
-      "issue_manager": "NIMB Ace Capital Ltd"
-    },
-    {
       "symbol": "CMLIL",
       "company": "Crest Micro Life Insurance Limited",
       "unit": "1,845,000.00",
@@ -23,9 +14,18 @@
       "company": "Om Megashree Pharmaceuticals Limited",
       "unit": "1,476,000.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2025-03-11",
+      "closing_date": "2025-03-16",
       "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "NMIC",
+      "company": "Nepal Micro Insurance Company Limited",
+      "unit": "1,845,000.00",
+      "price": "100.00",
+      "opening_date": "2025-02-23",
+      "closing_date": "2025-02-27",
+      "issue_manager": "NIMB Ace Capital Ltd"
     },
     {
       "symbol": "PELTD",
@@ -936,7 +936,7 @@
       "unit": "3,000,000.00",
       "price": "1,000.00",
       "opening_date": "2025-03-02",
-      "closing_date": "2025-03-05",
+      "closing_date": "2025-03-16",
       "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
