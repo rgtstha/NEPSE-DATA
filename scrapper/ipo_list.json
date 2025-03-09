@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "DORDI",
+      "company": "Dordi Khola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "10,542,604.00",
+      "price": "100.00",
+      "opening_date": "2025-04-01",
+      "closing_date": "2025-04-21",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
       "symbol": "NIL",
       "company": "Neco Insurance Limited",
       "ratio": "1:0.25",
@@ -190,16 +200,6 @@
       "price": "100.00",
       "opening_date": "2025-02-20",
       "closing_date": "2025-03-12",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "DORDI",
-      "company": "Dordi Khola Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "10,542,604.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
       "issue_manager": "Sanima Capital Limited"
     },
     {
