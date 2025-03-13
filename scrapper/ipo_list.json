@@ -189,7 +189,7 @@
       "unit": "5,030,901.55",
       "price": "100.00",
       "opening_date": "2025-02-20",
-      "closing_date": "2025-03-12",
+      "closing_date": "2025-03-27",
       "issue_manager": "Sanima Capital Limited"
     },
     {
@@ -758,6 +758,15 @@
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
+      "symbol": "RSY",
+      "company": "Reliable Samriddhi Yojana",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-04-16",
+      "closing_date": "2025-04-20",
+      "issue_manager": "Reliable Investment and Merchant Capital Limited"
+    },
+    {
       "symbol": "NMBHF2",
       "company": "NMB Hybrid Fund L-II",
       "unit": "120,000,000.00",
@@ -839,15 +848,6 @@
       "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
-      "symbol": "C30MF",
-      "company": "Citizens Super 30 Mutual Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2023-04-19",
-      "closing_date": "2023-05-03",
-      "issue_manager": "Citizens Capital Ltd"
-    },
-    {
       "symbol": "SIGS3",
       "company": "Siddhartha Investment Growth Scheme 3",
       "unit": "120,000,000.00",
@@ -855,6 +855,15 @@
       "opening_date": "2023-04-09",
       "closing_date": "2023-04-23",
       "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "C30MF",
+      "company": "Citizens Super 30 Mutual Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2023-04-19",
+      "closing_date": "2023-05-03",
+      "issue_manager": "Citizens Capital Ltd"
     },
     {
       "symbol": "RMF2",
@@ -918,15 +927,6 @@
       "opening_date": "2022-11-02",
       "closing_date": "2022-11-16",
       "issue_manager": "Sanima Capital Ltd"
-    },
-    {
-      "symbol": "SLK",
-      "company": "Shubha Laxmi Kosh",
-      "unit": "17,500,000.00",
-      "price": "10.00",
-      "opening_date": "2022-08-04",
-      "closing_date": "2022-08-18",
-      "issue_manager": "Laxmi Capital Limited"
     }
   ],
   "bonds_debentures": [
