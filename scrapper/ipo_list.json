@@ -10,15 +10,6 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "OMSP",
-      "company": "Om Megashree Pharmaceuticals Limited",
-      "unit": "1,476,000.00",
-      "price": "100.00",
-      "opening_date": "2025-03-11",
-      "closing_date": "2025-03-16",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
       "symbol": "RSM",
       "company": "Reliance Spinning Mills",
       "unit": "1,155,960.00",
@@ -26,6 +17,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "OMSP",
+      "company": "Om Megashree Pharmaceuticals Limited",
+      "unit": "1,476,000.00",
+      "price": "100.00",
+      "opening_date": "2025-03-11",
+      "closing_date": "2025-03-16",
+      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "CMLIL",
@@ -183,16 +183,6 @@
   ],
   "right_share_list": [
     {
-      "symbol": "NIL",
-      "company": "Neco Insurance Limited",
-      "ratio": "1:0.25",
-      "unit": "5,030,901.55",
-      "price": "100.00",
-      "opening_date": "2025-02-20",
-      "closing_date": "2025-03-27",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
       "symbol": "DORDI",
       "company": "Dordi Khola Hydropower Company Limited",
       "ratio": "1:1",
@@ -200,6 +190,16 @@
       "price": "100.00",
       "opening_date": "2025-04-01",
       "closing_date": "2025-04-21",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "NIL",
+      "company": "Neco Insurance Limited",
+      "ratio": "1:0.25",
+      "unit": "5,030,901.55",
+      "price": "100.00",
+      "opening_date": "2025-02-20",
+      "closing_date": "2025-03-27",
       "issue_manager": "Sanima Capital Limited"
     },
     {
@@ -749,15 +749,6 @@
   ],
   "mutual_fund": [
     {
-      "symbol": "MBLEF",
-      "company": "MBL Equity Fund",
-      "unit": "120,000,000.00",
-      "price": "10.00",
-      "opening_date": "2025-03-06",
-      "closing_date": "2025-03-20",
-      "issue_manager": "RBB Merchant Banking Limited"
-    },
-    {
       "symbol": "RSY",
       "company": "Reliable Samriddhi Yojana",
       "unit": "100,000,000.00",
@@ -765,6 +756,15 @@
       "opening_date": "2025-04-16",
       "closing_date": "2025-04-20",
       "issue_manager": "Reliable Investment and Merchant Capital Limited"
+    },
+    {
+      "symbol": "MBLEF",
+      "company": "MBL Equity Fund",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-03-06",
+      "closing_date": "2025-03-20",
+      "issue_manager": "RBB Merchant Banking Limited"
     },
     {
       "symbol": "NMBHF2",
