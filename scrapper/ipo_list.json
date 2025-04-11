@@ -263,6 +263,16 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
+      "symbol": "SNLI",
+      "company": "Sun Nepal Life Insurance Company Limited",
+      "ratio": "1:0.27",
+      "unit": "10,696,320.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
+    {
       "symbol": "HURJA",
       "company": "Himalaya Urja Bikas Company Limited",
       "ratio": "1:1",
@@ -361,16 +371,6 @@
       "opening_date": "2023-09-04",
       "closing_date": "2023-10-09",
       "issue_manager": "Sunrise Capital Limited"
-    },
-    {
-      "symbol": "AKPL",
-      "company": "Arun Kabeli Power Limited",
-      "ratio": "1: 1",
-      "unit": "18,552,105.00",
-      "price": "100.00",
-      "opening_date": "2023-08-28",
-      "closing_date": "2023-09-17",
-      "issue_manager": "Nabil Investment Banking Ltd"
     },
     {
       "symbol": "MPFL",
