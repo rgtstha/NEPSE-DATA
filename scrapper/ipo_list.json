@@ -754,7 +754,7 @@
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2025-04-16",
-      "closing_date": "2025-04-20",
+      "closing_date": "2025-04-30",
       "issue_manager": "Reliable Investment and Merchant Capital Limited"
     },
     {
@@ -949,7 +949,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "EBLEB91",
+      "symbol": "EBLD91",
       "company": "7.50% Everest Bank Limited Debenture 2091",
       "unit": "3,000,000.00",
       "price": "1,000.00",
