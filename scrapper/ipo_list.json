@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "BHCL",
+      "company": "Bikash Hydropower Company Limited",
+      "unit": "909,101.00",
+      "price": "100.00",
+      "opening_date": "2025-05-20",
+      "closing_date": "2025-06-03",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
       "symbol": "SANVI",
       "company": "Sanvi Energy Limited",
       "unit": "880,000.00",
@@ -648,15 +657,6 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "BGWT",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "572,065.00",
-      "price": "116.00",
-      "opening_date": "2023-07-09",
-      "closing_date": "2023-07-30",
-      "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
       "symbol": "ULHC",
       "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "509,804.00",
@@ -673,6 +673,15 @@
       "opening_date": "2023-07-04",
       "closing_date": "2023-07-25",
       "issue_manager": "B.O.K Capital Market Limited"
+    },
+    {
+      "symbol": "BGWT",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "572,065.00",
+      "price": "116.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-30",
+      "issue_manager": "Siddhartha Capital Limited"
     },
     {
       "symbol": "KBSH",
@@ -736,15 +745,6 @@
       "opening_date": "2023-03-09",
       "closing_date": "2023-03-30",
       "issue_manager": "Sunrise Capital Ltd"
-    },
-    {
-      "symbol": "DOLTI",
-      "company": "Dolti Power Company Ltd",
-      "unit": "536,486.00",
-      "price": "100.00",
-      "opening_date": "2023-02-20",
-      "closing_date": "2023-03-21",
-      "issue_manager": "NIC Asia Capital Ltd"
     }
   ],
   "mutual_fund": [
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "BHCL",
+      "company": "Bikash Hydropower Company Limited",
+      "unit": "354,550.00",
+      "price": "100.00",
+      "opening_date": "2025-05-20",
+      "closing_date": "2025-06-03",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
       "symbol": "TTL",
       "company": "Trade Tower Limited",
       "unit": "397,169.30",
@@ -1282,15 +1291,6 @@
       "opening_date": "2023-07-17",
       "closing_date": "2023-07-31",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "CLI",
-      "company": "Citizen Life Insurance Company Limited",
-      "unit": "1,125,000.00",
-      "price": "244.00",
-      "opening_date": "2023-07-16",
-      "closing_date": "2023-07-30",
-      "issue_manager": "NIMB Ace Capital Limited"
     }
   ]
 }
