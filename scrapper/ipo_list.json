@@ -183,13 +183,23 @@
   ],
   "right_share_list": [
     {
+      "symbol": "SNLI",
+      "company": "Sun Nepal Life Insurance Company Limited",
+      "ratio": "1:0.27",
+      "unit": "10,696,320.00",
+      "price": "100.00",
+      "opening_date": "2025-05-13",
+      "closing_date": "2025-06-02",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
+    {
       "symbol": "CHL",
       "company": "Chhyangdi Hydropower Company Limited",
       "ratio": "1:1",
       "unit": "3,869,775.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2025-06-06",
+      "closing_date": "2025-06-26",
       "issue_manager": "Global Ime Capital Limited"
     },
     {
@@ -281,16 +291,6 @@
       "opening_date": "2024-08-08",
       "closing_date": "2024-08-28",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "SNLI",
-      "company": "Sun Nepal Life Insurance Company Limited",
-      "ratio": "1:0.27",
-      "unit": "10,696,320.00",
-      "price": "100.00",
-      "opening_date": "2025-05-13",
-      "closing_date": "2025-06-02",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
       "symbol": "RHGCL",
