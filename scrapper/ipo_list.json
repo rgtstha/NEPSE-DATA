@@ -203,6 +203,56 @@
       "issue_manager": "Global Ime Capital Limited"
     },
     {
+      "symbol": "RHGCL",
+      "company": "Rapti Hydro & General Construction Limited",
+      "ratio": "1:1",
+      "unit": "6,127,938.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "TPC",
+      "company": "Terhathum Power Company Limited",
+      "ratio": "1:1",
+      "unit": "4,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
+      "symbol": "ALICL",
+      "company": "Asian Life Insurance Company Limited",
+      "ratio": "1:0.42",
+      "unit": "14,279,312.48",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "NICL",
+      "company": "Nepal Insurance Company Limited",
+      "ratio": "1:0.4",
+      "unit": "6,576,937.76",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
+      "symbol": "PPL",
+      "company": "People's Power Limited",
+      "ratio": "1:0.5",
+      "unit": "3,163,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "DORDI",
       "company": "Dordi Khola Hydropower Company Limited",
       "ratio": "1:1",
@@ -293,36 +343,6 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "RHGCL",
-      "company": "Rapti Hydro & General Construction Limited",
-      "ratio": "1:1",
-      "unit": "6,127,938.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "PPL",
-      "company": "People's Power Limited",
-      "ratio": "1:0.5",
-      "unit": "3,163,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "ALICL",
-      "company": "Asian Life Insurance Company Limited",
-      "ratio": "1:0.42",
-      "unit": "14,279,312.48",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
       "symbol": "MMHPL",
       "company": "Middle Modi Hydropower Limited",
       "ratio": "1:0.6024",
@@ -343,16 +363,6 @@
       "issue_manager": ""
     },
     {
-      "symbol": "TPC",
-      "company": "Terhathum Power Company Limited",
-      "ratio": "1:1",
-      "unit": "4,000,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
       "symbol": "RIDI",
       "company": "Ridi Power Company Limited",
       "ratio": "1:0.5",
@@ -371,16 +381,6 @@
       "opening_date": "2024-02-29",
       "closing_date": "2024-03-20",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "SHEL",
-      "company": "Singati Hydro Energy Limited",
-      "ratio": "1:1",
-      "unit": "14,500,000.00",
-      "price": "100.00",
-      "opening_date": "2024-02-14",
-      "closing_date": "2024-03-05",
-      "issue_manager": "Kumari Capital Limited"
     }
   ],
   "fpo_list": [
@@ -848,13 +848,13 @@
       "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
-      "symbol": "SIGS3",
-      "company": "Siddhartha Investment Growth Scheme 3",
+      "symbol": "GIMES2",
+      "company": "Global IME Samunnat Yojana -II",
       "unit": "120,000,000.00",
       "price": "10.00",
-      "opening_date": "2023-04-09",
-      "closing_date": "2023-04-23",
-      "issue_manager": "Siddhartha Capital Ltd."
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital Limited"
     },
     {
       "symbol": "C30MF",
@@ -864,6 +864,15 @@
       "opening_date": "2023-04-19",
       "closing_date": "2023-05-03",
       "issue_manager": "Citizens Capital Ltd"
+    },
+    {
+      "symbol": "SIGS3",
+      "company": "Siddhartha Investment Growth Scheme 3",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "2023-04-09",
+      "closing_date": "2023-04-23",
+      "issue_manager": "Siddhartha Capital Ltd."
     },
     {
       "symbol": "RMF2",
@@ -918,15 +927,6 @@
       "opening_date": "2022-11-09",
       "closing_date": "2022-11-23",
       "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
-      "symbol": "SAGF",
-      "company": "Sanima Growth Fund",
-      "unit": "120,000,000.00",
-      "price": "10.00",
-      "opening_date": "2022-11-02",
-      "closing_date": "2022-11-16",
-      "issue_manager": "Sanima Capital Ltd"
     }
   ],
   "bonds_debentures": [
@@ -935,8 +935,8 @@
       "company": "6% Nifra Harit Urja Debenture 2088/89",
       "unit": "5,000,000.00",
       "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2025-06-01",
+      "closing_date": "2025-06-04",
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
