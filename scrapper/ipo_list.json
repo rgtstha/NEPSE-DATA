@@ -749,6 +749,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "PSIS",
+      "company": "Prabhu Systematic Investment Scheme",
+      "unit": "25,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-06-06",
+      "closing_date": "2025-06-10",
+      "issue_manager": "Prabhu Capital Ltd."
+    },
+    {
       "symbol": "RSY",
       "company": "Reliable Samriddhi Yojana",
       "unit": "100,000,000.00",
@@ -857,15 +866,6 @@
       "issue_manager": "Global IME Capital Limited"
     },
     {
-      "symbol": "C30MF",
-      "company": "Citizens Super 30 Mutual Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2023-04-19",
-      "closing_date": "2023-05-03",
-      "issue_manager": "Citizens Capital Ltd"
-    },
-    {
       "symbol": "SIGS3",
       "company": "Siddhartha Investment Growth Scheme 3",
       "unit": "120,000,000.00",
@@ -873,6 +873,15 @@
       "opening_date": "2023-04-09",
       "closing_date": "2023-04-23",
       "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "C30MF",
+      "company": "Citizens Super 30 Mutual Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2023-04-19",
+      "closing_date": "2023-05-03",
+      "issue_manager": "Citizens Capital Ltd"
     },
     {
       "symbol": "RMF2",
@@ -918,15 +927,6 @@
       "opening_date": "2022-12-22",
       "closing_date": "2023-01-05",
       "issue_manager": "NIBL Ace Capital Ltd"
-    },
-    {
-      "symbol": "NFCF",
-      "company": "Nabil Flexi Cap Fund",
-      "unit": "75,000,000.00",
-      "price": "10.00",
-      "opening_date": "2022-11-09",
-      "closing_date": "2022-11-23",
-      "issue_manager": "Nabil Investment Banking Ltd"
     }
   ],
   "bonds_debentures": [
