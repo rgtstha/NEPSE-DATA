@@ -145,15 +145,6 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "MSHL",
-      "company": "Mid Solu Hydropower Company Limited",
-      "unit": "621,172.00",
-      "price": "100.00",
-      "opening_date": "2023-09-15",
-      "closing_date": "2023-09-19",
-      "issue_manager": "NIC Asia Capital Ltd"
-    },
-    {
       "symbol": "MMKJL",
       "company": "Mathillo Mailun Khola Jalvidhyut Limited",
       "unit": "1,284,200.00",
@@ -161,6 +152,15 @@
       "opening_date": "2023-10-05",
       "closing_date": "2023-10-09",
       "issue_manager": "Sanima Capital Ltd"
+    },
+    {
+      "symbol": "MSHL",
+      "company": "Mid Solu Hydropower Company Limited",
+      "unit": "621,172.00",
+      "price": "100.00",
+      "opening_date": "2023-09-15",
+      "closing_date": "2023-09-19",
+      "issue_manager": "NIC Asia Capital Ltd"
     },
     {
       "symbol": "HATHY",
@@ -172,13 +172,13 @@
       "issue_manager": "Global IME Capital Limited"
     },
     {
-      "symbol": "CLI",
-      "company": "Citizen Life Insurance Company Limited",
-      "unit": "9,000,000.00",
-      "price": "244.00",
-      "opening_date": "2023-09-01",
-      "closing_date": "2023-09-05",
-      "issue_manager": "NIMB Ace Capital Limited"
+      "symbol": "DHEL",
+      "company": "Daramkhola Hydro Energy Limited",
+      "unit": "3,950,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
     }
   ],
   "right_share_list": [
@@ -936,7 +936,7 @@
       "unit": "5,000,000.00",
       "price": "1,000.00",
       "opening_date": "2025-06-01",
-      "closing_date": "2025-06-04",
+      "closing_date": "2025-06-08",
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
