@@ -136,15 +136,6 @@
       "issue_manager": "RBB Merchant Banking Ltd."
     },
     {
-      "symbol": "SONA",
-      "company": "Sonapur Minerals and Oil Limited",
-      "unit": "9,732,544.00",
-      "price": "237.58",
-      "opening_date": "2023-10-01",
-      "closing_date": "2023-10-05",
-      "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
       "symbol": "MMKJL",
       "company": "Mathillo Mailun Khola Jalvidhyut Limited",
       "unit": "1,284,200.00",
@@ -161,6 +152,15 @@
       "opening_date": "2023-09-15",
       "closing_date": "2023-09-19",
       "issue_manager": "NIC Asia Capital Ltd"
+    },
+    {
+      "symbol": "SONA",
+      "company": "Sonapur Minerals and Oil Limited",
+      "unit": "9,732,544.00",
+      "price": "237.58",
+      "opening_date": "2023-10-01",
+      "closing_date": "2023-10-05",
+      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "HATHY",
@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "HSUCL",
+      "company": "Him Star Urja Company Limited",
+      "unit": "186,500.00",
+      "price": "100.00",
+      "opening_date": "2025-06-13",
+      "closing_date": "2025-06-27",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "BHCL",
       "company": "Bikash Hydropower Company Limited",
       "unit": "909,101.00",
@@ -736,15 +745,6 @@
       "opening_date": "2023-03-05",
       "closing_date": "2023-04-03",
       "issue_manager": "Nepal SBI Merchant Banking Ltd."
-    },
-    {
-      "symbol": "MEL",
-      "company": "Modi Energy Limited",
-      "unit": "2,900,000.00",
-      "price": "100.00",
-      "opening_date": "2023-03-09",
-      "closing_date": "2023-03-30",
-      "issue_manager": "Sunrise Capital Ltd"
     }
   ],
   "mutual_fund": [
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "HSUCL",
+      "company": "Him Star Urja Company Limited",
+      "unit": "93,250.00",
+      "price": "100.00",
+      "opening_date": "2025-06-13",
+      "closing_date": "2025-06-27",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "BHCL",
       "company": "Bikash Hydropower Company Limited",
       "unit": "354,550.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2023-07-20",
       "closing_date": "2023-08-03",
       "issue_manager": "Global Ime Capital Limited"
-    },
-    {
-      "symbol": "SNLI",
-      "company": "Sun Nepal Life Insurance Company Limited",
-      "unit": "960,000.00",
-      "price": "239.00",
-      "opening_date": "2023-07-17",
-      "closing_date": "2023-07-31",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     }
   ]
 }
