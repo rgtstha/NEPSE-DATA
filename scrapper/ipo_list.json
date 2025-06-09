@@ -235,8 +235,8 @@
     {
       "symbol": "NICL",
       "company": "Nepal Insurance Company Limited",
-      "ratio": "1:0.4",
-      "unit": "6,576,937.76",
+      "ratio": "10:3.4783",
+      "unit": "6,576,967.76",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
@@ -251,6 +251,16 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "BARUN",
+      "company": "Barun Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "5,358,150.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "RBB Merchant Banking Limited"
     },
     {
       "symbol": "DORDI",
@@ -370,16 +380,6 @@
       "price": "100.00",
       "opening_date": "2024-03-01",
       "closing_date": "2024-03-21",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "AHPC",
-      "company": "Arun Valley Hydropower Development Company Limited",
-      "ratio": "1:1",
-      "unit": "18,679,626.00",
-      "price": "100.00",
-      "opening_date": "2024-02-29",
-      "closing_date": "2024-03-20",
       "issue_manager": "Muktinath Capital Limited"
     }
   ],
