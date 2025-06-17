@@ -127,6 +127,15 @@
       "issue_manager": "Muktinath Capital Ltd."
     },
     {
+      "symbol": "MBEL",
+      "company": "Mabilung Energy Limited",
+      "unit": "1,890,530.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Capital Market Limited"
+    },
+    {
       "symbol": "CKHL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "859,300.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-09-07",
       "closing_date": "2023-09-11",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "DHEL",
-      "company": "Daramkhola Hydro Energy Limited",
-      "unit": "2,423,185.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Laxmi Sunrise Capital Limited"
     }
   ],
   "right_share_list": [
