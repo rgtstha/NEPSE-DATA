@@ -749,6 +749,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "CITSY",
+      "company": "Citizens Sadabahar Yojana",
+      "unit": "50,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-06-27",
+      "closing_date": "2025-07-01",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
       "symbol": "GIMES2",
       "company": "Global IME Samunnat Yojana -II",
       "unit": "120,000,000.00",
@@ -918,15 +927,6 @@
       "opening_date": "2023-01-24",
       "closing_date": "2023-02-07",
       "issue_manager": "Sunrise Capital Ltd."
-    },
-    {
-      "symbol": "NIBLGF",
-      "company": "NIBL Growth Fund",
-      "unit": "160,000,000.00",
-      "price": "10.00",
-      "opening_date": "2022-12-22",
-      "closing_date": "2023-01-05",
-      "issue_manager": "NIBL Ace Capital Ltd"
     }
   ],
   "bonds_debentures": [
