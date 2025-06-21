@@ -55,6 +55,15 @@
       "issue_manager": "NIMB Ace Capital Ltd."
     },
     {
+      "symbol": "SWSLBSL",
+      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
+      "unit": "231,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "NMIC",
       "company": "Nepal Micro Insurance Company Limited",
       "unit": "1,845,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-10-01",
       "closing_date": "2023-10-05",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "HATHY",
-      "company": "Hathway Investment Nepal Limited",
-      "unit": "2,427,750.00",
-      "price": "50.00",
-      "opening_date": "2023-09-07",
-      "closing_date": "2023-09-11",
-      "issue_manager": "Global IME Capital Limited"
     }
   ],
   "right_share_list": [
