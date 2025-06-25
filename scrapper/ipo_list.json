@@ -373,14 +373,14 @@
       "issue_manager": ""
     },
     {
-      "symbol": "RIDI",
-      "company": "Ridi Power Company Limited",
-      "ratio": "1:0.5",
-      "unit": "7,744,506.00",
+      "symbol": "KKHC",
+      "company": "Khani Khola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "4,657,143.00",
       "price": "100.00",
-      "opening_date": "2024-03-01",
-      "closing_date": "2024-03-21",
-      "issue_manager": "Muktinath Capital Limited"
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Citizens Capital Limited"
     }
   ],
   "fpo_list": [
@@ -958,6 +958,24 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
+      "symbol": "SBLD2091",
+      "company": "7.25% SBL Debenture 2091",
+      "unit": "2,500,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "SHINED8",
+      "company": "8% Shine Resunga Debenture",
+      "unit": "1,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "EBLD91",
       "company": "7.50% Everest Bank Limited Debenture 2091",
       "unit": "3,000,000.00",
@@ -1048,15 +1066,6 @@
       "issue_manager": "NIBL Ace Capital Ltd."
     },
     {
-      "symbol": "CSB2084",
-      "company": "11.50% Citizens Saving Bond 2084 'Ka'",
-      "unit": "",
-      "price": "",
-      "opening_date": "2023-02-22",
-      "closing_date": "2023-03-14",
-      "issue_manager": "Nepal Rastra Bank"
-    },
-    {
       "symbol": "SCBNLD",
       "company": "10.30% Standard Chartered Bank Nepal Ltd Rinpatra",
       "unit": "2,400,000.00",
@@ -1064,6 +1073,15 @@
       "opening_date": "2023-02-09",
       "closing_date": "2023-02-20",
       "issue_manager": "NIBL Ace Capital Ltd."
+    },
+    {
+      "symbol": "CSB2084",
+      "company": "11.50% Citizens Saving Bond 2084 'Ka'",
+      "unit": "",
+      "price": "",
+      "opening_date": "2023-02-22",
+      "closing_date": "2023-03-14",
+      "issue_manager": "Nepal Rastra Bank"
     },
     {
       "symbol": "GBILD84/85",
@@ -1091,24 +1109,6 @@
       "opening_date": "2022-12-15",
       "closing_date": "2022-12-29",
       "issue_manager": "NIBL Ace Capital Ltd."
-    },
-    {
-      "symbol": "HBLB86",
-      "company": "10.5% Himalayan Bank Ltd Bond 2086",
-      "unit": "2,500,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-08-31",
-      "closing_date": "2022-09-14",
-      "issue_manager": "Nabil Investment Banking Ltd"
-    },
-    {
-      "symbol": "BOKD86KA",
-      "company": "10.5% BOK Debenture 2086",
-      "unit": "1,100,000.00",
-      "price": "1,000.00",
-      "opening_date": "2022-08-18",
-      "closing_date": "2022-08-23",
-      "issue_manager": "NIBL Ace Capital Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
