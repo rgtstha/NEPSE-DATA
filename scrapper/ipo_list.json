@@ -183,6 +183,26 @@
   ],
   "right_share_list": [
     {
+      "symbol": "PPL",
+      "company": "People's Power Limited",
+      "ratio": "1:0.5",
+      "unit": "3,163,000.00",
+      "price": "100.00",
+      "opening_date": "2025-07-06",
+      "closing_date": "2025-07-27",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "BARUN",
+      "company": "Barun Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "5,358,150.00",
+      "price": "100.00",
+      "opening_date": "2025-07-15",
+      "closing_date": "2025-08-04",
+      "issue_manager": "RBB Merchant Banking Limited"
+    },
+    {
       "symbol": "SNLI",
       "company": "Sun Nepal Life Insurance Company Limited",
       "ratio": "1:0.27",
@@ -199,7 +219,7 @@
       "unit": "3,869,775.00",
       "price": "100.00",
       "opening_date": "2025-06-06",
-      "closing_date": "2025-06-26",
+      "closing_date": "2025-07-11",
       "issue_manager": "Global Ime Capital Limited"
     },
     {
@@ -241,26 +261,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "PPL",
-      "company": "People's Power Limited",
-      "ratio": "1:0.5",
-      "unit": "3,163,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "BARUN",
-      "company": "Barun Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "5,358,150.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "RBB Merchant Banking Limited"
     },
     {
       "symbol": "DORDI",
