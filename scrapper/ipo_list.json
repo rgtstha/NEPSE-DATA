@@ -48,7 +48,7 @@
     {
       "symbol": "SWSLBSL",
       "company": "Swastik Laghubitta Bittiya Sanstha Limited",
-      "unit": "231,000.00",
+      "unit": "195,195.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
@@ -57,10 +57,10 @@
     {
       "symbol": "BHCL",
       "company": "Bikash Hydropower Company Limited",
-      "unit": "4,454,596.00",
+      "unit": "2,942,760.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2025-07-02",
+      "closing_date": "2025-07-06",
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "SWSLBSL",
+      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
+      "unit": "23,100.00",
+      "price": "100.00",
+      "opening_date": "2025-07-11",
+      "closing_date": "2025-07-25",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "MBEL",
       "company": "Mabilung Energy Limited",
       "unit": "150,471.00",
@@ -1266,15 +1275,6 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "CKHL",
-      "company": "Chirkhwa Hydro Power Limited",
-      "unit": "80,000.00",
-      "price": "100.00",
-      "opening_date": "2023-08-13",
-      "closing_date": "2023-08-27",
-      "issue_manager": "RBB Merchant Banking Limited"
-    },
-    {
       "symbol": "SONA",
       "company": "Sonapur Minerals and Oil Limited",
       "unit": "1,076,268.00",
@@ -1284,13 +1284,13 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "MSHL",
-      "company": "Mid Solu Hydropower Company Limited",
-      "unit": "74,840.00",
+      "symbol": "CKHL",
+      "company": "Chirkhwa Hydro Power Limited",
+      "unit": "80,000.00",
       "price": "100.00",
-      "opening_date": "2023-07-30",
-      "closing_date": "2023-08-13",
-      "issue_manager": "NIC Asia Capital Limited"
+      "opening_date": "2023-08-13",
+      "closing_date": "2023-08-27",
+      "issue_manager": "RBB Merchant Banking Limited"
     }
   ]
 }
