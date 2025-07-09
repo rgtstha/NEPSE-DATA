@@ -385,6 +385,15 @@
   ],
   "fpo_list": [
     {
+      "symbol": "HBL",
+      "company": "Himalayan Bank Limited",
+      "unit": "9,250,469.00",
+      "price": "157.00",
+      "opening_date": "2025-07-16",
+      "closing_date": "2025-07-20",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
       "symbol": "WNLB",
       "company": "Wean Nepal Laghubitta Bittiya Sanstha Limited",
       "unit": "51,292.50",
@@ -554,15 +563,6 @@
       "opening_date": "2016-02-22",
       "closing_date": "2016-02-25",
       "issue_manager": "Citizen Investment Trust Ltd."
-    },
-    {
-      "symbol": "RLFL",
-      "company": "Reliance Finance Limited",
-      "unit": "514,286.00",
-      "price": "100.00",
-      "opening_date": "2015-12-19",
-      "closing_date": "2015-12-22",
-      "issue_manager": "NCM Merchant Banking Ltd."
     }
   ],
   "ipo_local": [
@@ -763,7 +763,7 @@
       "unit": "120,000,000.00",
       "price": "10.00",
       "opening_date": "2025-07-06",
-      "closing_date": "2025-07-09",
+      "closing_date": "2025-07-20",
       "issue_manager": "Global IME Capital Limited"
     },
     {
@@ -931,6 +931,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "SHINED8",
+      "company": "8% Shine Resunga Debenture",
+      "unit": "1,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2025-07-16",
+      "closing_date": "2025-07-20",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "SBI2090",
       "company": "7% Nepal SBI Bank Debenture 2090",
       "unit": "3,000,000.00",
@@ -974,15 +983,6 @@
       "opening_date": "2025-04-07",
       "closing_date": "2025-04-10",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "SHINED8",
-      "company": "8% Shine Resunga Debenture",
-      "unit": "1,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "EBLD91",
