@@ -193,6 +193,16 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
+      "symbol": "TPC",
+      "company": "Terhathum Power Company Limited",
+      "ratio": "1:1",
+      "unit": "4,000,000.00",
+      "price": "100.00",
+      "opening_date": "2025-06-30",
+      "closing_date": "2025-07-20",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "CHL",
       "company": "Chhyangdi Hydropower Company Limited",
       "ratio": "1:1",
@@ -211,16 +221,6 @@
       "opening_date": "2025-06-15",
       "closing_date": "2025-07-08",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "TPC",
-      "company": "Terhathum Power Company Limited",
-      "ratio": "1:1",
-      "unit": "4,000,000.00",
-      "price": "100.00",
-      "opening_date": "2025-06-30",
-      "closing_date": "2025-07-20",
-      "issue_manager": "Nabil Investment Banking Limited"
     },
     {
       "symbol": "NICL",
@@ -763,7 +763,7 @@
       "unit": "120,000,000.00",
       "price": "10.00",
       "opening_date": "2025-07-06",
-      "closing_date": "2025-07-20",
+      "closing_date": "2025-07-11",
       "issue_manager": "Global IME Capital Limited"
     },
     {
@@ -958,7 +958,7 @@
       "issue_manager": "NMB Capital Limited"
     },
     {
-      "symbol": "NIFRAUR88/89",
+      "symbol": "NIFRAGED",
       "company": "6% Nifra Harit Urja Debenture 2088/89",
       "unit": "5,000,000.00",
       "price": "1,000.00",
