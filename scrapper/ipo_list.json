@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "JOSHI",
+      "company": "Joshi Hydropower Development Company Limited",
+      "ratio": "1:0.65",
+      "unit": "2,414,100.00",
+      "price": "100.00",
+      "opening_date": "2025-07-31",
+      "closing_date": "2025-08-20",
+      "issue_manager": "LS Capital Limited"
+    },
+    {
       "symbol": "PPL",
       "company": "People's Power Limited",
       "ratio": "1:0.5",
@@ -371,16 +381,6 @@
       "opening_date": "2024-06-25",
       "closing_date": "2024-07-09",
       "issue_manager": ""
-    },
-    {
-      "symbol": "KKHC",
-      "company": "Khani Khola Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "4,657,143.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Citizens Capital Limited"
     }
   ],
   "fpo_list": [
