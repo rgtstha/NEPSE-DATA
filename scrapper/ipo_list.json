@@ -91,6 +91,15 @@
       "issue_manager": "NIMB Ace Capital Ltd."
     },
     {
+      "symbol": "JEL",
+      "company": "Jhapa Energy Limited",
+      "unit": "950,475.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "BCTL",
       "company": "Bandipur Cable Car and Tourism Limited",
       "unit": "5,860,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Laxmi Capital Market Limited"
-    },
-    {
-      "symbol": "CKHL",
-      "company": "Chirkhwa Hydro Power Limited",
-      "unit": "859,300.00",
-      "price": "100.00",
-      "opening_date": "2023-10-10",
-      "closing_date": "2023-10-13",
-      "issue_manager": "RBB Merchant Banking Ltd."
     }
   ],
   "right_share_list": [
