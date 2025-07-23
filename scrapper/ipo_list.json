@@ -386,6 +386,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "JEL",
+      "company": "Jhapa Energy Limited",
+      "unit": "380,190.00",
+      "price": "100.00",
+      "opening_date": "2025-07-30",
+      "closing_date": "2025-08-13",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "BCTL",
       "company": "Bandipur Cable Car and Tourism Limited",
       "unit": "566,000.00",
@@ -521,6 +530,15 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
+      "symbol": "BGWT",
+      "company": "Bhagawati Hydropower Development Company Limited",
+      "unit": "572,065.00",
+      "price": "116.00",
+      "opening_date": "2023-07-09",
+      "closing_date": "2023-07-30",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
       "symbol": "ULHC",
       "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "509,804.00",
@@ -539,15 +557,6 @@
       "issue_manager": "B.O.K Capital Market Limited"
     },
     {
-      "symbol": "BGWT",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "572,065.00",
-      "price": "116.00",
-      "opening_date": "2023-07-09",
-      "closing_date": "2023-07-30",
-      "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
       "symbol": "KBSH",
       "company": "Kutheli Bukhari Small Hydropower Limited",
       "unit": "121,868.00",
@@ -555,15 +564,6 @@
       "opening_date": "2023-06-02",
       "closing_date": "2023-06-20",
       "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "USHL",
-      "company": "Upper Syange Hydropower Limited",
-      "unit": "220,000.00",
-      "price": "100.00",
-      "opening_date": "2023-05-15",
-      "closing_date": "2023-06-02",
-      "issue_manager": "Siddhartha Capital Ltd."
     }
   ],
   "mutual_fund": [
@@ -932,6 +932,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "JEL",
+      "company": "Jhapa Energy Limited",
+      "unit": "57,029.00",
+      "price": "100.00",
+      "opening_date": "2025-07-30",
+      "closing_date": "2025-08-03",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "BCTL",
       "company": "Bandipur Cable Car and Tourism Limited",
       "unit": "529,400.00",
@@ -1101,15 +1110,6 @@
       "opening_date": "2023-10-27",
       "closing_date": "2023-11-10",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "VLUCL",
-      "company": "Vision Lumbini Urja Company Limited",
-      "unit": "191,250.00",
-      "price": "100.00",
-      "opening_date": "2023-09-05",
-      "closing_date": "2023-09-19",
-      "issue_manager": "Muktinath Capital Limited"
     }
   ]
 }
