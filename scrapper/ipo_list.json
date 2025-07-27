@@ -219,7 +219,7 @@
       "unit": "3,163,000.00",
       "price": "100.00",
       "opening_date": "2025-07-06",
-      "closing_date": "2025-07-27",
+      "closing_date": "2025-08-11",
       "issue_manager": "Prabhu Capital Limited"
     },
     {
@@ -373,14 +373,14 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "HURJA",
-      "company": "Himalaya Urja Bikas Company Limited",
+      "symbol": "RFPL",
+      "company": "River Falls Power Limited",
       "ratio": "1:1",
-      "unit": "9,900,000.00",
+      "unit": "7,000,000.00",
       "price": "100.00",
-      "opening_date": "2024-08-08",
-      "closing_date": "2024-08-28",
-      "issue_manager": "Nabil Investment Banking Limited"
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "fpo_list": [
@@ -590,7 +590,7 @@
       "unit": "830,000.00",
       "price": "100.00",
       "opening_date": "2025-07-13",
-      "closing_date": "2025-07-27",
+      "closing_date": "2025-08-11",
       "issue_manager": "Himalayan Capital Limited"
     },
     {
@@ -936,7 +936,7 @@
       "unit": "3,000,000.00",
       "price": "1,000.00",
       "opening_date": "2025-07-22",
-      "closing_date": "2025-08-05",
+      "closing_date": "2025-07-26",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
