@@ -233,14 +233,24 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "TPC",
-      "company": "Terhathum Power Company Limited",
+      "symbol": "SSHL",
+      "company": "Shiva Shree Hydropower Limited",
       "ratio": "1:1",
-      "unit": "4,000,000.00",
+      "unit": "14,764,000.00",
       "price": "100.00",
-      "opening_date": "2025-06-30",
-      "closing_date": "2025-07-27",
-      "issue_manager": "Nabil Investment Banking Limited"
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
+      "symbol": "RFPL",
+      "company": "River Falls Power Limited",
+      "ratio": "1:1",
+      "unit": "7,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "CITY",
@@ -253,14 +263,14 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "SSHL",
-      "company": "Shiva Shree Hydropower Limited",
+      "symbol": "TPC",
+      "company": "Terhathum Power Company Limited",
       "ratio": "1:1",
-      "unit": "14,764,000.00",
+      "unit": "4,000,000.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Citizens Capital Limited"
+      "opening_date": "2025-06-30",
+      "closing_date": "2025-07-27",
+      "issue_manager": "Nabil Investment Banking Limited"
     },
     {
       "symbol": "CHL",
@@ -371,16 +381,6 @@
       "opening_date": "2024-08-11",
       "closing_date": "2024-09-01",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "RFPL",
-      "company": "River Falls Power Limited",
-      "ratio": "1:1",
-      "unit": "7,000,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "fpo_list": [
@@ -976,7 +976,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "RBBD88",
+      "symbol": "RBBD2088",
       "company": "7% RBBL Debenture 2088",
       "unit": "2,500,000.00",
       "price": "1,000.00",
