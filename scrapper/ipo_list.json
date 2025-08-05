@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "MBEL",
+      "company": "Mabilung Energy Limited",
+      "unit": "1,248,904.00",
+      "price": "100.00",
+      "opening_date": "2025-08-11",
+      "closing_date": "2025-08-14",
+      "issue_manager": "LS Capital Limited"
+    },
+    {
       "symbol": "DHEL",
       "company": "Daramkhola Hydro Energy Limited",
       "unit": "2,423,185.00",
@@ -170,15 +179,6 @@
       "opening_date": "2023-11-26",
       "closing_date": "2023-11-29",
       "issue_manager": "Himalayan Capital Ltd"
-    },
-    {
-      "symbol": "MKCL",
-      "company": "Muktinath Krishi Company Limited",
-      "unit": "1,148,000.00",
-      "price": "100.00",
-      "opening_date": "2023-11-24",
-      "closing_date": "2023-11-28",
-      "issue_manager": "NIMB Ace Capital Limited"
     }
   ],
   "right_share_list": [
@@ -209,7 +209,7 @@
       "unit": "5,358,150.00",
       "price": "100.00",
       "opening_date": "2025-07-15",
-      "closing_date": "2025-08-04",
+      "closing_date": "2025-08-19",
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "SDLTD",
+      "company": "Sagar Distillery Limited",
+      "unit": "145,200.00",
+      "price": "100.00",
+      "opening_date": "2025-08-13",
+      "closing_date": "2025-08-17",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "JEL",
       "company": "Jhapa Energy Limited",
       "unit": "57,029.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2023-10-27",
       "closing_date": "2023-11-10",
       "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "MKCL",
-      "company": "Muktinath Krishi Company Limited",
-      "unit": "140,000.00",
-      "price": "100.00",
-      "opening_date": "2023-10-27",
-      "closing_date": "2023-11-10",
-      "issue_manager": "NIMB Ace Capital Limited"
     }
   ]
 }
