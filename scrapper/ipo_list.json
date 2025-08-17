@@ -10,15 +10,6 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "MBEL",
-      "company": "Mabilung Energy Limited",
-      "unit": "1,248,904.00",
-      "price": "100.00",
-      "opening_date": "2025-08-11",
-      "closing_date": "2025-08-14",
-      "issue_manager": "LS Capital Limited"
-    },
-    {
       "symbol": "SHREE",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "3,262,500.00",
@@ -109,6 +100,15 @@
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
+      "symbol": "MBEL",
+      "company": "Mabilung Energy Limited",
+      "unit": "1,248,904.00",
+      "price": "100.00",
+      "opening_date": "2025-08-11",
+      "closing_date": "2025-08-14",
+      "issue_manager": "LS Capital Limited"
+    },
+    {
       "symbol": "SANVI",
       "company": "Sanvi Energy Limited",
       "unit": "2,415,300.00",
@@ -183,16 +183,6 @@
   ],
   "right_share_list": [
     {
-      "symbol": "KKHC",
-      "company": "Khani Khola Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "4,657,143.00",
-      "price": "100.00",
-      "opening_date": "2025-08-19",
-      "closing_date": "2025-09-08",
-      "issue_manager": "Citizens Capital Limited"
-    },
-    {
       "symbol": "JOSHI",
       "company": "Joshi Hydropower Development Company Limited",
       "ratio": "1:0.65",
@@ -223,24 +213,14 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "PPL",
-      "company": "People's Power Limited",
-      "ratio": "1:0.5",
-      "unit": "3,163,000.00",
+      "symbol": "KKHC",
+      "company": "Khani Khola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "4,657,143.00",
       "price": "100.00",
-      "opening_date": "2025-07-06",
-      "closing_date": "2025-08-11",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "ALICL",
-      "company": "Asian Life Insurance Company Limited",
-      "ratio": "1:0.42",
-      "unit": "14,279,312.48",
-      "price": "100.00",
-      "opening_date": "2025-07-09",
-      "closing_date": "2025-08-05",
-      "issue_manager": "Muktinath Capital Limited"
+      "opening_date": "2025-08-19",
+      "closing_date": "2025-09-08",
+      "issue_manager": "Citizens Capital Limited"
     },
     {
       "symbol": "SSHL",
@@ -248,8 +228,8 @@
       "ratio": "1:1",
       "unit": "14,764,000.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2025-09-04",
+      "closing_date": "2025-09-24",
       "issue_manager": "Citizens Capital Limited"
     },
     {
@@ -271,6 +251,26 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "PPL",
+      "company": "People's Power Limited",
+      "ratio": "1:0.5",
+      "unit": "3,163,000.00",
+      "price": "100.00",
+      "opening_date": "2025-07-06",
+      "closing_date": "2025-08-11",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "ALICL",
+      "company": "Asian Life Insurance Company Limited",
+      "ratio": "1:0.42",
+      "unit": "14,279,312.48",
+      "price": "100.00",
+      "opening_date": "2025-07-09",
+      "closing_date": "2025-08-05",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "TPC",
@@ -758,6 +758,24 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
+      "symbol": "NI31",
+      "company": "NI 31",
+      "unit": "25,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-08-15",
+      "closing_date": "2025-08-19",
+      "issue_manager": "Nabil Investment Banking Ltd."
+    },
+    {
+      "symbol": "RF40",
+      "company": "RBB Focus 40",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-09-03",
+      "closing_date": "2025-09-07",
+      "issue_manager": "RBB Merchant Banking Limited"
+    },
+    {
       "symbol": "HLILCF",
       "company": "HLI Large Cap Fund",
       "unit": "400,000,000.00",
@@ -794,15 +812,6 @@
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
-      "symbol": "NI31",
-      "company": "NI 31",
-      "unit": "25,000,000.00",
-      "price": "10.00",
-      "opening_date": "2025-08-15",
-      "closing_date": "2025-08-19",
-      "issue_manager": "Nabil Investment Banking Ltd."
-    },
-    {
       "symbol": "RSY",
       "company": "Reliable Samriddhi Yojana",
       "unit": "100,000,000.00",
@@ -837,15 +846,6 @@
       "opening_date": "2025-02-18",
       "closing_date": "2025-02-27",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "RF40",
-      "company": "RBB Focus 40",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "RBB Merchant Banking Limited"
     },
     {
       "symbol": "GSY",
@@ -911,15 +911,6 @@
       "issue_manager": "Laxmi Capital Market Ltd"
     },
     {
-      "symbol": "C30MF",
-      "company": "Citizens Super 30 Mutual Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2023-04-19",
-      "closing_date": "2023-05-03",
-      "issue_manager": "Citizens Capital Ltd"
-    },
-    {
       "symbol": "SIGS3",
       "company": "Siddhartha Investment Growth Scheme 3",
       "unit": "120,000,000.00",
@@ -927,6 +918,15 @@
       "opening_date": "2023-04-09",
       "closing_date": "2023-04-23",
       "issue_manager": "Siddhartha Capital Ltd."
+    },
+    {
+      "symbol": "C30MF",
+      "company": "Citizens Super 30 Mutual Fund",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2023-04-19",
+      "closing_date": "2023-05-03",
+      "issue_manager": "Citizens Capital Ltd"
     }
   ],
   "bonds_debentures": [
