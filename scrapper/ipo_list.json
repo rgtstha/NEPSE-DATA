@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "SWSLBSL",
-      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
-      "unit": "195,195.00",
-      "price": "100.00",
-      "opening_date": "2025-08-15",
-      "closing_date": "2025-08-19",
-      "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
       "symbol": "BCTL",
       "company": "Bandipur Cable Car and Tourism Limited",
       "unit": "4,341,080.00",
@@ -17,6 +8,15 @@
       "opening_date": "2025-08-27",
       "closing_date": "2025-08-31",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
+    },
+    {
+      "symbol": "SWSLBSL",
+      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
+      "unit": "195,195.00",
+      "price": "100.00",
+      "opening_date": "2025-08-15",
+      "closing_date": "2025-08-19",
+      "issue_manager": "Nabil Investment Banking Limited"
     },
     {
       "symbol": "SHREE",
@@ -758,13 +758,13 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
-      "symbol": "NI31",
-      "company": "NI 31",
-      "unit": "25,000,000.00",
+      "symbol": "HLILCF",
+      "company": "HLI Large Cap Fund",
+      "unit": "400,000,000.00",
       "price": "10.00",
-      "opening_date": "2025-08-15",
-      "closing_date": "2025-08-19",
-      "issue_manager": "Nabil Investment Banking Ltd."
+      "opening_date": "2025-08-31",
+      "closing_date": "2025-09-03",
+      "issue_manager": "Himalayan Investment Banker Limited"
     },
     {
       "symbol": "RF40",
@@ -776,13 +776,13 @@
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
-      "symbol": "HLILCF",
-      "company": "HLI Large Cap Fund",
-      "unit": "400,000,000.00",
+      "symbol": "NI31",
+      "company": "NI 31",
+      "unit": "25,000,000.00",
       "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Himalayan Investment Banker Limited"
+      "opening_date": "2025-08-15",
+      "closing_date": "2025-08-19",
+      "issue_manager": "Nabil Investment Banking Ltd."
     },
     {
       "symbol": "CITSY",
