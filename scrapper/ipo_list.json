@@ -10,13 +10,13 @@
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
-      "symbol": "SWSLBSL",
-      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
-      "unit": "195,195.00",
+      "symbol": "BLHL",
+      "company": "Bungal Hydro Limited",
+      "unit": "1,701,500.00",
       "price": "100.00",
-      "opening_date": "2025-08-15",
-      "closing_date": "2025-08-19",
-      "issue_manager": "Nabil Investment Banking Limited"
+      "opening_date": "2025-09-01",
+      "closing_date": "2025-09-04",
+      "issue_manager": "Himalayan Capital Limited"
     },
     {
       "symbol": "SHREE",
@@ -37,9 +37,9 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "BLHL",
-      "company": "Bungal Hydro Limited",
-      "unit": "2,905,000.00",
+      "symbol": "JEL",
+      "company": "Jhapa Energy Limited",
+      "unit": "950,475.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
@@ -55,13 +55,13 @@
       "issue_manager": "Global IME Capital Limited"
     },
     {
-      "symbol": "JEL",
-      "company": "Jhapa Energy Limited",
-      "unit": "950,475.00",
+      "symbol": "SWSLBSL",
+      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
+      "unit": "195,195.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Himalayan Capital Limited"
+      "opening_date": "2025-08-15",
+      "closing_date": "2025-08-19",
+      "issue_manager": "Nabil Investment Banking Limited"
     },
     {
       "symbol": "CREST",
@@ -193,20 +193,40 @@
       "issue_manager": "LS Capital Limited"
     },
     {
-      "symbol": "CITY",
-      "company": "City Hotel Limited",
-      "ratio": "1:0.80",
-      "unit": "13,392,000.00",
+      "symbol": "KKHC",
+      "company": "Khani Khola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "4,657,143.00",
       "price": "100.00",
-      "opening_date": "2025-09-08",
-      "closing_date": "2025-09-28",
-      "issue_manager": "Prabhu Capital Limited"
+      "opening_date": "2025-08-19",
+      "closing_date": "2025-09-08",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
+      "symbol": "SSHL",
+      "company": "Shiva Shree Hydropower Limited",
+      "ratio": "1:1",
+      "unit": "14,764,000.00",
+      "price": "100.00",
+      "opening_date": "2025-09-04",
+      "closing_date": "2025-09-24",
+      "issue_manager": "Citizens Capital Limited"
     },
     {
       "symbol": "RFPL",
       "company": "River Falls Power Limited",
       "ratio": "1:1",
       "unit": "7,000,000.00",
+      "price": "100.00",
+      "opening_date": "2025-09-08",
+      "closing_date": "2025-09-28",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "CITY",
+      "company": "City Hotel Limited",
+      "ratio": "1:0.80",
+      "unit": "13,392,000.00",
       "price": "100.00",
       "opening_date": "2025-09-08",
       "closing_date": "2025-09-28",
@@ -231,26 +251,6 @@
       "opening_date": "2025-07-22",
       "closing_date": "2025-08-18",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "KKHC",
-      "company": "Khani Khola Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "4,657,143.00",
-      "price": "100.00",
-      "opening_date": "2025-08-19",
-      "closing_date": "2025-09-08",
-      "issue_manager": "Citizens Capital Limited"
-    },
-    {
-      "symbol": "SSHL",
-      "company": "Shiva Shree Hydropower Limited",
-      "ratio": "1:1",
-      "unit": "14,764,000.00",
-      "price": "100.00",
-      "opening_date": "2025-09-04",
-      "closing_date": "2025-09-24",
-      "issue_manager": "Citizens Capital Limited"
     },
     {
       "symbol": "PPL",
@@ -794,7 +794,7 @@
       "issue_manager": "Citizens Capital Limited"
     },
     {
-      "symbol": "GIMES2",
+      "symbol": "GBIMESY2",
       "company": "Global IME Samunnat Yojana -II",
       "unit": "120,000,000.00",
       "price": "10.00",
