@@ -19,6 +19,15 @@
       "issue_manager": "Himalayan Capital Limited"
     },
     {
+      "symbol": "JEL",
+      "company": "Jhapa Energy Limited",
+      "unit": "473,336.00",
+      "price": "100.00",
+      "opening_date": "2025-09-05",
+      "closing_date": "2025-09-09",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "SHREE",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "3,262,500.00",
@@ -35,15 +44,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "JEL",
-      "company": "Jhapa Energy Limited",
-      "unit": "950,475.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Himalayan Capital Limited"
     },
     {
       "symbol": "RSM",
