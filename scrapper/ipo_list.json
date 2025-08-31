@@ -233,6 +233,16 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
+      "symbol": "NABBC",
+      "company": "Narayani Development Bank Limited",
+      "ratio": "1: 1",
+      "unit": "2,624,676.00",
+      "price": "100.00",
+      "opening_date": "2025-09-18",
+      "closing_date": "2025-10-08",
+      "issue_manager": "Global IME Capital ltd."
+    },
+    {
       "symbol": "BARUN",
       "company": "Barun Hydropower Company Limited",
       "ratio": "1:1",
@@ -371,16 +381,6 @@
       "opening_date": "2024-11-26",
       "closing_date": "2024-12-31",
       "issue_manager": "LS Capital Limited"
-    },
-    {
-      "symbol": "LEC",
-      "company": "Liberty Energy Company Limited",
-      "ratio": "1:0.5",
-      "unit": "7,500,000.00",
-      "price": "100.00",
-      "opening_date": "2024-12-01",
-      "closing_date": "2024-12-22",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "fpo_list": [
