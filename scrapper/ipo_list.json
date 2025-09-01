@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "BCTL",
-      "company": "Bandipur Cable Car and Tourism Limited",
-      "unit": "4,341,080.00",
-      "price": "100.00",
-      "opening_date": "2025-08-27",
-      "closing_date": "2025-08-31",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
       "symbol": "BLHL",
       "company": "Bungal Hydro Limited",
       "unit": "1,701,500.00",
@@ -53,6 +44,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
+    },
+    {
+      "symbol": "BCTL",
+      "company": "Bandipur Cable Car and Tourism Limited",
+      "unit": "4,341,080.00",
+      "price": "100.00",
+      "opening_date": "2025-08-27",
+      "closing_date": "2025-08-31",
+      "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
       "symbol": "SWSLBSL",
@@ -749,15 +749,6 @@
   ],
   "mutual_fund": [
     {
-      "symbol": "NICAELIS",
-      "company": "NIC ASIA Equity Linked Investment Scheme",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2025-08-14",
-      "closing_date": "2025-08-28",
-      "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
       "symbol": "HLILCF",
       "company": "HLI Large Cap Fund",
       "unit": "400,000,000.00",
@@ -776,6 +767,15 @@
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
+      "symbol": "NICAELIS",
+      "company": "NIC ASIA Equity Linked Investment Scheme",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2025-08-14",
+      "closing_date": "2025-08-28",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "NI31",
       "company": "NI 31",
       "unit": "25,000,000.00",
@@ -785,7 +785,7 @@
       "issue_manager": "Nabil Investment Banking Ltd."
     },
     {
-      "symbol": "CITSY",
+      "symbol": "CSY",
       "company": "Citizens Sadabahar Yojana",
       "unit": "50,000,000.00",
       "price": "10.00",
