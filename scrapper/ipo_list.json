@@ -19,6 +19,15 @@
       "issue_manager": "Himalayan Capital Limited"
     },
     {
+      "symbol": "SDLTD",
+      "company": "Sagar Distillery Limited",
+      "unit": "1,190,640.00",
+      "price": "100.00",
+      "opening_date": "2025-09-10",
+      "closing_date": "2025-09-14",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "SHREE",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "3,262,500.00",
@@ -26,15 +35,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "SDLTD",
-      "company": "Sagar Distillery Limited",
-      "unit": "1,452,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "RSM",
@@ -754,7 +754,7 @@
       "unit": "400,000,000.00",
       "price": "10.00",
       "opening_date": "2025-08-31",
-      "closing_date": "2025-09-03",
+      "closing_date": "2025-09-14",
       "issue_manager": "Himalayan Investment Banker Limited"
     },
     {
