@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "BLHL",
-      "company": "Bungal Hydro Limited",
-      "unit": "1,701,500.00",
-      "price": "100.00",
-      "opening_date": "2025-09-01",
-      "closing_date": "2025-09-04",
-      "issue_manager": "Himalayan Capital Limited"
-    },
-    {
       "symbol": "JEL",
       "company": "Jhapa Energy Limited",
       "unit": "473,336.00",
@@ -46,6 +37,15 @@
       "issue_manager": "Global IME Capital Limited"
     },
     {
+      "symbol": "BLHL",
+      "company": "Bungal Hydro Limited",
+      "unit": "1,701,500.00",
+      "price": "100.00",
+      "opening_date": "2025-09-01",
+      "closing_date": "2025-09-04",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "BCTL",
       "company": "Bandipur Cable Car and Tourism Limited",
       "unit": "4,341,080.00",
@@ -55,6 +55,15 @@
       "issue_manager": "Nepal SBI Merchant Banking Limited"
     },
     {
+      "symbol": "MBEL",
+      "company": "Mabilung Energy Limited",
+      "unit": "1,248,904.00",
+      "price": "100.00",
+      "opening_date": "2025-08-11",
+      "closing_date": "2025-08-14",
+      "issue_manager": "LS Capital Limited"
+    },
+    {
       "symbol": "SWSLBSL",
       "company": "Swastik Laghubitta Bittiya Sanstha Limited",
       "unit": "195,195.00",
@@ -62,6 +71,15 @@
       "opening_date": "2025-08-15",
       "closing_date": "2025-08-19",
       "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
+      "symbol": "DHEL",
+      "company": "Daramkhola Hydro Energy Limited",
+      "unit": "2,423,185.00",
+      "price": "100.00",
+      "opening_date": "2025-07-31",
+      "closing_date": "2025-08-04",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
       "symbol": "CREST",
@@ -100,15 +118,6 @@
       "issue_manager": "Prabhu Capital Ltd."
     },
     {
-      "symbol": "MBEL",
-      "company": "Mabilung Energy Limited",
-      "unit": "1,248,904.00",
-      "price": "100.00",
-      "opening_date": "2025-08-11",
-      "closing_date": "2025-08-14",
-      "issue_manager": "LS Capital Limited"
-    },
-    {
       "symbol": "SANVI",
       "company": "Sanvi Energy Limited",
       "unit": "2,415,300.00",
@@ -116,15 +125,6 @@
       "opening_date": "2025-05-23",
       "closing_date": "2025-05-27",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "DHEL",
-      "company": "Daramkhola Hydro Energy Limited",
-      "unit": "2,423,185.00",
-      "price": "100.00",
-      "opening_date": "2025-07-31",
-      "closing_date": "2025-08-04",
-      "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
       "symbol": "HIMSTAR",
@@ -183,16 +183,6 @@
   ],
   "right_share_list": [
     {
-      "symbol": "JOSHI",
-      "company": "Joshi Hydropower Development Company Limited",
-      "ratio": "1:0.65",
-      "unit": "2,414,100.00",
-      "price": "100.00",
-      "opening_date": "2025-07-31",
-      "closing_date": "2025-09-04",
-      "issue_manager": "LS Capital Limited"
-    },
-    {
       "symbol": "KKHC",
       "company": "Khani Khola Hydropower Company Limited",
       "ratio": "1:1",
@@ -241,6 +231,16 @@
       "opening_date": "2025-09-18",
       "closing_date": "2025-10-08",
       "issue_manager": "Global IME Capital ltd."
+    },
+    {
+      "symbol": "JOSHI",
+      "company": "Joshi Hydropower Development Company Limited",
+      "ratio": "1:0.65",
+      "unit": "2,414,100.00",
+      "price": "100.00",
+      "opening_date": "2025-07-31",
+      "closing_date": "2025-09-04",
+      "issue_manager": "LS Capital Limited"
     },
     {
       "symbol": "BARUN",
@@ -754,7 +754,7 @@
       "unit": "400,000,000.00",
       "price": "10.00",
       "opening_date": "2025-08-31",
-      "closing_date": "2025-09-14",
+      "closing_date": "2025-09-04",
       "issue_manager": "Himalayan Investment Banker Limited"
     },
     {
