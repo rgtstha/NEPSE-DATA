@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "SYPNL",
+      "company": "SY Panel Nepal Limited",
+      "unit": "261,627.00",
+      "price": "100.00",
+      "opening_date": "2025-09-14",
+      "closing_date": "2025-09-28",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "SHREE",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "163,125.00",
@@ -720,15 +729,6 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "BGWT",
-      "company": "Bhagawati Hydropower Development Company Limited",
-      "unit": "572,065.00",
-      "price": "116.00",
-      "opening_date": "2023-07-09",
-      "closing_date": "2023-07-30",
-      "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
       "symbol": "ULHC",
       "company": "Upper Lohore Khola Hydropower Company Limited",
       "unit": "509,804.00",
@@ -763,7 +763,7 @@
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2025-09-03",
-      "closing_date": "2025-09-07",
+      "closing_date": "2025-09-17",
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "SYPNL",
+      "company": "SY Panel Nepal Limited",
+      "unit": "497,092.00",
+      "price": "100.00",
+      "opening_date": "2025-09-14",
+      "closing_date": "2025-09-17",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "SHREE",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "309,938.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2024-01-10",
       "closing_date": "2024-01-24",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "HRL",
-      "company": "Himalayan Reinsurance Limited",
-      "unit": "3,000,000.00",
-      "price": "100.00",
-      "opening_date": "2023-11-20",
-      "closing_date": "2023-12-04",
-      "issue_manager": "NMB Capital Limited"
     }
   ]
 }
