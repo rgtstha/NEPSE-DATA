@@ -10,15 +10,6 @@
       "issue_manager": "Himalayan Capital Limited"
     },
     {
-      "symbol": "SDLTD",
-      "company": "Sagar Distillery Limited",
-      "unit": "1,190,640.00",
-      "price": "100.00",
-      "opening_date": "2025-09-10",
-      "closing_date": "2025-09-14",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
       "symbol": "SHREE",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "3,262,500.00",
@@ -179,6 +170,15 @@
       "opening_date": "2023-12-13",
       "closing_date": "2023-12-18",
       "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "NWCL",
+      "company": "Nepal Warehousing Company Limited",
+      "unit": "1,141,250.00",
+      "price": "100.00",
+      "opening_date": "2023-11-26",
+      "closing_date": "2023-11-29",
+      "issue_manager": "Himalayan Capital Ltd"
     }
   ],
   "right_share_list": [
