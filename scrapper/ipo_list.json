@@ -749,7 +749,7 @@
   ],
   "mutual_fund": [
     {
-      "symbol": "HLILCF",
+      "symbol": "HLICF",
       "company": "HLI Large Cap Fund",
       "unit": "400,000,000.00",
       "price": "10.00",
@@ -949,7 +949,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "SBI2090",
+      "symbol": "SBID2090",
       "company": "7% Nepal SBI Bank Debenture 2090",
       "unit": "3,000,000.00",
       "price": "100.00",
