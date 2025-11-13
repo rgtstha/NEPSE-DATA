@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "SHPL",
+      "company": "Solu Hydropower Limited",
+      "unit": "20,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "SYPNL",
       "company": "SY Panel Nepal Limited",
       "unit": "4,076,156.00",
@@ -170,15 +179,6 @@
       "opening_date": "2024-02-25",
       "closing_date": "2024-02-28",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "GMLI",
-      "company": "Guardian Micro Life Insurance Limited",
-      "unit": "1,845,000.00",
-      "price": "100.00",
-      "opening_date": "2025-01-05",
-      "closing_date": "2025-01-08",
-      "issue_manager": "Kumari Capital Ltd"
     }
   ],
   "right_share_list": [
@@ -931,7 +931,7 @@
   ],
   "bonds_debentures": [
     {
-      "symbol": "NBLD89",
+      "symbol": "NABILD2089",
       "company": "7% Nabil Debenture 2089",
       "unit": "3,000,000.00",
       "price": "1,000.00",
