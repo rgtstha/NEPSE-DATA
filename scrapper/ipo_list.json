@@ -28,7 +28,7 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "JEL",
+      "symbol": "JHAPA",
       "company": "Jhapa Energy Limited",
       "unit": "473,336.00",
       "price": "100.00",
@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "SHPL",
+      "company": "Solu Hydropower Limited",
+      "unit": "10,000,000.00",
+      "price": "100.00",
+      "opening_date": "2025-11-23",
+      "closing_date": "2025-12-07",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "SYPNL",
       "company": "SY Panel Nepal Limited",
       "unit": "261,627.00",
@@ -585,7 +594,7 @@
       "issue_manager": "Nabil Investment Banking Limited"
     },
     {
-      "symbol": "JEL",
+      "symbol": "JHAPA",
       "company": "Jhapa Energy Limited",
       "unit": "380,190.00",
       "price": "100.00",
@@ -684,15 +693,6 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "SONA",
-      "company": "Sonapur Minerals and Oil Limited",
-      "unit": "1,537,525.00",
-      "price": "225.00",
-      "opening_date": "2023-08-14",
-      "closing_date": "2023-09-12",
-      "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
       "symbol": "CKHL",
       "company": "Chirkhwa Hydro Power Limited",
       "unit": "400,000.00",
@@ -700,6 +700,15 @@
       "opening_date": "2023-08-13",
       "closing_date": "2023-09-11",
       "issue_manager": "RBB Merchant Banking Limited"
+    },
+    {
+      "symbol": "SONA",
+      "company": "Sonapur Minerals and Oil Limited",
+      "unit": "1,537,525.00",
+      "price": "225.00",
+      "opening_date": "2023-08-14",
+      "closing_date": "2023-09-12",
+      "issue_manager": "NIMB Ace Capital Limited"
     },
     {
       "symbol": "MSHL",
@@ -727,15 +736,6 @@
       "opening_date": "2023-07-20",
       "closing_date": "2023-09-03",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "ULHC",
-      "company": "Upper Lohore Khola Hydropower Company Limited",
-      "unit": "509,804.00",
-      "price": "100.00",
-      "opening_date": "2023-06-22",
-      "closing_date": "2023-07-21",
-      "issue_manager": "NIC Asia Capital Limited"
     },
     {
       "symbol": "MEHL",
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "SHPL",
+      "company": "Solu Hydropower Limited",
+      "unit": "1,000,000.00",
+      "price": "100.00",
+      "opening_date": "2025-11-23",
+      "closing_date": "2025-11-26",
+      "issue_manager": "Nabil Investment Banking Limited"
+    },
+    {
       "symbol": "SYPNL",
       "company": "SY Panel Nepal Limited",
       "unit": "497,092.00",
@@ -1140,7 +1149,7 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "JEL",
+      "symbol": "JHAPA",
       "company": "Jhapa Energy Limited",
       "unit": "57,029.00",
       "price": "100.00",
@@ -1281,15 +1290,6 @@
       "price": "820.80",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "SARBTM",
-      "company": "Sarbottam Cement Limited",
-      "unit": "267,000.00",
-      "price": "360.90",
-      "opening_date": "2024-01-10",
-      "closing_date": "2024-01-24",
       "issue_manager": "Global IME Capital Ltd"
     }
   ]
