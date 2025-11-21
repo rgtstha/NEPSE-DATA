@@ -19,7 +19,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "SHREE",
+      "symbol": "SAIL",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "2,510,493.00",
       "price": "100.00",
@@ -585,7 +585,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "SHREE",
+      "symbol": "SAIL",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "163,125.00",
       "price": "100.00",
@@ -931,6 +931,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "NABIL8",
+      "company": "8% Nabil Perpetual Non cumulative Preference Share",
+      "unit": "50,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "NABILD2089",
       "company": "7% Nabil Debenture 2089",
       "unit": "3,000,000.00",
@@ -1100,15 +1109,6 @@
       "opening_date": "2023-02-22",
       "closing_date": "2023-03-14",
       "issue_manager": "Nepal Rastra Bank"
-    },
-    {
-      "symbol": "GBILD84/85",
-      "company": "11.25% Global IME Bank Debenture 2084/85",
-      "unit": "5,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2023-02-12",
-      "closing_date": "2023-02-17",
-      "issue_manager": "Sunrise Capital Ltd"
     }
   ],
   "ipo_to_migrant_workers": [
@@ -1131,7 +1131,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "SHREE",
+      "symbol": "SAIL",
       "company": "Shreenagar Agritech Industries Limited",
       "unit": "309,938.00",
       "price": "100.00",
