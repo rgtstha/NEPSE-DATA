@@ -857,6 +857,15 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
+      "symbol": "CSTY",
+      "company": "Citizens Santulit Yojana",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
       "symbol": "GSY",
       "company": "Garima Samriddhi Yojana",
       "unit": "100,000,000.00",
@@ -918,15 +927,6 @@
       "opening_date": "2023-07-21",
       "closing_date": "2023-08-04",
       "issue_manager": "Laxmi Capital Market Ltd"
-    },
-    {
-      "symbol": "SIGS3",
-      "company": "Siddhartha Investment Growth Scheme 3",
-      "unit": "120,000,000.00",
-      "price": "10.00",
-      "opening_date": "2023-04-09",
-      "closing_date": "2023-04-23",
-      "issue_manager": "Siddhartha Capital Ltd."
     }
   ],
   "bonds_debentures": [
