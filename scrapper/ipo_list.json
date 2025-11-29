@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "BJHL",
+      "company": "Bhujung Hydropower Limited",
+      "unit": "2,000,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "SHPL",
       "company": "Solu Hydropower Limited",
       "unit": "20,000,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "NMIC",
-      "company": "Nepal Micro Insurance Company Limited",
-      "unit": "1,845,000.00",
-      "price": "100.00",
-      "opening_date": "2025-02-23",
-      "closing_date": "2025-02-27",
-      "issue_manager": "NIMB Ace Capital Ltd"
     }
   ],
   "right_share_list": [
