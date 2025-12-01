@@ -421,6 +421,15 @@
       "issue_manager": "NMB Capital Limited"
     },
     {
+      "symbol": "VLBS",
+      "company": "Vijaya Laghubitta Bittiya Sanstha Limited",
+      "unit": "466,817.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "SMATA",
       "company": "Samata Gharelu Laghubitta Bittiya Sanstha Limited",
       "unit": "350,904.25",
@@ -554,15 +563,6 @@
       "opening_date": "2016-12-25",
       "closing_date": "2016-12-28",
       "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "NIB",
-      "company": "Nepal Investment Bank Limited",
-      "unit": "9,069,388.00",
-      "price": "601.00",
-      "opening_date": "2016-02-22",
-      "closing_date": "2016-02-25",
-      "issue_manager": "Citizen Investment Trust Ltd."
     }
   ],
   "ipo_local": [
