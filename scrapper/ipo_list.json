@@ -776,7 +776,7 @@
       "issue_manager": "RBB Merchant Banking Limited"
     },
     {
-      "symbol": "NICELIS",
+      "symbol": "ELIS",
       "company": "NIC ASIA Equity Linked Investment Scheme",
       "unit": "100,000,000.00",
       "price": "10.00",
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "SALAPA",
+      "company": "Salapa Bikas Bank Limited",
+      "unit": "172,388.00",
+      "price": "100.00",
+      "opening_date": "2025-12-11",
+      "closing_date": "2025-12-15",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "SHPL",
       "company": "Solu Hydropower Limited",
       "unit": "1,000,000.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2024-12-04",
       "closing_date": "2024-12-18",
       "issue_manager": "Kumari Capital Limited"
-    },
-    {
-      "symbol": "RSM",
-      "company": "Reliance Spinning Mills",
-      "unit": "115,596.00",
-      "price": "820.80",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Ltd"
     }
   ]
 }
