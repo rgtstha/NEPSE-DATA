@@ -173,7 +173,7 @@
     },
     {
       "symbol": "RSM",
-      "company": "Reliance Spinning Mills",
+      "company": "Reliance Spinning Mills Limited",
       "unit": "1,155,960.00",
       "price": "820.80",
       "opening_date": "Coming Soon",
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "RSM",
+      "company": "Reliance Spinning Mills Limited",
+      "unit": "115,596.00",
+      "price": "820.80",
+      "opening_date": "2025-12-08",
+      "closing_date": "2025-12-11",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
       "symbol": "SALAPA",
       "company": "Salapa Bikas Bank Limited",
       "unit": "172,388.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-02-03",
       "closing_date": "2025-02-17",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "GMLI",
-      "company": "Guardian Micro Life Insurance Limited",
-      "unit": "225,000.00",
-      "price": "100.00",
-      "opening_date": "2024-12-04",
-      "closing_date": "2024-12-18",
-      "issue_manager": "Kumari Capital Limited"
     }
   ]
 }
