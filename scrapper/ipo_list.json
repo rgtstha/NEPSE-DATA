@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "RSM",
+      "company": "Reliance Spinning Mills Limited",
+      "unit": "924,768.00",
+      "price": "820.80",
+      "opening_date": "2025-12-22",
+      "closing_date": "2025-12-26",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
       "symbol": "SKHCL",
       "company": "Suryakunda Hydro Electric Limited",
       "unit": "1,379,350.00",
@@ -170,15 +179,6 @@
       "opening_date": "2025-07-08",
       "closing_date": "2025-07-11",
       "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "TTL",
-      "company": "Trade Tower Limited",
-      "unit": "3,296,505.19",
-      "price": "100.00",
-      "opening_date": "2025-05-28",
-      "closing_date": "2025-06-03",
-      "issue_manager": "LS Capital Limited"
     }
   ],
   "right_share_list": [
