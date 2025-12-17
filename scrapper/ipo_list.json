@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "SKHCL",
+      "company": "Suryakunda Hydro Electric Limited",
+      "unit": "689,675.00",
+      "price": "100.00",
+      "opening_date": "2025-12-24",
+      "closing_date": "2026-01-07",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "BJHL",
       "company": "Bhujung Hydropower Limited",
       "unit": "1,000,000.00",
@@ -736,15 +745,6 @@
       "opening_date": "2023-07-13",
       "closing_date": "2023-08-11",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "MMKJL",
-      "company": "Mathillo Mailun Khola Jalvidhyut Limited",
-      "unit": "1,000,000.00",
-      "price": "100.00",
-      "opening_date": "2023-07-20",
-      "closing_date": "2023-09-03",
-      "issue_manager": "Sanima Capital Limited"
     }
   ],
   "mutual_fund": [
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "SKHCL",
+      "company": "Suryakunda Hydro Electric Limited",
+      "unit": "68,967.00",
+      "price": "100.00",
+      "opening_date": "2025-12-24",
+      "closing_date": "2025-12-29",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "BJHL",
       "company": "Bhujung Hydropower Limited",
       "unit": "100,000.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-01-21",
       "closing_date": "2025-02-04",
       "issue_manager": "NIMB Ace Capital Ltd"
-    },
-    {
-      "symbol": "CREST",
-      "company": "Crest Micro Life Insurance Limited",
-      "unit": "225,000.00",
-      "price": "100.00",
-      "opening_date": "2025-01-28",
-      "closing_date": "2025-02-11",
-      "issue_manager": "NIMB Ace Capital Ltd."
     }
   ]
 }
