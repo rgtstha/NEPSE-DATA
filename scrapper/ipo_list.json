@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "RIDGE",
+      "company": "Ridge Line Energy Limited",
+      "unit": "1,185,000.00",
+      "price": "100.00",
+      "opening_date": "2025-12-28",
+      "closing_date": "2026-01-12",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "SKHCL",
       "company": "Suryakunda Hydro Electric Limited",
       "unit": "689,675.00",
@@ -736,15 +745,6 @@
       "opening_date": "2023-07-30",
       "closing_date": "2023-08-15",
       "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "MANDU",
-      "company": "Mandu Hydropower Limited",
-      "unit": "272,730.00",
-      "price": "206.00",
-      "opening_date": "2023-07-13",
-      "closing_date": "2023-08-11",
-      "issue_manager": "Prabhu Capital Limited"
     }
   ],
   "mutual_fund": [
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "RIDGE",
+      "company": "Ridge Line Energy Limited",
+      "unit": "142,200.00",
+      "price": "100.00",
+      "opening_date": "2025-12-28",
+      "closing_date": "2026-01-01",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "SKHCL",
       "company": "Suryakunda Hydro Electric Limited",
       "unit": "68,967.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-03-04",
       "closing_date": "2025-03-18",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "NMIC",
-      "company": "Nepal Micro Insurance Company Limited",
-      "unit": "225,000.00",
-      "price": "100.00",
-      "opening_date": "2025-01-21",
-      "closing_date": "2025-02-04",
-      "issue_manager": "NIMB Ace Capital Ltd"
     }
   ]
 }
