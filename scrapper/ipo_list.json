@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "SALAPA",
+      "company": "Salapa Bikas Bank Limited",
+      "unit": "1,439,179.00",
+      "price": "100.00",
+      "opening_date": "2025-12-31",
+      "closing_date": "2026-01-04",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
       "symbol": "RSM",
       "company": "Reliance Spinning Mills Limited",
       "unit": "924,768.00",
@@ -70,15 +79,6 @@
       "price": "100.00",
       "opening_date": "2025-09-15",
       "closing_date": "2025-09-21",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "SALAPA",
-      "company": "Salapa Bikas Bank Limited",
-      "unit": "1,723,880.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
       "issue_manager": "Muktinath Capital Limited"
     },
     {
