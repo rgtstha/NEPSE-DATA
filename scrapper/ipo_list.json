@@ -109,6 +109,15 @@
       "issue_manager": "LS Capital Limited"
     },
     {
+      "symbol": "SKHL",
+      "company": "Super Khudi Hydropower Limited",
+      "unit": "3,100,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
       "symbol": "SWASTIK",
       "company": "Swastik Laghubitta Bittiya Sanstha Limited",
       "unit": "195,195.00",
@@ -170,15 +179,6 @@
       "opening_date": "2025-05-23",
       "closing_date": "2025-05-27",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "HIMSTAR",
-      "company": "Him Star Urja Company Limited",
-      "unit": "773,975.00",
-      "price": "100.00",
-      "opening_date": "2025-07-08",
-      "closing_date": "2025-07-11",
-      "issue_manager": "NIC Asia Capital Limited"
     }
   ],
   "right_share_list": [
@@ -754,7 +754,7 @@
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2025-12-19",
-      "closing_date": "2025-12-23",
+      "closing_date": "2026-01-02",
       "issue_manager": "Citizens Capital Limited"
     },
     {
