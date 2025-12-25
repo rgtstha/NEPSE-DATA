@@ -385,6 +385,15 @@
   ],
   "fpo_list": [
     {
+      "symbol": "VLBS",
+      "company": "Vijaya Laghubitta Bittiya Sanstha Limited",
+      "unit": "466,817.00",
+      "price": "100.00",
+      "opening_date": "2026-01-05",
+      "closing_date": "2026-01-08",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "HBL",
       "company": "Himalayan Bank Limited",
       "unit": "9,250,469.00",
@@ -418,15 +427,6 @@
       "price": "100.00",
       "opening_date": "2025-03-02",
       "closing_date": "2025-03-05",
-      "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "VLBS",
-      "company": "Vijaya Laghubitta Bittiya Sanstha Limited",
-      "unit": "466,817.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Limited"
     },
     {
