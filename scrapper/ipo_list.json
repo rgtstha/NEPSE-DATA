@@ -109,6 +109,15 @@
       "issue_manager": "LS Capital Limited"
     },
     {
+      "symbol": "PCIPL",
+      "company": "Palpa Cements Industries Private Limited",
+      "unit": "7,500,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Nabil Investment Banking Ltd."
+    },
+    {
       "symbol": "SKHL",
       "company": "Super Khudi Hydropower Limited",
       "unit": "3,100,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "2025-07-02",
       "closing_date": "2025-07-06",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "SANVI",
-      "company": "Sanvi Energy Limited",
-      "unit": "2,415,300.00",
-      "price": "100.00",
-      "opening_date": "2025-05-23",
-      "closing_date": "2025-05-27",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     }
   ],
   "right_share_list": [
@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "PCIPL",
+      "company": "Palpa Cements Industries Private Limited",
+      "unit": "1,875,000.00",
+      "price": "100.00",
+      "opening_date": "2026-01-09",
+      "closing_date": "2026-01-23",
+      "issue_manager": "Nabil Investment Banking Ltd."
+    },
+    {
       "symbol": "SKHL",
       "company": "Super Khudi Hydropower Limited",
       "unit": "1,550,000.00",
@@ -736,15 +745,6 @@
       "opening_date": "2023-08-13",
       "closing_date": "2023-09-11",
       "issue_manager": "RBB Merchant Banking Limited"
-    },
-    {
-      "symbol": "SONA",
-      "company": "Sonapur Minerals and Oil Limited",
-      "unit": "1,537,525.00",
-      "price": "225.00",
-      "opening_date": "2023-08-14",
-      "closing_date": "2023-09-12",
-      "issue_manager": "NIMB Ace Capital Limited"
     }
   ],
   "mutual_fund": [
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "PCIPL",
+      "company": "Palpa Cements Industries Private Limited",
+      "unit": "562,500.00",
+      "price": "100.00",
+      "opening_date": "2026-01-09",
+      "closing_date": "2026-01-14",
+      "issue_manager": "Nabil Investment Banking Ltd."
+    },
+    {
       "symbol": "SKHL",
       "company": "Super Khudi Hydropower Limited",
       "unit": "155,000.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-04-21",
       "closing_date": "2025-05-05",
       "issue_manager": "LS Capital Limited"
-    },
-    {
-      "symbol": "SANVI",
-      "company": "Sanvi Energy Limited",
-      "unit": "291,000.00",
-      "price": "100.00",
-      "opening_date": "2025-04-18",
-      "closing_date": "2025-05-02",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     }
   ]
 }
