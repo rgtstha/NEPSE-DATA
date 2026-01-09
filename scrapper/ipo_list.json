@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "SALAPA",
-      "company": "Salapa Bikas Bank Limited",
-      "unit": "1,439,179.00",
-      "price": "100.00",
-      "opening_date": "2025-12-31",
-      "closing_date": "2026-01-04",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
       "symbol": "SHPL",
       "company": "Solu Hydropower Limited",
       "unit": "8,200,000.00",
@@ -35,6 +26,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Kumari Capital Limited"
+    },
+    {
+      "symbol": "SALAPA",
+      "company": "Salapa Bikas Bank Limited",
+      "unit": "1,439,179.00",
+      "price": "100.00",
+      "opening_date": "2025-12-31",
+      "closing_date": "2026-01-04",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "RSM",
@@ -576,24 +576,6 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "RIDGE",
-      "company": "Ridge Line Energy Limited",
-      "unit": "1,185,000.00",
-      "price": "100.00",
-      "opening_date": "2025-12-28",
-      "closing_date": "2026-01-12",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "SKHCL",
-      "company": "Suryakunda Hydro Electric Limited",
-      "unit": "689,675.00",
-      "price": "100.00",
-      "opening_date": "2025-12-24",
-      "closing_date": "2026-01-07",
-      "issue_manager": "Kumari Capital Limited"
-    },
-    {
       "symbol": "PCIPL",
       "company": "Palpa Cements Industries Private Limited",
       "unit": "1,875,000.00",
@@ -610,6 +592,24 @@
       "opening_date": "2026-01-06",
       "closing_date": "2026-01-20",
       "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "RIDGE",
+      "company": "Ridge Line Energy Limited",
+      "unit": "1,185,000.00",
+      "price": "100.00",
+      "opening_date": "2025-12-28",
+      "closing_date": "2026-01-12",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
+      "symbol": "SKHCL",
+      "company": "Suryakunda Hydro Electric Limited",
+      "unit": "689,675.00",
+      "price": "100.00",
+      "opening_date": "2025-12-24",
+      "closing_date": "2026-01-07",
+      "issue_manager": "Kumari Capital Limited"
     },
     {
       "symbol": "BJHL",
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "HFIL",
+      "company": "Hotel Forest Inn Limited",
+      "unit": "400,000.00",
+      "price": "100.00",
+      "opening_date": "2026-01-18",
+      "closing_date": "2026-01-22",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "SPDPL",
       "company": "Shikhar Power Development Limited",
       "unit": "222,000.00",
@@ -1140,15 +1149,6 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "RIDGE",
-      "company": "Ridge Line Energy Limited",
-      "unit": "142,200.00",
-      "price": "100.00",
-      "opening_date": "2025-12-28",
-      "closing_date": "2026-01-01",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
       "symbol": "SKHCL",
       "company": "Suryakunda Hydro Electric Limited",
       "unit": "68,967.00",
@@ -1165,6 +1165,15 @@
       "opening_date": "2025-12-18",
       "closing_date": "2025-12-22",
       "issue_manager": "Kumari Capital Limited"
+    },
+    {
+      "symbol": "RIDGE",
+      "company": "Ridge Line Energy Limited",
+      "unit": "142,200.00",
+      "price": "100.00",
+      "opening_date": "2025-12-28",
+      "closing_date": "2026-01-01",
+      "issue_manager": "Prabhu Capital Limited"
     },
     {
       "symbol": "RSM",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-06-13",
       "closing_date": "2025-06-27",
       "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "BHCL",
-      "company": "Bikash Hydropower Company Limited",
-      "unit": "354,550.00",
-      "price": "100.00",
-      "opening_date": "2025-05-20",
-      "closing_date": "2025-06-03",
-      "issue_manager": "Prabhu Capital Ltd."
     }
   ]
 }
