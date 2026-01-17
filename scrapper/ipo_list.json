@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "BJHL",
+      "company": "Bhujung Hydropower Limited",
+      "unit": "830,000.00",
+      "price": "100.00",
+      "opening_date": "2026-01-26",
+      "closing_date": "2026-01-29",
+      "issue_manager": "Kumari Capital Limited"
+    },
+    {
       "symbol": "SHPL",
       "company": "Solu Hydropower Limited",
       "unit": "8,200,000.00",
@@ -13,15 +22,6 @@
       "symbol": "SKHCL",
       "company": "Suryakunda Hydro Electric Limited",
       "unit": "1,379,350.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Kumari Capital Limited"
-    },
-    {
-      "symbol": "BJHL",
-      "company": "Bhujung Hydropower Limited",
-      "unit": "2,000,000.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
