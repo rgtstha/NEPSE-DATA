@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "SKHL",
+      "company": "Super Khudi Hydropower Limited",
+      "unit": "1,286,500.00",
+      "price": "100.00",
+      "opening_date": "2026-02-16",
+      "closing_date": "2026-02-22",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
       "symbol": "SRL",
       "company": "Snow Rivers Limited",
       "unit": "1,875,000.00",
@@ -161,15 +170,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Nabil Investment Banking Ltd."
-    },
-    {
-      "symbol": "SKHL",
-      "company": "Super Khudi Hydropower Limited",
-      "unit": "3,100,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "SPDPL",
