@@ -1,6 +1,15 @@
 {
   "ipo_list": [
     {
+      "symbol": "PALPA",
+      "company": "Palpa Cements Industries Limited",
+      "unit": "4,500,000.00",
+      "price": "100.00",
+      "opening_date": "2026-02-24",
+      "closing_date": "2026-02-27",
+      "issue_manager": "Nabil Investment Banking Ltd."
+    },
+    {
       "symbol": "SKHL",
       "company": "Super Khudi Hydropower Limited",
       "unit": "1,286,500.00",
@@ -163,15 +172,6 @@
       "issue_manager": "LS Capital Limited"
     },
     {
-      "symbol": "PCIPL",
-      "company": "Palpa Cements Industries Private Limited",
-      "unit": "7,500,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Nabil Investment Banking Ltd."
-    },
-    {
       "symbol": "SPDPL",
       "company": "Shikhar Power Development Limited",
       "unit": "3,200,000.00",
@@ -182,6 +182,16 @@
     }
   ],
   "right_share_list": [
+    {
+      "symbol": "UAIL",
+      "company": "United Ajod Insurance Limited",
+      "ratio": "1:0.10",
+      "unit": "2,310,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
+    },
     {
       "symbol": "BNHC",
       "company": "Buddha Bhumi Nepal Hydropower Company Limited",
@@ -371,16 +381,6 @@
       "opening_date": "2024-12-12",
       "closing_date": "2025-01-01",
       "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "LICN",
-      "company": "Life Insurance Corporation Nepal Limited",
-      "ratio": "1:0.8845168",
-      "unit": "23,468,000.00",
-      "price": "100.00",
-      "opening_date": "2024-11-27",
-      "closing_date": "2025-01-01",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     }
   ],
   "fpo_list": [
@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "APPOLO",
+      "company": "Appolo Hydropwer Limited",
+      "unit": "470,000.00",
+      "price": "100.00",
+      "opening_date": "2026-02-23",
+      "closing_date": "2026-03-09",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "SPDPL",
       "company": "Shikhar Power Development Limited",
       "unit": "980,000.00",
@@ -576,8 +585,8 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "PCIPL",
-      "company": "Palpa Cements Industries Private Limited",
+      "symbol": "PALPA",
+      "company": "Palpa Cements Industries Limited",
       "unit": "1,875,000.00",
       "price": "100.00",
       "opening_date": "2026-01-09",
@@ -736,15 +745,6 @@
       "opening_date": "2024-01-10",
       "closing_date": "2024-02-08",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "VLUCL",
-      "company": "Vision Lumbini Urja Company Limited",
-      "unit": "1,912,500.00",
-      "price": "100.00",
-      "opening_date": "2023-09-05",
-      "closing_date": "2023-10-04",
-      "issue_manager": "Muktinath Capital Limited"
     }
   ],
   "mutual_fund": [
@@ -931,6 +931,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "ICFCD89",
+      "company": "8% ICFC Finance Limited Debenture 2089",
+      "unit": "500,000.00",
+      "price": "1,000.00",
+      "opening_date": "2026-02-23",
+      "closing_date": "2026-02-26",
+      "issue_manager": "Kumari Capital Ltmited"
+    },
+    {
       "symbol": "NABIL8",
       "company": "8% Nabil Perpetual Non cumulative Preference Share",
       "unit": "50,000,000.00",
@@ -1100,18 +1109,18 @@
       "opening_date": "2023-02-09",
       "closing_date": "2023-02-20",
       "issue_manager": "NIBL Ace Capital Ltd."
-    },
-    {
-      "symbol": "CSB2084",
-      "company": "11.50% Citizens Saving Bond 2084 'Ka'",
-      "unit": "",
-      "price": "",
-      "opening_date": "2023-02-22",
-      "closing_date": "2023-03-14",
-      "issue_manager": "Nepal Rastra Bank"
     }
   ],
   "ipo_to_migrant_workers": [
+    {
+      "symbol": "APPOLO",
+      "company": "Appolo Hydropwer Limited",
+      "unit": "94,000.00",
+      "price": "100.00",
+      "opening_date": "2026-02-23",
+      "closing_date": "2026-02-26",
+      "issue_manager": "Himalayan Capital Limited"
+    },
     {
       "symbol": "HFIL",
       "company": "Hotel Forest Inn Limited",
@@ -1131,8 +1140,8 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "PCIPL",
-      "company": "Palpa Cements Industries Private Limited",
+      "symbol": "PALPA",
+      "company": "Palpa Cements Industries Limited",
       "unit": "562,500.00",
       "price": "100.00",
       "opening_date": "2026-01-09",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-06-23",
       "closing_date": "2025-07-07",
       "issue_manager": "Laxmi Sunrise Capital Limited"
-    },
-    {
-      "symbol": "HIMSTAR",
-      "company": "Him Star Urja Company Limited",
-      "unit": "93,250.00",
-      "price": "100.00",
-      "opening_date": "2025-06-13",
-      "closing_date": "2025-06-27",
-      "issue_manager": "NIC Asia Capital Limited"
     }
   ]
 }
