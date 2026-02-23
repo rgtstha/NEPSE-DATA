@@ -38,7 +38,7 @@
     },
     {
       "symbol": "APPOLO",
-      "company": "Appolo Hydropwer Limited",
+      "company": "Appolo Hydropower Limited",
       "unit": "1,410,000.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
@@ -568,7 +568,7 @@
   "ipo_local": [
     {
       "symbol": "APPOLO",
-      "company": "Appolo Hydropwer Limited",
+      "company": "Appolo Hydropower Limited",
       "unit": "470,000.00",
       "price": "100.00",
       "opening_date": "2026-02-23",
@@ -749,6 +749,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "GSYA",
+      "company": "Garima Subarna Yojana",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2026-03-12",
+      "closing_date": "2026-03-16",
+      "issue_manager": "Garima Capital Limited"
+    },
+    {
       "symbol": "NLSLY",
       "company": "Nepal Life Samriddhi Lagani Yojana",
       "unit": "160,000,000.00",
@@ -918,15 +927,6 @@
       "opening_date": "2023-11-20",
       "closing_date": "2023-12-04",
       "issue_manager": "Nic Asia Capital Ltd."
-    },
-    {
-      "symbol": "H8020",
-      "company": "Himalayan 80-20",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2023-08-17",
-      "closing_date": "2023-09-01",
-      "issue_manager": "Himalayan Capital Limited"
     }
   ],
   "bonds_debentures": [
@@ -1114,7 +1114,7 @@
   "ipo_to_migrant_workers": [
     {
       "symbol": "APPOLO",
-      "company": "Appolo Hydropwer Limited",
+      "company": "Appolo Hydropower Limited",
       "unit": "94,000.00",
       "price": "100.00",
       "opening_date": "2026-02-23",
