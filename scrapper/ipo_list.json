@@ -567,6 +567,24 @@
   ],
   "ipo_local": [
     {
+      "symbol": "KHPL",
+      "company": "Kalinchowk Hydropower Limited",
+      "unit": "550,000.00",
+      "price": "100.00",
+      "opening_date": "2026-02-25",
+      "closing_date": "2026-03-11",
+      "issue_manager": "RBB Merchant Banking Ltd"
+    },
+    {
+      "symbol": "TAKSAR",
+      "company": "Taksar Pikhuwa Khola Hydropower Limited",
+      "unit": "1,200,000.00",
+      "price": "100.00",
+      "opening_date": "2026-03-11",
+      "closing_date": "2026-03-25",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "APPOLO",
       "company": "Appolo Hydropower Limited",
       "unit": "470,000.00",
@@ -727,24 +745,6 @@
       "opening_date": "2025-04-18",
       "closing_date": "2025-05-02",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "PURE",
-      "company": "Pure Energy Limited",
-      "unit": "160,000.00",
-      "price": "100.00",
-      "opening_date": "2025-03-04",
-      "closing_date": "2025-03-18",
-      "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "SARBTM",
-      "company": "Sarbottam Cement Limited",
-      "unit": "930,000.00",
-      "price": "360.90",
-      "opening_date": "2024-01-10",
-      "closing_date": "2024-02-08",
-      "issue_manager": "Global IME Capital Ltd"
     }
   ],
   "mutual_fund": [
@@ -1113,6 +1113,24 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "KHPL",
+      "company": "Kalinchowk Hydropower Limited",
+      "unit": "82,500.00",
+      "price": "100.00",
+      "opening_date": "2026-02-25",
+      "closing_date": "2026-03-01",
+      "issue_manager": "RBB Merchant Banking Ltd"
+    },
+    {
+      "symbol": "TAKSAR",
+      "company": "Taksar Pikhuwa Khola Hydropower Limited",
+      "unit": "303,067.00",
+      "price": "100.00",
+      "opening_date": "2026-03-11",
+      "closing_date": "2026-03-15",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "APPOLO",
       "company": "Appolo Hydropower Limited",
       "unit": "94,000.00",
@@ -1273,24 +1291,6 @@
       "opening_date": "2025-07-11",
       "closing_date": "2025-07-25",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "MABEL",
-      "company": "Mabilung Energy Limited",
-      "unit": "150,471.00",
-      "price": "100.00",
-      "opening_date": "2025-07-06",
-      "closing_date": "2025-07-20",
-      "issue_manager": "LS Capital Limited"
-    },
-    {
-      "symbol": "DHEL",
-      "company": "Daramkhola Hydro Energy Limited",
-      "unit": "291,950.00",
-      "price": "100.00",
-      "opening_date": "2025-06-23",
-      "closing_date": "2025-07-07",
-      "issue_manager": "Laxmi Sunrise Capital Limited"
     }
   ]
 }
