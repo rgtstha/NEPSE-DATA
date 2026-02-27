@@ -1,13 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "SKHL",
-      "company": "Super Khudi Hydropower Limited",
-      "unit": "1,286,500.00",
+      "symbol": "PALPA",
+      "company": "Palpa Cements Industries Limited",
+      "unit": "4,500,000.00",
       "price": "100.00",
-      "opening_date": "2026-02-17",
-      "closing_date": "2026-02-23",
-      "issue_manager": "Global IME Capital Ltd"
+      "opening_date": "2026-02-24",
+      "closing_date": "2026-02-27",
+      "issue_manager": "Nabil Investment Banking Ltd."
     },
     {
       "symbol": "SPDPL",
@@ -17,15 +17,6 @@
       "opening_date": "2026-03-01",
       "closing_date": "2026-03-06",
       "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "PALPA",
-      "company": "Palpa Cements Industries Limited",
-      "unit": "4,500,000.00",
-      "price": "100.00",
-      "opening_date": "2026-02-24",
-      "closing_date": "2026-02-27",
-      "issue_manager": "Nabil Investment Banking Ltd."
     },
     {
       "symbol": "SRL",
@@ -53,6 +44,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "RBB Merchant Banking Ltd"
+    },
+    {
+      "symbol": "SKHL",
+      "company": "Super Khudi Hydropower Limited",
+      "unit": "1,286,500.00",
+      "price": "100.00",
+      "opening_date": "2026-02-17",
+      "closing_date": "2026-02-23",
+      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "HFIL",
@@ -576,6 +576,15 @@
       "issue_manager": "RBB Merchant Banking Ltd"
     },
     {
+      "symbol": "APPOLO",
+      "company": "Appolo Hydropower Limited",
+      "unit": "470,000.00",
+      "price": "100.00",
+      "opening_date": "2026-02-23",
+      "closing_date": "2026-03-09",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "TAKSAR",
       "company": "Taksar Pikhuwa Khola Hydropower Limited",
       "unit": "1,200,000.00",
@@ -585,13 +594,13 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "APPOLO",
-      "company": "Appolo Hydropower Limited",
-      "unit": "470,000.00",
+      "symbol": "BENI",
+      "company": "Beni Hydropower Project Limited",
+      "unit": "1,040,000.00",
       "price": "100.00",
-      "opening_date": "2026-02-23",
-      "closing_date": "2026-03-09",
-      "issue_manager": "Himalayan Capital Limited"
+      "opening_date": "2026-03-15",
+      "closing_date": "2026-03-29",
+      "issue_manager": "NMB Capital Limited"
     },
     {
       "symbol": "SPDPL",
@@ -736,15 +745,6 @@
       "opening_date": "2025-05-20",
       "closing_date": "2025-06-03",
       "issue_manager": "Prabhu Capital Ltd."
-    },
-    {
-      "symbol": "SANVI",
-      "company": "Sanvi Energy Limited",
-      "unit": "880,000.00",
-      "price": "100.00",
-      "opening_date": "2025-04-18",
-      "closing_date": "2025-05-02",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     }
   ],
   "mutual_fund": [
@@ -1131,6 +1131,15 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
+      "symbol": "BENI",
+      "company": "Beni Hydropower Project Limited",
+      "unit": "104,000.00",
+      "price": "100.00",
+      "opening_date": "2026-03-15",
+      "closing_date": "2026-03-19",
+      "issue_manager": "NMB Capital Limited"
+    },
+    {
       "symbol": "APPOLO",
       "company": "Appolo Hydropower Limited",
       "unit": "94,000.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-07-13",
       "closing_date": "2025-07-27",
       "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "SWASTIK",
-      "company": "Swastik Laghubitta Bittiya Sanstha Limited",
-      "unit": "23,100.00",
-      "price": "100.00",
-      "opening_date": "2025-07-11",
-      "closing_date": "2025-07-25",
-      "issue_manager": "Nabil Investment Banking Limited"
     }
   ]
 }
