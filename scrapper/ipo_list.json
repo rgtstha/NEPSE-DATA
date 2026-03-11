@@ -1,22 +1,40 @@
 {
   "ipo_list": [
     {
-      "symbol": "PALPA",
-      "company": "Palpa Cements Industries Limited",
-      "unit": "4,500,000.00",
+      "symbol": "SOPL",
+      "company": "Sopan Pharmaceuticals Limited",
+      "unit": "4,290,000.00",
       "price": "100.00",
-      "opening_date": "2026-02-24",
-      "closing_date": "2026-02-27",
-      "issue_manager": "Nabil Investment Banking Ltd."
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Limited"
     },
     {
-      "symbol": "SPDPL",
-      "company": "Shikhar Power Development Limited",
-      "unit": "1,842,600.00",
+      "symbol": "SGHL",
+      "company": "Sanigad Hydro Limited",
+      "unit": "8,550,000.00",
       "price": "100.00",
-      "opening_date": "2026-03-01",
-      "closing_date": "2026-03-10",
-      "issue_manager": "Global IME Capital Ltd"
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "LS Capital Limited"
+    },
+    {
+      "symbol": "KHL",
+      "company": "Kalanga Hydro Limited",
+      "unit": "4,900,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "YAMBALING",
+      "company": "Yambaling Hydropower Limited",
+      "unit": "2,800,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "SRL",
@@ -55,7 +73,25 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "HFIL",
+      "symbol": "SPDPL",
+      "company": "Shikhar Power Development Limited",
+      "unit": "1,842,600.00",
+      "price": "100.00",
+      "opening_date": "2026-03-01",
+      "closing_date": "2026-03-10",
+      "issue_manager": "Global IME Capital Ltd"
+    },
+    {
+      "symbol": "PALPA",
+      "company": "Palpa Cements Industries Limited",
+      "unit": "4,500,000.00",
+      "price": "100.00",
+      "opening_date": "2026-02-24",
+      "closing_date": "2026-02-27",
+      "issue_manager": "Nabil Investment Banking Ltd."
+    },
+    {
+      "symbol": "HFIN",
       "company": "Hotel Forest Inn Limited",
       "unit": "3,320,000.00",
       "price": "100.00",
@@ -143,45 +179,19 @@
       "opening_date": "2025-09-05",
       "closing_date": "2025-09-15",
       "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "SAGAR",
-      "company": "Sagar Distillery Limited",
-      "unit": "1,190,640.00",
-      "price": "100.00",
-      "opening_date": "2025-09-15",
-      "closing_date": "2025-09-21",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "BUNGAL",
-      "company": "Bungal Hydro Limited",
-      "unit": "1,701,500.00",
-      "price": "100.00",
-      "opening_date": "2025-09-01",
-      "closing_date": "2025-09-04",
-      "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "BANDIPUR",
-      "company": "Bandipur Cable Car and Tourism Limited",
-      "unit": "4,341,080.00",
-      "price": "100.00",
-      "opening_date": "2025-08-27",
-      "closing_date": "2025-08-31",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "MABEL",
-      "company": "Mabilung Energy Limited",
-      "unit": "1,248,904.00",
-      "price": "100.00",
-      "opening_date": "2025-08-11",
-      "closing_date": "2025-08-14",
-      "issue_manager": "LS Capital Limited"
     }
   ],
   "right_share_list": [
+    {
+      "symbol": "HPPL",
+      "company": "Himalayan Power Partner Limited",
+      "ratio": "1:0.5",
+      "unit": "5,327,085.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Global IME Capital Limited"
+    },
     {
       "symbol": "UAIL",
       "company": "United Ajod Insurance Limited",
@@ -371,16 +381,6 @@
       "opening_date": "2025-01-07",
       "closing_date": "2025-02-11",
       "issue_manager": "Siddhartha Capital Limited"
-    },
-    {
-      "symbol": "BHL",
-      "company": "Balephi Hydropower Limited",
-      "ratio": "1:1",
-      "unit": "18,279,700.00",
-      "price": "100.00",
-      "opening_date": "2024-12-12",
-      "closing_date": "2025-01-01",
-      "issue_manager": "NIMB Ace Capital Limited"
     }
   ],
   "fpo_list": [
@@ -572,7 +572,7 @@
       "unit": "550,000.00",
       "price": "100.00",
       "opening_date": "2026-02-25",
-      "closing_date": "2026-03-11",
+      "closing_date": "2026-03-26",
       "issue_manager": "RBB Merchant Banking Ltd"
     },
     {
@@ -1113,15 +1113,6 @@
   ],
   "ipo_to_migrant_workers": [
     {
-      "symbol": "KHPL",
-      "company": "Kalinchowk Hydropower Limited",
-      "unit": "82,500.00",
-      "price": "100.00",
-      "opening_date": "2026-02-25",
-      "closing_date": "2026-03-01",
-      "issue_manager": "RBB Merchant Banking Ltd"
-    },
-    {
       "symbol": "TAKSAR",
       "company": "Taksar Pikhuwa Khola Hydropower Limited",
       "unit": "303,067.00",
@@ -1140,6 +1131,15 @@
       "issue_manager": "NMB Capital Limited"
     },
     {
+      "symbol": "KHPL",
+      "company": "Kalinchowk Hydropower Limited",
+      "unit": "82,500.00",
+      "price": "100.00",
+      "opening_date": "2026-02-25",
+      "closing_date": "2026-03-01",
+      "issue_manager": "RBB Merchant Banking Ltd"
+    },
+    {
       "symbol": "APPOLO",
       "company": "Appolo Hydropower Limited",
       "unit": "94,000.00",
@@ -1149,7 +1149,7 @@
       "issue_manager": "Himalayan Capital Limited"
     },
     {
-      "symbol": "HFIL",
+      "symbol": "HFIN",
       "company": "Hotel Forest Inn Limited",
       "unit": "400,000.00",
       "price": "100.00",
