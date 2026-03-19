@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "UAIL",
+      "company": "United Ajod Insurance Limited",
+      "ratio": "100:10",
+      "unit": "2,310,000.00",
+      "price": "100.00",
+      "opening_date": "2026-04-09",
+      "closing_date": "2026-04-29",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
+    },
+    {
       "symbol": "HPPL",
       "company": "Himalayan Power Partner Limited",
       "ratio": "1:0.5",
@@ -191,16 +201,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "UAIL",
-      "company": "United Ajod Insurance Limited",
-      "ratio": "1:0.10",
-      "unit": "2,310,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
       "symbol": "BNHC",
