@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "BNHC",
+      "company": "Buddha Bhumi Nepal Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "4,000,000.00",
+      "price": "100.00",
+      "opening_date": "2026-04-05",
+      "closing_date": "2026-04-26",
+      "issue_manager": "NIC Asia Capital"
+    },
+    {
       "symbol": "UAIL",
       "company": "United Ajod Insurance Limited",
       "ratio": "100:10",
@@ -201,16 +211,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "BNHC",
-      "company": "Buddha Bhumi Nepal Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "4,000,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NIC Asia Capital"
     },
     {
       "symbol": "RFPL",
