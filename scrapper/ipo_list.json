@@ -100,7 +100,7 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
-      "symbol": "RIDGE",
+      "symbol": "RLEL",
       "company": "Ridge Line Energy Limited",
       "unit": "1,180,260.00",
       "price": "100.00",
@@ -666,7 +666,7 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "RIDGE",
+      "symbol": "RLEL",
       "company": "Ridge Line Energy Limited",
       "unit": "1,185,000.00",
       "price": "100.00",
@@ -754,7 +754,7 @@
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2026-03-12",
-      "closing_date": "2026-03-26",
+      "closing_date": "2026-03-25",
       "issue_manager": "Garima Capital Limited"
     },
     {
@@ -1248,7 +1248,7 @@
       "issue_manager": "Kumari Capital Limited"
     },
     {
-      "symbol": "RIDGE",
+      "symbol": "RLEL",
       "company": "Ridge Line Energy Limited",
       "unit": "142,200.00",
       "price": "100.00",
