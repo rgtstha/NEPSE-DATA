@@ -10,6 +10,15 @@
       "issue_manager": "RBB Merchant Banking Ltd"
     },
     {
+      "symbol": "APPOLO",
+      "company": "Appolo Hydropower Limited",
+      "unit": "780,200.00",
+      "price": "100.00",
+      "opening_date": "2026-04-09",
+      "closing_date": "2026-04-13",
+      "issue_manager": "Himalayan Capital Limited"
+    },
+    {
       "symbol": "SOPL",
       "company": "Sopan Pharmaceuticals Limited",
       "unit": "3,474,900.00",
@@ -53,15 +62,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "APPOLO",
-      "company": "Appolo Hydropower Limited",
-      "unit": "1,410,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Himalayan Capital Limited"
     },
     {
       "symbol": "SKHL",
@@ -967,7 +967,7 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "NABIL8",
+      "symbol": "NABILPNP",
       "company": "8% Nabil Perpetual Non cumulative Preference Share",
       "unit": "50,000,000.00",
       "price": "100.00",
