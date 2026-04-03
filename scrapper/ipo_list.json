@@ -203,6 +203,16 @@
       "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
+      "symbol": "DORDI",
+      "company": "Dordi Khola Hydropower Company Limited",
+      "ratio": "1:0.56621279",
+      "unit": "11,938,714.58",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "HPPL",
       "company": "Himalayan Power Partner Limited",
       "ratio": "1:0.5",
@@ -370,16 +380,6 @@
       "price": "100.00",
       "opening_date": "2025-04-01",
       "closing_date": "2025-04-27",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "NIL",
-      "company": "Neco Insurance Limited",
-      "ratio": "1:0.25",
-      "unit": "5,030,901.55",
-      "price": "100.00",
-      "opening_date": "2025-02-20",
-      "closing_date": "2025-03-27",
       "issue_manager": "Sanima Capital Limited"
     }
   ],
