@@ -6,7 +6,7 @@
       "unit": "780,200.00",
       "price": "100.00",
       "opening_date": "2026-04-09",
-      "closing_date": "2026-04-13",
+      "closing_date": "2026-04-15",
       "issue_manager": "Himalayan Capital Limited"
     },
     {
@@ -203,6 +203,16 @@
       "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
+      "symbol": "HPPL",
+      "company": "Himalayan Power Partner Limited",
+      "ratio": "1:0.5",
+      "unit": "5,327,085.00",
+      "price": "100.00",
+      "opening_date": "2026-04-30",
+      "closing_date": "2026-05-20",
+      "issue_manager": "Global IME Capital Limited"
+    },
+    {
       "symbol": "DORDI",
       "company": "Dordi Khola Hydropower Company Limited",
       "ratio": "1:0.56621279",
@@ -211,16 +221,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "HPPL",
-      "company": "Himalayan Power Partner Limited",
-      "ratio": "1:0.5",
-      "unit": "5,327,085.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Limited"
     },
     {
       "symbol": "UPCL",
