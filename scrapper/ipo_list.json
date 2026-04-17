@@ -749,6 +749,24 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "SEF2",
+      "company": "Siddhartha Equity Fund 2",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Siddhartha Capital Limited"
+    },
+    {
+      "symbol": "LSH12",
+      "company": "LS Horizon 12",
+      "unit": "120,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Laxmi Sunrise Capital Limited"
+    },
+    {
       "symbol": "GSYA",
       "company": "Garima Subarna Yojana",
       "unit": "100,000,000.00",
@@ -909,24 +927,6 @@
       "opening_date": "2024-02-11",
       "closing_date": "2024-02-25",
       "issue_manager": "Kumari Capital Ltd"
-    },
-    {
-      "symbol": "NIBLSTF",
-      "company": "NIBL Stable Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2024-01-16",
-      "closing_date": "2024-01-30",
-      "issue_manager": "NIMB Ace Capital Limited"
-    },
-    {
-      "symbol": "NICGF2",
-      "company": "NIC Asia Growth Fund 2",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2023-11-20",
-      "closing_date": "2023-12-04",
-      "issue_manager": "Nic Asia Capital Ltd."
     }
   ],
   "bonds_debentures": [
