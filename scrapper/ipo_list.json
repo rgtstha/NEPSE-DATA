@@ -1,186 +1,5 @@
 {
-  "ipo_list": [
-    {
-      "symbol": "APPOLO",
-      "company": "Appolo Hydropower Limited",
-      "unit": "780,200.00",
-      "price": "100.00",
-      "opening_date": "2026-04-09",
-      "closing_date": "2026-04-15",
-      "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "SOPL",
-      "company": "Sopan Pharmaceuticals Limited",
-      "unit": "3,474,900.00",
-      "price": "100.00",
-      "opening_date": "2026-04-16",
-      "closing_date": "2026-04-21",
-      "issue_manager": "NMB Capital Limited"
-    },
-    {
-      "symbol": "SGHL",
-      "company": "Sanigad Hydro Limited",
-      "unit": "8,550,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "LS Capital Limited"
-    },
-    {
-      "symbol": "KHL",
-      "company": "Kalanga Hydro Limited",
-      "unit": "4,900,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "YAMBALING",
-      "company": "Yambaling Hydropower Limited",
-      "unit": "2,800,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "SRL",
-      "company": "Snow Rivers Limited",
-      "unit": "1,875,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "SKHL",
-      "company": "Super Khudi Hydropower Limited",
-      "unit": "1,286,500.00",
-      "price": "100.00",
-      "opening_date": "2026-02-17",
-      "closing_date": "2026-02-23",
-      "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "SIPD",
-      "company": "Shikhar Power Development Limited",
-      "unit": "1,842,600.00",
-      "price": "100.00",
-      "opening_date": "2026-03-01",
-      "closing_date": "2026-03-10",
-      "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "KHPL",
-      "company": "Kalinchowk Hydropower Limited",
-      "unit": "684,750.00",
-      "price": "100.00",
-      "opening_date": "2026-04-05",
-      "closing_date": "2026-04-08",
-      "issue_manager": "RBB Merchant Banking Ltd"
-    },
-    {
-      "symbol": "PCIL",
-      "company": "Palpa Cements Industries Limited",
-      "unit": "4,500,000.00",
-      "price": "100.00",
-      "opening_date": "2026-02-24",
-      "closing_date": "2026-02-27",
-      "issue_manager": "Nabil Investment Banking Ltd."
-    },
-    {
-      "symbol": "HFIN",
-      "company": "Hotel Forest Inn Limited",
-      "unit": "3,320,000.00",
-      "price": "100.00",
-      "opening_date": "2026-02-05",
-      "closing_date": "2026-02-09",
-      "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "RLEL",
-      "company": "Ridge Line Energy Limited",
-      "unit": "1,180,260.00",
-      "price": "100.00",
-      "opening_date": "2026-02-11",
-      "closing_date": "2026-02-16",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "SKHEL",
-      "company": "Suryakunda Hydro Electric Limited",
-      "unit": "572,431.00",
-      "price": "100.00",
-      "opening_date": "2026-02-01",
-      "closing_date": "2026-02-04",
-      "issue_manager": "Kumari Capital Limited"
-    },
-    {
-      "symbol": "BJHL",
-      "company": "Bhujung Hydropower Limited",
-      "unit": "830,000.00",
-      "price": "100.00",
-      "opening_date": "2026-01-26",
-      "closing_date": "2026-01-29",
-      "issue_manager": "Kumari Capital Limited"
-    },
-    {
-      "symbol": "SOHL",
-      "company": "Solu Hydropower Limited",
-      "unit": "8,200,000.00",
-      "price": "100.00",
-      "opening_date": "2026-01-13",
-      "closing_date": "2026-01-18",
-      "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "SABBL",
-      "company": "Salapa Bikas Bank Limited",
-      "unit": "1,439,179.00",
-      "price": "100.00",
-      "opening_date": "2025-12-31",
-      "closing_date": "2026-01-04",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "RSML",
-      "company": "Reliance Spinning Mills Limited",
-      "unit": "924,768.00",
-      "price": "820.80",
-      "opening_date": "2025-12-22",
-      "closing_date": "2025-12-26",
-      "issue_manager": "Global IME Capital Limited"
-    },
-    {
-      "symbol": "SYPNL",
-      "company": "SY Panel Nepal Limited",
-      "unit": "4,076,156.00",
-      "price": "100.00",
-      "opening_date": "2025-11-05",
-      "closing_date": "2025-11-09",
-      "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "SAIL",
-      "company": "Shreenagar Agritech Industries Limited",
-      "unit": "2,510,493.00",
-      "price": "100.00",
-      "opening_date": "2025-10-12",
-      "closing_date": "2025-10-15",
-      "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "JHAPA",
-      "company": "Jhapa Energy Limited",
-      "unit": "473,336.00",
-      "price": "100.00",
-      "opening_date": "2025-09-05",
-      "closing_date": "2025-09-15",
-      "issue_manager": "Himalayan Capital Limited"
-    }
-  ],
+  "ipo_list": [],
   "right_share_list": [
     {
       "symbol": "BNHC",
@@ -567,6 +386,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "MEPDL",
+      "company": "Mount Everest Power Development Limited",
+      "unit": "860,000.00",
+      "price": "100.00",
+      "opening_date": "2026-04-30",
+      "closing_date": "2026-05-14",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "SGHL",
       "company": "Sanigad Hydro Limited",
       "unit": "2,850,000.00",
@@ -736,15 +564,6 @@
       "opening_date": "2025-07-22",
       "closing_date": "2025-08-05",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "BUNGAL",
-      "company": "Bungal Hydro Limited",
-      "unit": "830,000.00",
-      "price": "100.00",
-      "opening_date": "2025-07-13",
-      "closing_date": "2025-08-11",
-      "issue_manager": "Himalayan Capital Limited"
     }
   ],
   "mutual_fund": [
@@ -753,8 +572,8 @@
       "company": "Siddhartha Equity Fund 2",
       "unit": "100,000,000.00",
       "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2026-05-04",
+      "closing_date": "2026-05-07",
       "issue_manager": "Siddhartha Capital Limited"
     },
     {
@@ -1113,6 +932,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "MEPDL",
+      "company": "Mount Everest Power Development Limited",
+      "unit": "172,000.00",
+      "price": "100.00",
+      "opening_date": "2026-04-30",
+      "closing_date": "2026-05-06",
+      "issue_manager": "NIMB Ace Capital Limited"
+    },
+    {
       "symbol": "ECL",
       "company": "Everest Colour Limited",
       "unit": "79,000.00",
@@ -1282,15 +1110,6 @@
       "opening_date": "2025-12-11",
       "closing_date": "2025-12-15",
       "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "SOHL",
-      "company": "Solu Hydropower Limited",
-      "unit": "1,000,000.00",
-      "price": "100.00",
-      "opening_date": "2025-11-23",
-      "closing_date": "2025-11-26",
-      "issue_manager": "Nabil Investment Banking Limited"
     }
   ]
 }
