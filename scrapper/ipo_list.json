@@ -10,6 +10,15 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
+      "symbol": "TAKSAR",
+      "company": "Taksar Pikhuwa Khola Hydropower Limited",
+      "unit": "2,515,455.00",
+      "price": "100.00",
+      "opening_date": "2026-05-06",
+      "closing_date": "2026-05-11",
+      "issue_manager": "Prabhu Capital Limited"
+    },
+    {
       "symbol": "SGHL",
       "company": "Sanigad Hydro Limited",
       "unit": "8,550,000.00",
@@ -170,15 +179,6 @@
       "opening_date": "2025-10-12",
       "closing_date": "2025-10-15",
       "issue_manager": "Nabil Investment Banking Limited"
-    },
-    {
-      "symbol": "JHAPA",
-      "company": "Jhapa Energy Limited",
-      "unit": "473,336.00",
-      "price": "100.00",
-      "opening_date": "2025-09-05",
-      "closing_date": "2025-09-15",
-      "issue_manager": "Himalayan Capital Limited"
     }
   ],
   "right_share_list": [
@@ -189,7 +189,7 @@
       "unit": "4,000,000.00",
       "price": "100.00",
       "opening_date": "2026-04-05",
-      "closing_date": "2026-04-26",
+      "closing_date": "2026-05-11",
       "issue_manager": "NIC Asia Capital"
     },
     {
