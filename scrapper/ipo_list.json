@@ -19,6 +19,15 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
+      "symbol": "SRL",
+      "company": "Snow Rivers Limited",
+      "unit": "778,125.00",
+      "price": "100.00",
+      "opening_date": "2026-05-12",
+      "closing_date": "2026-05-15",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
       "symbol": "SGHL",
       "company": "Sanigad Hydro Limited",
       "unit": "8,550,000.00",
@@ -31,15 +40,6 @@
       "symbol": "KHL",
       "company": "Kalanga Hydro Limited",
       "unit": "4,900,000.00",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "SRL",
-      "company": "Snow Rivers Limited",
-      "unit": "1,875,000.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
@@ -758,12 +758,30 @@
       "issue_manager": "Siddhartha Capital Limited"
     },
     {
+      "symbol": "SAEF2",
+      "company": "Sanima Equity Fund II",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2026-05-07",
+      "closing_date": "2026-05-12",
+      "issue_manager": "Sanima Capital Limited"
+    },
+    {
+      "symbol": "RSY2",
+      "company": "Reliable Samriddhi Yojana-2",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2026-05-12",
+      "closing_date": "2026-05-15",
+      "issue_manager": "Reliable Investment and Merchant Capital Limited"
+    },
+    {
       "symbol": "LSH12",
       "company": "LS Horizon 12",
       "unit": "120,000,000.00",
       "price": "10.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
+      "opening_date": "2026-05-13",
+      "closing_date": "2026-05-18",
       "issue_manager": "Laxmi Sunrise Capital Limited"
     },
     {
@@ -909,24 +927,6 @@
       "opening_date": "2024-12-22",
       "closing_date": "2024-12-26",
       "issue_manager": "Garima Capital Limited"
-    },
-    {
-      "symbol": "MNMF1",
-      "company": "Muktinath Mutual Fund 1",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2024-12-05",
-      "closing_date": "2024-12-10",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
-      "symbol": "KSY",
-      "company": "Kumari Sabal Yojana",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2024-02-11",
-      "closing_date": "2024-02-25",
-      "issue_manager": "Kumari Capital Ltd"
     }
   ],
   "bonds_debentures": [
