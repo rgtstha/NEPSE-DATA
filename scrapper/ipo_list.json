@@ -749,6 +749,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "RSY2",
+      "company": "Reliable Samriddhi Yojana-2",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "2026-05-12",
+      "closing_date": "2026-05-22",
+      "issue_manager": "Reliable Investment and Merchant Capital Limited"
+    },
+    {
       "symbol": "SAEF2",
       "company": "Sanima Equity Fund II",
       "unit": "100,000,000.00",
@@ -756,15 +765,6 @@
       "opening_date": "2026-05-07",
       "closing_date": "2026-05-18",
       "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "RSY2",
-      "company": "Reliable Samriddhi Yojana-2",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2026-05-12",
-      "closing_date": "2026-05-26",
-      "issue_manager": "Reliable Investment and Merchant Capital Limited"
     },
     {
       "symbol": "LSH12",
