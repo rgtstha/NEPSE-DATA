@@ -19,22 +19,22 @@
       "issue_manager": "LS Capital Limited"
     },
     {
-      "symbol": "SARVOTTAM",
-      "company": "Sarvottam Paints Industries Limited",
-      "unit": "850,000.00",
+      "symbol": "ECL",
+      "company": "Everest Colour Limited",
+      "unit": "655,700.00",
+      "price": "100.00",
+      "opening_date": "2026-06-05",
+      "closing_date": "2026-06-10",
+      "issue_manager": "Muktinath Capital Limited"
+    },
+    {
+      "symbol": "BENI",
+      "company": "Beni Hydropower Project Limited",
+      "unit": "2,080,000.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
-      "issue_manager": "Global IME Capital Ltd"
-    },
-    {
-      "symbol": "ECL",
-      "company": "Everest Colour Limited",
-      "unit": "780,000.00",
-      "price": "50.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Muktinath Capital Limited"
+      "issue_manager": "NMB Capital Limited"
     },
     {
       "symbol": "MEPDL",
@@ -46,13 +46,13 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "BENI",
-      "company": "Beni Hydropower Project Limited",
-      "unit": "2,080,000.00",
+      "symbol": "SARVOTTAM",
+      "company": "Sarvottam Paints Industries Limited",
+      "unit": "850,000.00",
       "price": "100.00",
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
-      "issue_manager": "NMB Capital Limited"
+      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "SRL",
@@ -82,13 +82,13 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "SOPL",
-      "company": "Sopan Pharmaceuticals Limited",
-      "unit": "3,474,900.00",
+      "symbol": "KHPL",
+      "company": "Kalinchowk Hydropower Limited",
+      "unit": "684,750.00",
       "price": "100.00",
-      "opening_date": "2026-04-16",
-      "closing_date": "2026-04-21",
-      "issue_manager": "NMB Capital Limited"
+      "opening_date": "2026-04-05",
+      "closing_date": "2026-04-08",
+      "issue_manager": "RBB Merchant Banking Ltd"
     },
     {
       "symbol": "APPOLO",
@@ -100,13 +100,13 @@
       "issue_manager": "Himalayan Capital Limited"
     },
     {
-      "symbol": "KHPL",
-      "company": "Kalinchowk Hydropower Limited",
-      "unit": "684,750.00",
+      "symbol": "SOPL",
+      "company": "Sopan Pharmaceuticals Limited",
+      "unit": "3,474,900.00",
       "price": "100.00",
-      "opening_date": "2026-04-05",
-      "closing_date": "2026-04-08",
-      "issue_manager": "RBB Merchant Banking Ltd"
+      "opening_date": "2026-04-16",
+      "closing_date": "2026-04-21",
+      "issue_manager": "NMB Capital Limited"
     },
     {
       "symbol": "SIPD",
@@ -203,16 +203,6 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
-      "symbol": "UPCL",
-      "company": "Universal Power Company Limited",
-      "ratio": "1:1",
-      "unit": "24,851,236.18",
-      "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Mukinath Capital Limited"
-    },
-    {
       "symbol": "BNHC",
       "company": "Buddha Bhumi Nepal Hydropower Company Limited",
       "ratio": "1:1",
@@ -221,6 +211,16 @@
       "opening_date": "2026-04-05",
       "closing_date": "2026-05-11",
       "issue_manager": "NIC Asia Capital"
+    },
+    {
+      "symbol": "UPCL",
+      "company": "Universal Power Company Limited",
+      "ratio": "1:1",
+      "unit": "24,851,236.18",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Mukinath Capital Limited"
     },
     {
       "symbol": "UAIL",
