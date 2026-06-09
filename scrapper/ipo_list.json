@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "SGHL",
-      "company": "Sanigad Hydro Limited",
-      "unit": "4,674,000.00",
-      "price": "100.00",
-      "opening_date": "2026-06-01",
-      "closing_date": "2026-06-04",
-      "issue_manager": "LS Capital Limited"
-    },
-    {
       "symbol": "ECL",
       "company": "Everest Colour Limited",
       "unit": "655,700.00",
@@ -44,6 +35,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "SGHL",
+      "company": "Sanigad Hydro Limited",
+      "unit": "4,674,000.00",
+      "price": "100.00",
+      "opening_date": "2026-06-01",
+      "closing_date": "2026-06-04",
+      "issue_manager": "LS Capital Limited"
     },
     {
       "symbol": "KHL",
@@ -91,7 +91,7 @@
       "issue_manager": "RBB Merchant Banking Ltd"
     },
     {
-      "symbol": "APPOLO",
+      "symbol": "APHL",
       "company": "Appolo Hydropower Limited",
       "unit": "780,200.00",
       "price": "100.00",
@@ -630,7 +630,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "APPOLO",
+      "symbol": "APHL",
       "company": "Appolo Hydropower Limited",
       "unit": "470,000.00",
       "price": "100.00",
@@ -1212,7 +1212,7 @@
       "issue_manager": "RBB Merchant Banking Ltd"
     },
     {
-      "symbol": "APPOLO",
+      "symbol": "APHL",
       "company": "Appolo Hydropower Limited",
       "unit": "94,000.00",
       "price": "100.00",
