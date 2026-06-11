@@ -1,15 +1,6 @@
 {
   "ipo_list": [
     {
-      "symbol": "ECL",
-      "company": "Everest Colour Limited",
-      "unit": "655,700.00",
-      "price": "100.00",
-      "opening_date": "2026-06-05",
-      "closing_date": "2026-06-10",
-      "issue_manager": "Muktinath Capital Limited"
-    },
-    {
       "symbol": "SARVOTTAM",
       "company": "Sarvottam Paints Industries Limited",
       "unit": "705,500.00",
@@ -35,6 +26,15 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NMB Capital Limited"
+    },
+    {
+      "symbol": "ECL",
+      "company": "Everest Colour Limited",
+      "unit": "655,700.00",
+      "price": "100.00",
+      "opening_date": "2026-06-05",
+      "closing_date": "2026-06-10",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "SGHL",
