@@ -1,13 +1,13 @@
 {
   "ipo_list": [
     {
-      "symbol": "SARVOTTAM",
-      "company": "Sarvottam Paints Industries Limited",
-      "unit": "705,500.00",
+      "symbol": "BENI",
+      "company": "Beni Hydropower Project Limited",
+      "unit": "2,080,000.00",
       "price": "100.00",
-      "opening_date": "2026-06-11",
-      "closing_date": "2026-06-16",
-      "issue_manager": "Global IME Capital Ltd"
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NMB Capital Limited"
     },
     {
       "symbol": "MEPDL",
@@ -19,13 +19,13 @@
       "issue_manager": "NIMB Ace Capital Limited"
     },
     {
-      "symbol": "BENI",
-      "company": "Beni Hydropower Project Limited",
-      "unit": "2,080,000.00",
+      "symbol": "SARVOTTAM",
+      "company": "Sarvottam Paints Industries Limited",
+      "unit": "705,500.00",
       "price": "100.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "NMB Capital Limited"
+      "opening_date": "2026-06-11",
+      "closing_date": "2026-06-16",
+      "issue_manager": "Global IME Capital Ltd"
     },
     {
       "symbol": "ECL",
@@ -64,7 +64,7 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "TAKSAR",
+      "symbol": "TPKHL",
       "company": "Taksar Pikhuwa Khola Hydropower Limited",
       "unit": "2,515,455.00",
       "price": "100.00",
@@ -621,7 +621,7 @@
       "issue_manager": "NMB Capital Limited"
     },
     {
-      "symbol": "TAKSAR",
+      "symbol": "TPKHL",
       "company": "Taksar Pikhuwa Khola Hydropower Limited",
       "unit": "1,200,000.00",
       "price": "100.00",
@@ -1185,7 +1185,7 @@
       "issue_manager": "Muktinath Capital Limited"
     },
     {
-      "symbol": "TAKSAR",
+      "symbol": "TPKHL",
       "company": "Taksar Pikhuwa Khola Hydropower Limited",
       "unit": "303,067.00",
       "price": "100.00",
