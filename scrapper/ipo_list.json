@@ -931,6 +931,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "PBD93",
+      "company": "6.25% Prime Bank Debenture 2093",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2026-06-30",
+      "closing_date": "2026-07-03",
+      "issue_manager": "Sanima Capital Limted"
+    },
+    {
       "symbol": "SBLPNP",
       "company": "SBL 8.25% Perpetual Non cumulative Preference Share",
       "unit": "35,000,000.00",
@@ -1100,15 +1109,6 @@
       "opening_date": "2023-10-19",
       "closing_date": "2023-10-30",
       "issue_manager": "Nabil Investment Bank Limited"
-    },
-    {
-      "symbol": "CIZBD90",
-      "company": "10% Citizens Bank Debenture 2090",
-      "unit": "3,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2023-10-04",
-      "closing_date": "2023-10-09",
-      "issue_manager": "Himalayan Capital Limited"
     }
   ],
   "ipo_to_migrant_workers": [
