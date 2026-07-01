@@ -46,7 +46,7 @@
       "issue_manager": "LS Capital Limited"
     },
     {
-      "symbol": "KHL",
+      "symbol": "KAHL",
       "company": "Kalanga Hydro Limited",
       "unit": "2,870,000.00",
       "price": "100.00",
@@ -585,7 +585,7 @@
       "issue_manager": "LS Capital Limited"
     },
     {
-      "symbol": "KHL",
+      "symbol": "KAHL",
       "company": "Kalanga Hydro Limited",
       "unit": "1,400,000.00",
       "price": "100.00",
@@ -994,6 +994,15 @@
       "issue_manager": "NIC Asia Capital Limited"
     },
     {
+      "symbol": "LSD2092",
+      "company": "7% Laxmi Sunrise Debenture 2092",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Machapuchhre Capital Limited"
+    },
+    {
       "symbol": "NABILD2089",
       "company": "7% Nabil Debenture 2089",
       "unit": "3,000,000.00",
@@ -1100,15 +1109,6 @@
       "opening_date": "2023-12-15",
       "closing_date": "2023-12-19",
       "issue_manager": "Kumari Capital Limited"
-    },
-    {
-      "symbol": "KBLD90",
-      "company": "10% KBL Debenture 2090",
-      "unit": "5,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "2023-10-19",
-      "closing_date": "2023-10-30",
-      "issue_manager": "Nabil Investment Bank Limited"
     }
   ],
   "ipo_to_migrant_workers": [
@@ -1140,7 +1140,7 @@
       "issue_manager": "Global IME Capital Ltd"
     },
     {
-      "symbol": "KHL",
+      "symbol": "KAHL",
       "company": "Kalanga Hydro Limited",
       "unit": "350,000.00",
       "price": "100.00",
