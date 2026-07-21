@@ -931,6 +931,15 @@
   ],
   "bonds_debentures": [
     {
+      "symbol": "LSD2092",
+      "company": "7% Laxmi Sunrise Debenture 2092",
+      "unit": "3,000,000.00",
+      "price": "1,000.00",
+      "opening_date": "2026-07-30",
+      "closing_date": "2026-08-04",
+      "issue_manager": "Machapuchhre Capital Limited"
+    },
+    {
       "symbol": "PBD93",
       "company": "6.25% Prime Bank Debenture 2093",
       "unit": "3,000,000.00",
@@ -992,15 +1001,6 @@
       "opening_date": "Coming Soon",
       "closing_date": "Coming Soon",
       "issue_manager": "NIC Asia Capital Limited"
-    },
-    {
-      "symbol": "LSD2092",
-      "company": "7% Laxmi Sunrise Debenture 2092",
-      "unit": "3,000,000.00",
-      "price": "1,000.00",
-      "opening_date": "Coming Soon",
-      "closing_date": "Coming Soon",
-      "issue_manager": "Machapuchhre Capital Limited"
     },
     {
       "symbol": "NABILD2089",
