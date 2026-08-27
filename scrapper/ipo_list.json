@@ -183,6 +183,16 @@
   ],
   "right_share_list": [
     {
+      "symbol": "UHEWA",
+      "company": "Upper Hewakhola Hydropower Company Limited",
+      "ratio": "1:1",
+      "unit": "5,750,000.00",
+      "price": "100.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": ""
+    },
+    {
       "symbol": "DORDI",
       "company": "Dordi Khola Hydropower Company Limited",
       "ratio": "1:0.56621279",
@@ -371,16 +381,6 @@
       "opening_date": "2025-05-13",
       "closing_date": "2025-06-17",
       "issue_manager": "Nepal SBI Merchant Banking Limited"
-    },
-    {
-      "symbol": "DORDI",
-      "company": "Dordi Khola Hydropower Company Limited",
-      "ratio": "1:1",
-      "unit": "10,542,604.00",
-      "price": "100.00",
-      "opening_date": "2025-04-01",
-      "closing_date": "2025-04-27",
-      "issue_manager": "Sanima Capital Limited"
     }
   ],
   "fpo_list": [
@@ -749,6 +749,15 @@
   ],
   "mutual_fund": [
     {
+      "symbol": "EOQ",
+      "company": "NIC ASIA Equity Opportunity Fund",
+      "unit": "80,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "NIC Asia Capital Limited"
+    },
+    {
       "symbol": "RSY2",
       "company": "Reliable Samriddhi Yojana-2",
       "unit": "100,000,000.00",
@@ -819,6 +828,15 @@
       "opening_date": "2025-11-30",
       "closing_date": "2025-12-03",
       "issue_manager": "Machhapuchchhre Capital Limited"
+    },
+    {
+      "symbol": "MNMF2",
+      "company": "Muktinath Mutual Fund 2",
+      "unit": "100,000,000.00",
+      "price": "10.00",
+      "opening_date": "Coming Soon",
+      "closing_date": "Coming Soon",
+      "issue_manager": "Muktinath Capital Limited"
     },
     {
       "symbol": "HLICF",
@@ -909,24 +927,6 @@
       "opening_date": "2025-02-06",
       "closing_date": "2025-02-20",
       "issue_manager": "NMB Capital Ltd"
-    },
-    {
-      "symbol": "SFF",
-      "company": "Sanima Flexi Fund",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2025-02-18",
-      "closing_date": "2025-02-27",
-      "issue_manager": "Sanima Capital Limited"
-    },
-    {
-      "symbol": "GSY",
-      "company": "Garima Samriddhi Yojana",
-      "unit": "100,000,000.00",
-      "price": "10.00",
-      "opening_date": "2024-12-22",
-      "closing_date": "2024-12-26",
-      "issue_manager": "Garima Capital Limited"
     }
   ],
   "bonds_debentures": [
