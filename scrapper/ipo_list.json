@@ -754,7 +754,7 @@
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2026-09-17",
-      "closing_date": "2026-09-22",
+      "closing_date": "2026-10-01",
       "issue_manager": "Muktinath Capital Limited"
     },
     {
@@ -931,7 +931,7 @@
   ],
   "bonds_debentures": [
     {
-      "symbol": "LSD2092",
+      "symbol": "LSD92",
       "company": "7% Laxmi Sunrise Debenture 2092",
       "unit": "3,000,000.00",
       "price": "1,000.00",
