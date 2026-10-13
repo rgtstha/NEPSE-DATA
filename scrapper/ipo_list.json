@@ -10,7 +10,7 @@
       "issue_manager": "Citizens Capital Limited"
     },
     {
-      "symbol": "BENI",
+      "symbol": "BENH",
       "company": "Beni Hydropower Project Limited",
       "unit": "863,200.00",
       "price": "100.00",
@@ -567,6 +567,15 @@
   ],
   "ipo_local": [
     {
+      "symbol": "HPHL",
+      "company": "Him Parbat Hydropower Limited",
+      "unit": "1,690,000.00",
+      "price": "100.00",
+      "opening_date": "2026-10-28",
+      "closing_date": "2026-11-11",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
       "symbol": "MEPDL",
       "company": "Mount Everest Power Development Limited",
       "unit": "860,000.00",
@@ -612,7 +621,7 @@
       "issue_manager": "Sanima Capital Limited"
     },
     {
-      "symbol": "BENI",
+      "symbol": "BENH",
       "company": "Beni Hydropower Project Limited",
       "unit": "1,040,000.00",
       "price": "100.00",
@@ -736,15 +745,6 @@
       "opening_date": "2025-07-30",
       "closing_date": "2025-08-13",
       "issue_manager": "Himalayan Capital Limited"
-    },
-    {
-      "symbol": "BANDIPUR",
-      "company": "Bandipur Cable Car and Tourism Limited",
-      "unit": "566,000.00",
-      "price": "100.00",
-      "opening_date": "2025-07-22",
-      "closing_date": "2025-08-05",
-      "issue_manager": "Nepal SBI Merchant Banking Limited"
     }
   ],
   "mutual_fund": [
@@ -786,7 +786,7 @@
     },
     {
       "symbol": "SAEF2",
-      "company": "Sanima Equity Fund II",
+      "company": "Sanima Equity Fund-2",
       "unit": "100,000,000.00",
       "price": "10.00",
       "opening_date": "2026-05-07",
@@ -1113,6 +1113,15 @@
   ],
   "ipo_to_migrant_workers": [
     {
+      "symbol": "HPHL",
+      "company": "Him Parbat Hydropower Limited",
+      "unit": "422,500.00",
+      "price": "100.00",
+      "opening_date": "2026-10-28",
+      "closing_date": "2026-11-02",
+      "issue_manager": "Citizens Capital Limited"
+    },
+    {
       "symbol": "ECL",
       "company": "Everest Colour Limited",
       "unit": "79,000.00",
@@ -1194,7 +1203,7 @@
       "issue_manager": "Prabhu Capital Limited"
     },
     {
-      "symbol": "BENI",
+      "symbol": "BENH",
       "company": "Beni Hydropower Project Limited",
       "unit": "104,000.00",
       "price": "100.00",
@@ -1282,15 +1291,6 @@
       "opening_date": "2025-12-28",
       "closing_date": "2026-01-01",
       "issue_manager": "Prabhu Capital Limited"
-    },
-    {
-      "symbol": "RSML",
-      "company": "Reliance Spinning Mills Limited",
-      "unit": "115,596.00",
-      "price": "820.80",
-      "opening_date": "2025-12-08",
-      "closing_date": "2025-12-11",
-      "issue_manager": "Global IME Capital Ltd"
     }
   ]
 }
